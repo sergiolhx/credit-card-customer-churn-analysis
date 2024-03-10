@@ -1,0 +1,1628 @@
+age_category,gender,dependent_count,education,marital,income_category,card_category,years_on_book,total_relationship_count,months_inactive_12_mon,contacts_count_12_mon,credit_limit,total_revolving_bal,avg_open_to_buy,total_trans_amt,total_trans_ct,avg_utilization_ratio
+60s,F,0,Graduate,Married,Less than $40K,Blue,4 - 5,2,3,3,1438,0,1438,692,16,,00
+60s,F,0,Doctorate,Married,Unknown,Blue,4 - 5,5,4,3,7882,605,7277,704,16,,08
+50s,F,1,Graduate,Married,Less than $40K,Blue,3 - 4,2,3,1,1438,808,630,705,19,,56
+50s,M,2,Graduate,Married,$120K +,Blue,2 - 3,1,3,3,15769,0,15769,602,15,,00
+40s,M,2,Graduate,Married,$60K - $80K,Silver,2 - 3,2,4,4,34516,0,34516,691,15,,00
+50s,F,4,Unknown,Married,$40K - $60K,Blue,3 - 4,2,4,3,2158,0,2158,615,12,,00
+40s,M,2,Unknown,Married,$80K - $120K,Blue,3 - 4,2,3,3,5449,1628,3821,836,18,,30
+50s,M,2,Graduate,Married,$80K - $120K,Blue,3 - 4,3,3,2,11669,2227,9442,720,23,,19
+40s,F,5,High School,Married,Less than $40K,Blue,3 - 4,1,3,3,8025,0,8025,673,18,,00
+50s,M,1,College,Single,$60K - $80K,Blue,4 - 5,2,3,3,14979,0,14979,530,10,,00
+40s,F,4,Uneducated,Married,Less than $40K,Blue,3 - 4,3,2,3,2732,0,2732,739,16,,00
+40s,M,5,Graduate,Single,$80K - $120K,Blue,2 - 3,6,3,3,32975,2517,30458,597,17,,08
+50s,M,2,Unknown,Married,$80K - $120K,Blue,2 - 3,2,2,1,3212,0,3212,757,20,,00
+60s,M,0,High School,Married,Less than $40K,Blue,4 - 5,1,3,2,1438,900,538,760,21,,63
+50s,F,2,Graduate,Married,Less than $40K,Blue,3 - 4,2,4,3,1438,0,1438,886,27,,00
+50s,M,2,Post-Graduate,Married,$60K - $80K,Blue,3 - 4,3,3,3,1438,0,1438,844,24,,00
+60s,F,1,Uneducated,Married,$40K - $60K,Blue,4 - 5,4,4,3,1438,1025,413,702,12,,71
+50s,M,1,Uneducated,Married,$80K - $120K,Blue,2 - 3,2,3,3,1857,1833,24,829,17,,99
+50s,F,2,Unknown,Married,Less than $40K,Blue,2 - 3,2,3,3,2859,2517,342,817,30,,88
+40s,M,5,College,Married,$40K - $60K,Blue,3 - 4,2,2,3,1438,0,1438,815,21,,00
+40s,F,2,College,Married,Less than $40K,Blue,2 - 3,1,3,2,3387,0,3387,510,24,,00
+40s,M,4,High School,Married,$120K +,Blue,2 - 3,3,3,3,2442,0,2442,701,19,,00
+50s,M,0,High School,Single,$40K - $60K,Blue,3 - 4,2,4,3,3616,1054,2562,687,17,,29
+50s,F,0,Post-Graduate,Married,$40K - $60K,Blue,3 - 4,1,4,1,1438,0,1438,689,23,,00
+60s,F,0,High School,Married,$40K - $60K,Blue,4 - 5,1,3,3,3353,0,3353,960,18,,00
+40s,M,2,Graduate,Single,$60K - $80K,Blue,2 - 3,1,1,2,3401,0,3401,744,18,,00
+50s,F,2,High School,Married,Unknown,Blue,3 - 4,3,3,1,6094,0,6094,909,14,,00
+40s,M,2,High School,Married,$120K +,Blue,2 - 3,3,3,3,27126,0,27126,1000,25,,00
+50s,F,4,Graduate,Married,Unknown,Blue,3 - 4,6,2,2,2532,2221,311,799,21,,88
+50s,M,3,Graduate,Married,$120K +,Blue,3 - 4,2,3,3,8249,1381,6868,678,11,,17
+50s,M,2,Unknown,Married,$40K - $60K,Blue,3 - 4,4,3,2,2902,2517,385,996,26,,87
+50s,M,1,Uneducated,Married,$40K - $60K,Blue,2 - 3,2,4,3,1438,537,901,715,13,,37
+40s,M,4,Post-Graduate,Unknown,$80K - $120K,Blue,2 - 3,2,5,3,5639,1547,4092,647,15,,27
+50s,M,2,Uneducated,Married,$120K +,Blue,3 - 4,3,3,3,3106,1120,1986,683,17,,36
+40s,M,3,College,Married,$60K - $80K,Blue,2 - 3,3,3,3,13450,0,13450,1000,18,,00
+40s,F,2,Graduate,Married,Less than $40K,Blue,1 - 2,3,3,3,1929,1673,256,857,36,,87
+40s,F,3,Graduate,Married,Less than $40K,Blue,3 - 4,6,3,2,2185,0,2185,715,20,,00
+30s,M,2,Uneducated,Single,$60K - $80K,Blue,2 - 3,5,3,3,13961,1299,12662,783,20,,09
+50s,F,4,Unknown,Married,Less than $40K,Blue,3 - 4,2,3,3,2536,0,2536,901,35,,00
+50s,F,1,Graduate,Single,Less than $40K,Blue,3 - 4,1,2,2,2317,0,2317,884,19,,00
+50s,F,2,Uneducated,Single,Less than $40K,Blue,3 - 4,1,1,1,1981,1518,463,973,25,,77
+50s,M,2,Graduate,Married,$60K - $80K,Blue,3 - 4,3,3,2,4320,0,4320,706,21,,00
+50s,M,2,Uneducated,Married,$80K - $120K,Blue,2 - 3,1,3,3,4503,0,4503,748,20,,00
+30s,M,3,Post-Graduate,Unknown,$80K - $120K,Blue,2 - 3,2,1,3,17030,1911,15119,715,25,,11
+40s,F,2,Uneducated,Single,Less than $40K,Blue,1 - 2,2,3,2,2962,2517,445,929,31,,85
+50s,M,2,College,Single,$120K +,Blue,4 - 5,2,2,3,16867,0,16867,654,14,,00
+50s,F,3,Post-Graduate,Single,Less than $40K,Blue,3 - 4,3,3,2,2972,0,2972,922,25,,00
+40s,F,3,Uneducated,Single,Unknown,Blue,2 - 3,3,3,3,4028,710,3318,791,22,,18
+50s,M,1,Unknown,Single,$120K +,Blue,3 - 4,3,2,3,27512,2137,25375,1149,25,,08
+50s,M,1,College,Married,$80K - $120K,Blue,3 - 4,3,3,3,12151,1799,10352,918,14,,15
+50s,F,2,Doctorate,Married,Unknown,Blue,3 - 4,1,2,3,1438,0,1438,807,22,,00
+40s,M,2,Graduate,Married,$60K - $80K,Blue,2 - 3,3,5,3,1438,0,1438,709,27,,00
+40s,F,2,Post-Graduate,Married,Less than $40K,Blue,3 - 4,3,3,1,1438,0,1438,974,28,,00
+50s,M,1,High School,Married,$60K - $80K,Blue,2 - 3,3,2,3,6705,0,6705,731,18,,00
+60s,M,0,High School,Married,$60K - $80K,Blue,4 - 5,3,3,2,8077,0,8077,906,16,,00
+50s,M,2,College,Married,$40K - $60K,Blue,4 - 5,2,5,3,6462,0,6462,761,17,,00
+40s,M,4,Unknown,Single,$80K - $120K,Blue,2 - 3,1,3,1,11862,2517,9345,643,16,,21
+50s,M,1,College,Married,$60K - $80K,Blue,3 - 4,5,3,3,1704,0,1704,660,17,,00
+50s,M,1,High School,Married,$60K - $80K,Blue,3 - 4,2,2,3,1438,0,1438,888,18,,00
+60s,M,1,Unknown,Married,$40K - $60K,Blue,4 - 5,1,2,2,5472,788,4684,705,14,,14
+40s,F,4,Uneducated,Married,Less than $40K,Blue,3 - 4,3,4,3,4908,0,4908,827,21,,00
+40s,F,3,Doctorate,Married,Less than $40K,Blue,3 - 4,6,1,3,7222,0,7222,920,18,,00
+50s,M,3,Uneducated,Married,$60K - $80K,Blue,3 - 4,3,2,2,2323,0,2323,804,15,,00
+50s,F,1,Unknown,Married,Less than $40K,Blue,2 - 3,4,1,3,1438,361,1077,850,22,,25
+50s,F,1,Graduate,Single,Less than $40K,Blue,2 - 3,2,2,3,1438,0,1438,799,17,,00
+40s,M,2,College,Married,$60K - $80K,Blue,2 - 3,6,1,3,7340,0,7340,838,24,,00
+50s,M,3,Doctorate,Single,$80K - $120K,Blue,2 - 3,4,1,3,20865,0,20865,837,25,,00
+50s,M,1,Graduate,Single,$80K - $120K,Blue,3 - 4,3,3,3,30271,1406,28865,3231,47,,05
+50s,F,2,Graduate,Married,Less than $40K,Blue,3 - 4,3,1,3,1438,306,1132,694,15,,21
+50s,M,4,High School,Married,$80K - $120K,Blue,3 - 4,2,2,2,27560,900,26660,646,10,,03
+40s,F,2,Unknown,Married,Less than $40K,Blue,2 - 3,5,1,3,7151,800,6351,854,22,,11
+60s,F,0,Graduate,Married,Less than $40K,Blue,4 - 5,3,3,3,2122,554,1568,949,17,,26
+40s,M,3,High School,Married,$80K - $120K,Blue,3 - 4,1,1,3,9959,0,9959,805,24,,00
+50s,M,4,High School,Married,$60K - $80K,Blue,3 - 4,3,3,3,2340,1930,410,781,15,,82
+60s,F,2,Graduate,Married,Less than $40K,Blue,4 - 5,4,2,2,2490,513,1977,864,20,,21
+40s,M,3,Unknown,Married,$40K - $60K,Blue,2 - 3,2,2,3,1438,0,1438,891,28,,00
+50s,M,3,Unknown,Married,$60K - $80K,Blue,3 - 4,5,3,2,12248,0,12248,767,25,,00
+50s,F,1,Unknown,Married,Unknown,Blue,4 - 5,3,2,3,1438,0,1438,724,16,,00
+40s,F,4,College,Married,Less than $40K,Blue,1 - 2,6,2,3,7706,392,7314,965,27,,05
+50s,M,2,Graduate,Married,$40K - $60K,Blue,3 - 4,2,3,3,4085,2238,1847,596,15,,55
+40s,M,2,Uneducated,Married,$60K - $80K,Blue,1 - 2,2,3,3,14447,0,14447,915,29,,00
+50s,F,3,Uneducated,Single,Less than $40K,Blue,2 - 3,6,3,1,9786,0,9786,820,25,,00
+60s,F,1,High School,Married,Unknown,Blue,4 - 5,2,1,2,8990,0,8990,747,19,,00
+40s,M,3,Doctorate,Single,$60K - $80K,Blue,2 - 3,3,3,2,3312,0,3312,647,19,,00
+50s,M,1,Graduate,Single,$80K - $120K,Blue,2 - 3,2,3,2,10244,861,9383,1127,29,,08
+50s,M,2,High School,Married,$120K +,Blue,3 - 4,4,3,1,7474,0,7474,732,21,,00
+50s,M,3,High School,Married,$80K - $120K,Blue,2 - 3,2,3,4,9457,350,9107,1196,28,,04
+40s,F,3,Graduate,Single,Less than $40K,Blue,2 - 3,2,2,3,8551,1067,7484,1097,32,,13
+50s,M,5,High School,Married,$60K - $80K,Blue,2 - 3,5,2,3,14539,0,14539,965,26,,00
+40s,M,2,Uneducated,Married,$80K - $120K,Blue,2 - 3,5,3,3,8004,1452,6552,1084,32,,18
+50s,F,2,High School,Married,$40K - $60K,Blue,3 - 4,2,1,3,1438,0,1438,1254,35,,00
+50s,M,0,College,Married,$80K - $120K,Blue,4 - 5,3,2,3,14501,0,14501,1031,25,,00
+40s,M,3,High School,Married,$60K - $80K,Blue,2 - 3,1,3,3,8663,288,8375,916,33,,03
+50s,M,3,High School,Single,$60K - $80K,Blue,3 - 4,2,1,3,8512,0,8512,811,27,,00
+50s,M,2,Uneducated,Single,$120K +,Blue,3 - 4,3,3,1,16868,0,16868,940,25,,00
+60s,M,1,High School,Married,Less than $40K,Blue,3 - 4,3,2,1,1759,0,1759,821,18,,00
+50s,M,1,Graduate,Married,$80K - $120K,Blue,2 - 3,3,3,3,4829,2418,2411,938,21,,50
+40s,M,2,Uneducated,Single,$60K - $80K,Blue,2 - 3,2,2,3,6414,0,6414,708,14,,00
+40s,F,4,High School,Single,Less than $40K,Blue,2 - 3,6,2,3,4203,2517,1686,1489,43,,60
+40s,M,5,High School,Unknown,$60K - $80K,Blue,3 - 4,3,3,1,1438,0,1438,2132,31,,00
+30s,F,3,Unknown,Single,Less than $40K,Blue,2 - 3,6,2,2,3730,2517,1213,858,22,,68
+50s,F,2,Doctorate,Married,Less than $40K,Blue,3 - 4,2,2,3,6630,916,5714,842,24,,14
+40s,M,3,Graduate,Divorced,$80K - $120K,Blue,1 - 2,2,2,3,1925,0,1925,781,28,,00
+40s,M,3,Graduate,Married,$80K - $120K,Blue,2 - 3,1,1,3,34516,781,33735,853,12,,02
+50s,F,3,High School,Married,$40K - $60K,Blue,4 - 5,5,2,1,1438,0,1438,594,14,,00
+60s,F,0,Graduate,Married,Less than $40K,Blue,4 - 5,6,2,3,1438,0,1438,840,20,,00
+40s,F,2,Unknown,Single,Unknown,Blue,2 - 3,2,1,3,4411,2517,1894,803,15,,57
+30s,M,2,Graduate,Married,$80K - $120K,Blue,2 - 3,3,2,3,12643,0,12643,787,21,,00
+30s,M,3,Post-Graduate,Married,$120K +,Blue,2 - 3,2,1,2,13873,0,13873,694,18,,00
+50s,F,4,High School,Divorced,Unknown,Blue,3 - 4,4,1,1,21065,2517,18548,1060,32,,12
+30s,F,2,High School,Married,$40K - $60K,Blue,2 - 3,3,2,2,7225,0,7225,738,16,,00
+30s,M,3,College,Married,$80K - $120K,Blue,2 - 3,3,2,3,3575,1884,1691,861,15,,53
+30s,M,2,Graduate,Married,$40K - $60K,Blue,1 - 2,3,1,3,7758,1408,6350,569,23,,18
+50s,F,2,Graduate,Single,Less than $40K,Blue,3 - 4,6,3,2,3181,2517,664,818,16,,79
+60s,F,1,High School,Married,$40K - $60K,Blue,4 - 5,2,1,1,5249,0,5249,1315,31,,00
+40s,M,2,College,Married,$80K - $120K,Blue,3 - 4,2,2,3,2111,0,2111,773,17,,00
+50s,M,3,Unknown,Single,$60K - $80K,Blue,2 - 3,3,2,2,8411,979,7432,990,22,,12
+30s,F,3,High School,Single,Less than $40K,Blue,2 - 3,6,1,3,3651,0,3651,862,19,,00
+50s,F,3,Uneducated,Married,Unknown,Blue,2 - 3,3,3,2,3664,0,3664,1168,31,,00
+50s,M,1,Graduate,Married,$80K - $120K,Blue,3 - 4,2,1,2,6214,1147,5067,938,35,,18
+50s,M,3,College,Single,$120K +,Blue,4 - 5,3,2,3,34516,0,34516,2115,24,,00
+40s,F,2,Graduate,Single,Less than $40K,Blue,2 - 3,5,1,2,5456,951,4505,1096,27,,17
+40s,M,2,Uneducated,Married,$80K - $120K,Blue,3 - 4,1,3,3,5701,2517,3184,961,32,,44
+40s,F,3,High School,Single,Unknown,Blue,2 - 3,4,3,3,29543,1164,28379,1015,27,,04
+50s,F,0,High School,Married,Less than $40K,Blue,2 - 3,3,2,2,7418,396,7022,911,26,,05
+40s,M,4,Graduate,Single,$80K - $120K,Silver,1 - 2,3,1,3,34516,0,34516,1028,26,,00
+50s,M,3,Graduate,Single,$60K - $80K,Blue,2 - 3,2,2,3,4742,855,3887,870,24,,18
+40s,F,3,High School,Married,$40K - $60K,Blue,2 - 3,5,2,2,12355,0,12355,1044,28,,00
+30s,F,2,Unknown,Married,Unknown,Blue,1 - 2,3,1,2,8149,0,8149,808,30,,00
+40s,M,3,Uneducated,Married,$80K - $120K,Blue,2 - 3,3,2,3,3616,1151,2465,820,21,,32
+50s,M,3,Graduate,Married,$120K +,Blue,2 - 3,5,1,1,12211,0,12211,903,29,,00
+50s,F,2,College,Married,$40K - $60K,Blue,3 - 4,3,1,3,4882,695,4187,1544,44,,14
+40s,M,3,Graduate,Single,$60K - $80K,Blue,2 - 3,2,3,2,13162,0,13162,1424,38,,00
+30s,F,3,Graduate,Unknown,Unknown,Blue,1 - 2,2,3,2,5674,0,5674,1096,29,,00
+40s,F,5,High School,Married,Unknown,Blue,2 - 3,3,1,4,3578,0,3578,1015,36,,00
+50s,M,2,Graduate,Married,$120K +,Blue,2 - 3,1,3,2,12778,507,12271,1133,28,,04
+30s,F,3,Graduate,Single,Less than $40K,Blue,1 - 2,1,2,1,1890,666,1224,1483,36,,35
+40s,M,1,Post-Graduate,Married,$60K - $80K,Blue,2 - 3,6,3,4,18386,890,17496,1698,43,,05
+30s,M,1,Post-Graduate,Divorced,Less than $40K,Blue,2 - 3,6,2,4,5061,0,5061,1309,38,,00
+50s,F,1,Post-Graduate,Single,$40K - $60K,Blue,3 - 4,1,3,3,1493,932,561,1554,43,,62
+40s,F,3,Graduate,Single,Less than $40K,Blue,3 - 4,5,2,4,4075,1986,2089,2449,27,,49
+50s,M,0,Unknown,Single,$40K - $60K,Blue,3 - 4,3,1,3,3421,2517,904,992,21,,74
+50s,F,3,College,Single,Unknown,Blue,4 - 5,6,2,3,13184,0,13184,2047,33,,00
+30s,F,3,Graduate,Single,Less than $40K,Blue,1 - 2,2,1,4,2802,2460,342,1406,28,,88
+30s,F,4,Graduate,Married,Less than $40K,Blue,1 - 2,3,2,2,3261,2517,744,856,18,,77
+20s,F,0,High School,Single,$40K - $60K,Blue,1 - 2,2,2,4,1730,1616,114,869,27,,93
+50s,M,2,High School,Married,$60K - $80K,Silver,2 - 3,4,4,3,33180,511,32669,797,14,,01
+20s,M,0,High School,Single,$40K - $60K,Blue,1 - 2,3,1,3,3324,0,3324,982,22,,00
+30s,M,2,Graduate,Married,$120K +,Blue,1 - 2,2,2,4,27992,0,27992,837,18,,00
+30s,M,3,College,Married,$80K - $120K,Blue,2 - 3,3,4,3,11638,926,10712,563,15,,08
+40s,M,3,College,Single,$80K - $120K,Silver,2 - 3,1,3,4,34516,0,34516,1112,26,,00
+60s,M,2,Graduate,Married,$120K +,Blue,4 - 5,3,0,4,11374,2517,8857,1088,26,,22
+30s,M,1,College,Divorced,$80K - $120K,Blue,2 - 3,1,3,4,12464,0,12464,1195,35,,00
+20s,F,0,Uneducated,Single,Less than $40K,Blue,1 - 2,3,2,4,1438,0,1438,947,20,,00
+50s,M,1,College,Married,$120K +,Blue,4 - 5,1,5,4,15796,812,14984,1339,23,,05
+40s,F,3,Post-Graduate,Married,Less than $40K,Silver,2 - 3,5,1,3,10357,0,10357,911,25,,00
+30s,M,2,Uneducated,Single,$80K - $120K,Blue,2 - 3,1,4,4,32938,2089,30849,1137,26,,06
+60s,F,0,Graduate,Divorced,Less than $40K,Blue,4 - 5,3,6,3,6184,0,6184,1712,27,,00
+30s,M,2,High School,Single,$60K - $80K,Blue,2 - 3,3,4,3,1818,0,1818,2054,55,,00
+30s,F,0,Uneducated,Divorced,$40K - $60K,Blue,2 - 3,1,3,4,2190,0,2190,1412,38,,00
+40s,F,2,Graduate,Single,Less than $40K,Blue,2 - 3,3,4,3,8309,858,7451,1165,35,,10
+30s,M,0,High School,Married,$120K +,Blue,2 - 3,3,3,4,22382,0,22382,695,10,,00
+40s,M,2,College,Divorced,$80K - $120K,Blue,3 - 4,3,4,4,34516,0,34516,1041,27,,00
+40s,F,3,Graduate,Married,$40K - $60K,Blue,3 - 4,2,4,3,6235,0,6235,1225,34,,00
+30s,M,2,Graduate,Married,$120K +,Blue,2 - 3,2,4,4,13662,0,13662,725,22,,00
+30s,M,3,High School,Married,Less than $40K,Blue,2 - 3,3,3,4,6866,2389,4477,862,13,,35
+40s,M,2,Uneducated,Unknown,$60K - $80K,Blue,2 - 3,6,2,3,3254,0,3254,967,24,,00
+40s,F,3,Graduate,Single,Less than $40K,Blue,2 - 3,5,3,4,7246,0,7246,777,13,,00
+40s,M,3,High School,Single,$80K - $120K,Blue,2 - 3,2,2,4,18563,0,18563,2395,45,,00
+50s,M,0,High School,Unknown,$40K - $60K,Blue,3 - 4,3,2,3,1438,0,1438,1088,22,,00
+20s,F,0,Post-Graduate,Single,Less than $40K,Blue,1 - 2,3,2,3,1442,1428,14,1134,26,,99
+30s,M,2,Uneducated,Married,$120K +,Blue,2 - 3,2,3,4,8906,0,8906,809,15,,00
+30s,M,3,College,Married,$60K - $80K,Blue,1 - 2,2,3,4,3100,2517,583,694,12,,81
+30s,M,4,Graduate,Married,$80K - $120K,Blue,1 - 2,6,3,4,12634,0,12634,717,18,,00
+30s,M,0,Doctorate,Married,$120K +,Blue,1 - 2,3,3,4,8654,0,8654,850,18,,00
+50s,M,2,Uneducated,Single,$120K +,Blue,3 - 4,2,3,4,16163,0,16163,2171,48,,00
+50s,F,2,Post-Graduate,Married,Less than $40K,Blue,3 - 4,3,4,3,1438,0,1438,1154,22,,00
+30s,M,2,Graduate,Single,$120K +,Blue,2 - 3,3,3,0,5616,0,5616,1564,31,,00
+60s,M,1,Unknown,Single,Less than $40K,Blue,2 - 3,3,4,4,2351,0,2351,1593,35,,00
+40s,F,3,High School,Single,Less than $40K,Silver,3 - 4,1,0,4,13092,1962,11130,936,25,,15
+30s,M,1,High School,Divorced,$60K - $80K,Blue,1 - 2,3,3,3,12616,0,12616,1376,29,,00
+30s,M,1,Uneducated,Married,Less than $40K,Blue,2 - 3,3,3,3,4247,0,4247,847,17,,00
+30s,M,2,Graduate,Married,$40K - $60K,Blue,1 - 2,3,3,5,4739,0,4739,886,21,,00
+30s,M,1,College,Divorced,Less than $40K,Blue,1 - 2,4,3,3,7970,0,7970,1284,30,,00
+50s,F,2,College,Single,Unknown,Silver,2 - 3,2,3,3,34516,0,34516,1353,40,,00
+40s,M,2,Graduate,Single,$40K - $60K,Blue,2 - 3,3,3,5,7869,0,7869,998,25,,00
+50s,F,0,Doctorate,Single,Less than $40K,Blue,2 - 3,2,2,3,1438,978,460,947,33,,68
+40s,M,3,Graduate,Married,$40K - $60K,Blue,2 - 3,2,3,3,7266,906,6360,1741,27,,13
+20s,M,0,Graduate,Single,Less than $40K,Blue,1 - 2,5,2,4,2469,2410,59,1027,20,,98
+40s,M,4,Doctorate,Single,$80K - $120K,Blue,2 - 3,3,3,4,6572,417,6155,1766,46,,06
+20s,F,0,High School,Single,Unknown,Blue,1 - 2,1,2,4,6152,0,6152,968,23,,00
+30s,M,1,Uneducated,Married,Less than $40K,Blue,1 - 2,1,3,3,2218,1696,522,730,20,,77
+30s,F,0,Graduate,Single,Less than $40K,Blue,2 - 3,5,3,4,2300,0,2300,1485,34,,00
+40s,M,3,Graduate,Married,$60K - $80K,Blue,2 - 3,2,3,4,4267,0,4267,1067,23,,00
+50s,F,3,High School,Single,Unknown,Blue,2 - 3,1,4,2,8389,1960,6429,1334,38,,23
+40s,M,3,College,Single,$80K - $120K,Blue,3 - 4,1,4,3,4026,243,3783,1102,27,,06
+40s,M,3,Uneducated,Married,$120K +,Blue,2 - 3,5,2,4,34516,787,33729,1312,32,,02
+30s,M,3,Graduate,Married,$80K - $120K,Blue,2 - 3,6,3,5,7140,0,7140,916,18,,00
+50s,M,3,Uneducated,Divorced,$80K - $120K,Blue,3 - 4,1,3,4,34516,2408,32108,1187,40,,07
+40s,M,1,Graduate,Married,$80K - $120K,Blue,3 - 4,4,2,3,25517,321,25196,2508,44,,01
+30s,F,3,Graduate,Married,Unknown,Blue,2 - 3,3,2,3,1575,592,983,644,15,,38
+50s,M,3,High School,Married,$40K - $60K,Blue,3 - 4,2,1,5,3032,0,3032,1037,14,,00
+40s,M,4,Graduate,Unknown,$60K - $80K,Blue,2 - 3,2,3,5,1438,312,1126,1786,26,,22
+40s,M,3,Graduate,Married,$80K - $120K,Blue,3 - 4,4,4,3,18672,2517,16155,1126,35,,14
+30s,M,1,Unknown,Married,$60K - $80K,Blue,2 - 3,1,3,4,8925,168,8757,741,10,,02
+40s,F,2,High School,Divorced,Unknown,Blue,2 - 3,6,4,3,17156,2517,14639,1142,33,,15
+50s,F,1,Graduate,Single,Less than $40K,Blue,3 - 4,3,5,5,1438,0,1438,1603,39,,00
+40s,M,3,Post-Graduate,Married,$80K - $120K,Blue,3 - 4,3,0,4,23870,0,23870,1885,39,,00
+50s,F,4,Unknown,Married,Less than $40K,Blue,2 - 3,1,4,5,2143,0,2143,1353,36,,00
+30s,F,4,College,Married,$40K - $60K,Blue,2 - 3,4,4,4,4913,2517,2396,899,28,,51
+50s,M,2,High School,Single,$40K - $60K,Blue,3 - 4,2,6,4,2381,651,1730,1920,46,,27
+50s,M,2,Doctorate,Married,$120K +,Blue,2 - 3,3,2,3,11188,0,11188,2109,47,,00
+40s,M,3,Uneducated,Married,$40K - $60K,Blue,2 - 3,3,3,4,11091,0,11091,1234,34,,00
+40s,F,4,Graduate,Single,$40K - $60K,Blue,2 - 3,3,4,4,4333,0,4333,1558,40,,00
+50s,M,2,Graduate,Single,$80K - $120K,Blue,3 - 4,6,2,4,34516,0,34516,1661,40,,00
+40s,M,4,Uneducated,Single,$40K - $60K,Blue,3 - 4,1,3,4,5268,2191,3077,2138,40,,42
+50s,M,3,Unknown,Married,$80K - $120K,Blue,2 - 3,3,3,3,5130,0,5130,1434,31,,00
+40s,M,5,Unknown,Single,$60K - $80K,Gold,2 - 3,2,3,4,34516,2517,31999,1727,35,,07
+40s,M,3,Graduate,Unknown,$60K - $80K,Blue,2 - 3,4,2,3,6391,0,6391,2323,44,,00
+50s,F,2,College,Single,Less than $40K,Blue,4 - 5,3,5,1,3639,2178,1461,1865,42,,60
+60s,F,0,High School,Single,Unknown,Blue,4 - 5,3,6,3,5894,477,5417,1616,32,,08
+50s,F,2,Uneducated,Single,Less than $40K,Blue,2 - 3,3,3,3,1438,642,796,1939,49,,45
+40s,F,4,Graduate,Married,Less than $40K,Blue,2 - 3,3,2,1,1438,0,1438,2153,35,,00
+40s,F,3,Unknown,Divorced,Less than $40K,Blue,2 - 3,5,2,4,1438,0,1438,1897,58,,00
+50s,F,2,Graduate,Divorced,Less than $40K,Blue,4 - 5,2,6,3,1720,0,1720,2719,36,,00
+40s,F,2,High School,Married,Less than $40K,Blue,3 - 4,5,3,3,3899,0,3899,2182,40,,00
+50s,F,1,Graduate,Single,Less than $40K,Blue,2 - 3,1,3,4,2422,502,1920,2548,46,,21
+40s,F,4,High School,Married,Less than $40K,Blue,2 - 3,6,3,3,3454,0,3454,2826,39,,00
+40s,F,3,Graduate,Married,Less than $40K,Blue,2 - 3,4,2,4,3523,0,3523,3174,44,,00
+40s,F,3,Graduate,Married,Unknown,Blue,3 - 4,3,5,3,4462,706,3756,2526,41,,16
+50s,F,3,High School,Married,Less than $40K,Blue,2 - 3,3,3,4,2140,0,2140,2915,50,,00
+40s,F,3,High School,Married,$40K - $60K,Blue,2 - 3,2,3,2,8583,0,8583,1794,31,,00
+30s,M,3,College,Married,$120K +,Blue,1 - 2,2,2,3,11316,1599,9717,2595,49,,14
+50s,F,0,Doctorate,Married,Unknown,Blue,3 - 4,6,4,3,7210,0,7210,2516,36,,00
+40s,M,4,Graduate,Married,$80K - $120K,Silver,2 - 3,3,2,3,34516,825,33691,2022,52,,02
+30s,F,2,Unknown,Single,Less than $40K,Blue,2 - 3,3,2,4,1690,0,1690,2645,60,,00
+40s,F,3,High School,Single,$40K - $60K,Blue,2 - 3,1,3,2,1654,1474,180,2086,47,,89
+40s,M,3,High School,Married,$60K - $80K,Blue,3 - 4,2,3,2,10061,0,10061,2802,52,,00
+40s,F,5,Uneducated,Single,Unknown,Blue,3 - 4,5,4,5,3502,0,3502,1895,42,,00
+30s,F,5,High School,Married,$40K - $60K,Blue,2 - 3,3,2,6,1438,0,1438,2500,44,,00
+50s,F,3,Graduate,Married,Unknown,Blue,3 - 4,1,3,1,2815,1848,967,2618,29,,66
+40s,M,5,Uneducated,Unknown,$40K - $60K,Blue,3 - 4,5,4,3,6185,1960,4225,2225,45,,32
+40s,M,3,Uneducated,Married,$80K - $120K,Blue,3 - 4,3,3,3,9234,0,9234,2586,44,,00
+50s,F,1,Graduate,Married,Less than $40K,Blue,3 - 4,6,4,3,4232,0,4232,2312,37,,00
+50s,F,3,High School,Married,Less than $40K,Blue,3 - 4,5,3,2,3302,2517,785,2682,47,,76
+30s,F,3,Graduate,Single,Less than $40K,Blue,2 - 3,5,2,3,1457,0,1457,2200,45,,00
+50s,M,2,High School,Single,$120K +,Blue,3 - 4,2,4,4,7327,0,7327,2185,41,,00
+30s,M,2,Unknown,Single,$40K - $60K,Blue,1 - 2,6,2,4,10226,0,10226,2243,44,,00
+30s,F,2,Unknown,Single,Less than $40K,Blue,2 - 3,3,2,3,1534,0,1534,2596,39,,00
+60s,F,2,Graduate,Single,Less than $40K,Blue,4 - 5,3,0,3,6812,1926,4886,2288,48,,28
+40s,F,4,Unknown,Married,Less than $40K,Blue,3 - 4,3,3,3,2447,1267,1180,2132,37,,52
+50s,M,3,Graduate,Single,$120K +,Blue,4 - 5,6,4,3,34516,1000,33516,1777,37,,03
+50s,F,1,College,Single,Less than $40K,Blue,3 - 4,5,3,6,1764,0,1764,2740,47,,00
+40s,F,4,Uneducated,Married,Less than $40K,Blue,2 - 3,5,3,3,3492,2517,975,2510,47,,72
+30s,F,3,High School,Married,Less than $40K,Blue,2 - 3,3,3,3,2977,1340,1637,2201,39,,45
+50s,F,4,High School,Single,$40K - $60K,Blue,2 - 3,3,3,4,1438,0,1438,2092,42,,00
+50s,F,2,Post-Graduate,Married,Less than $40K,Blue,3 - 4,3,6,3,1638,0,1638,1702,36,,00
+30s,F,2,Graduate,Married,$40K - $60K,Blue,2 - 3,2,2,6,2547,1965,582,2160,46,,77
+40s,M,2,Uneducated,Married,$60K - $80K,Blue,2 - 3,1,3,6,1789,0,1789,2784,49,,00
+40s,F,3,College,Married,$40K - $60K,Blue,1 - 2,5,3,4,4312,2517,1795,2693,56,,58
+30s,F,1,Graduate,Married,Less than $40K,Blue,2 - 3,1,2,3,1462,0,1462,1998,36,,00
+50s,F,4,Graduate,Married,Less than $40K,Blue,2 - 3,5,3,4,4038,1530,2508,2400,41,,38
+30s,F,1,Unknown,Divorced,Unknown,Blue,1 - 2,5,3,3,1438,0,1438,2355,47,,00
+40s,M,4,Uneducated,Single,$80K - $120K,Gold,3 - 4,6,3,2,34516,1104,33412,1989,47,,03
+50s,F,2,Uneducated,Married,Less than $40K,Blue,4 - 5,3,6,3,2247,0,2247,2615,37,,00
+40s,M,2,Unknown,Single,$80K - $120K,Blue,2 - 3,2,3,3,7077,0,7077,2619,41,,00
+40s,F,4,College,Married,$40K - $60K,Blue,2 - 3,5,2,3,3281,0,3281,2907,45,,00
+50s,F,2,Doctorate,Single,Less than $40K,Blue,3 - 4,3,4,3,1694,0,1694,1930,41,,00
+30s,F,4,Graduate,Single,Less than $40K,Blue,2 - 3,5,2,4,1438,0,1438,2392,44,,00
+40s,M,3,Uneducated,Married,$80K - $120K,Blue,3 - 4,5,4,3,2509,450,2059,2239,47,,18
+40s,F,4,Unknown,Married,Less than $40K,Blue,3 - 4,3,2,2,3411,1472,1939,2108,55,,43
+60s,F,0,High School,Married,Less than $40K,Blue,3 - 4,1,3,4,4130,0,4130,2418,57,,00
+50s,F,2,Doctorate,Married,Less than $40K,Blue,2 - 3,1,3,3,1615,950,665,2212,43,,59
+40s,F,1,College,Married,Less than $40K,Blue,2 - 3,6,3,3,3052,0,3052,2598,47,,00
+50s,F,2,Graduate,Married,Less than $40K,Blue,3 - 4,3,3,3,2796,0,2796,2196,35,,00
+30s,F,1,High School,Single,Less than $40K,Blue,2 - 3,5,2,4,3554,0,3554,2372,44,,00
+30s,F,3,High School,Single,Less than $40K,Blue,1 - 2,2,2,2,1576,0,1576,2703,56,,00
+40s,F,4,Graduate,Single,Less than $40K,Blue,2 - 3,4,2,3,1438,0,1438,2493,42,,00
+50s,F,0,High School,Unknown,Less than $40K,Blue,2 - 3,4,3,3,2223,632,1591,2538,49,,28
+40s,F,3,Doctorate,Divorced,Unknown,Blue,3 - 4,1,3,3,3802,1558,2244,2003,43,,41
+50s,M,3,Doctorate,Married,$80K - $120K,Blue,2 - 3,2,3,3,3022,895,2127,2724,38,,30
+40s,F,4,Unknown,Single,Less than $40K,Blue,3 - 4,5,4,3,1438,0,1438,2207,41,,00
+40s,F,1,Uneducated,Married,$40K - $60K,Blue,3 - 4,4,3,3,1438,522,916,2030,37,,36
+40s,F,3,Graduate,Single,Less than $40K,Blue,2 - 3,5,3,1,1516,0,1516,2709,54,,00
+40s,F,2,College,Single,Less than $40K,Blue,2 - 3,1,3,3,1833,0,1833,2037,31,,00
+20s,F,0,Unknown,Single,Less than $40K,Blue,1 - 2,6,1,3,1835,1647,188,1903,44,,90
+30s,F,0,Graduate,Single,Less than $40K,Blue,2 - 3,5,3,3,1574,0,1574,2560,59,,00
+30s,F,3,Graduate,Married,Less than $40K,Blue,2 - 3,3,2,3,2300,0,2300,2500,47,,00
+50s,F,3,High School,Married,Less than $40K,Blue,2 - 3,2,3,3,1572,0,1572,2447,41,,00
+30s,F,2,Doctorate,Single,$40K - $60K,Blue,1 - 2,4,1,3,1900,0,1900,2880,46,,00
+40s,F,2,High School,Single,Less than $40K,Blue,2 - 3,1,3,4,1661,0,1661,2473,49,,00
+30s,F,2,Post-Graduate,Married,Less than $40K,Blue,2 - 3,5,2,3,1691,0,1691,2716,63,,00
+40s,F,2,Uneducated,Single,Unknown,Blue,2 - 3,5,3,3,1486,849,637,2380,43,,57
+30s,M,2,Unknown,Single,Less than $40K,Blue,2 - 3,5,3,3,1931,0,1931,2482,40,,00
+40s,F,3,Doctorate,Single,Less than $40K,Blue,3 - 4,3,3,4,1644,500,1144,2450,45,,30
+40s,M,2,Doctorate,Unknown,$40K - $60K,Blue,2 - 3,5,3,4,1438,0,1438,2100,54,,00
+60s,F,0,High School,Single,Less than $40K,Blue,2 - 3,4,3,4,1760,0,1760,2285,46,,00
+40s,F,3,High School,Married,Less than $40K,Blue,3 - 4,3,3,3,1670,0,1670,2790,37,,00
+50s,M,2,High School,Married,$120K +,Blue,3 - 4,6,4,3,13709,813,12896,2511,40,,06
+40s,F,3,Unknown,Unknown,Less than $40K,Blue,3 - 4,5,3,2,4710,0,4710,2690,43,,00
+40s,M,2,Uneducated,Single,$60K - $80K,Blue,2 - 3,5,3,2,6348,0,6348,1732,39,,00
+40s,M,3,Graduate,Married,$60K - $80K,Blue,2 - 3,4,2,3,17239,0,17239,1789,38,,00
+40s,F,3,Graduate,Married,Unknown,Blue,2 - 3,5,2,3,18432,484,17948,2300,45,,03
+40s,M,3,Graduate,Married,$60K - $80K,Blue,2 - 3,5,3,3,14201,0,14201,2223,47,,00
+40s,M,3,Graduate,Unknown,$40K - $60K,Blue,2 - 3,6,2,2,4323,0,4323,2451,38,,00
+50s,F,2,Unknown,Single,Less than $40K,Blue,2 - 3,3,2,2,3647,2517,1130,2935,58,,69
+40s,M,2,Uneducated,Married,$60K - $80K,Blue,2 - 3,3,2,2,6332,318,6014,2505,43,,05
+30s,M,4,Uneducated,Married,$80K - $120K,Blue,2 - 3,5,3,4,1438,0,1438,2439,43,,00
+50s,M,1,High School,Married,$40K - $60K,Blue,3 - 4,1,2,3,3146,0,3146,1868,38,,00
+40s,F,1,Post-Graduate,Married,Less than $40K,Blue,2 - 3,4,3,3,1438,0,1438,2137,40,,00
+40s,M,4,Graduate,Married,$60K - $80K,Blue,3 - 4,6,3,2,12890,0,12890,2216,51,,00
+40s,F,5,Doctorate,Single,Less than $40K,Blue,3 - 4,3,2,2,1787,0,1787,2345,36,,00
+30s,M,1,Doctorate,Single,$80K - $120K,Blue,2 - 3,3,2,2,2904,2517,387,2653,46,,87
+50s,F,2,High School,Married,$40K - $60K,Blue,2 - 3,3,3,3,4375,0,4375,2507,53,,00
+40s,M,2,Graduate,Married,$80K - $120K,Blue,2 - 3,5,3,3,2111,1761,350,2112,46,,83
+50s,M,3,Uneducated,Single,$80K - $120K,Blue,2 - 3,6,3,2,6925,0,6925,2506,36,,00
+40s,F,4,Graduate,Single,$40K - $60K,Blue,3 - 4,3,2,4,1538,0,1538,2275,43,,00
+40s,M,2,High School,Married,$120K +,Blue,1 - 2,5,2,3,9924,0,9924,1949,43,,00
+50s,F,2,College,Divorced,$40K - $60K,Blue,2 - 3,6,2,3,4410,2517,1893,1883,44,,57
+40s,F,4,Uneducated,Unknown,Less than $40K,Blue,3 - 4,6,3,2,3468,2517,951,2494,39,,73
+30s,F,3,High School,Unknown,Unknown,Blue,1 - 2,5,1,3,1438,0,1438,2819,48,,00
+40s,F,4,Post-Graduate,Single,Less than $40K,Blue,3 - 4,3,2,2,1836,0,1836,1799,28,,00
+40s,F,2,Uneducated,Married,Less than $40K,Blue,3 - 4,5,3,2,2964,2517,447,2327,38,,85
+40s,F,2,High School,Unknown,Unknown,Gold,2 - 3,3,3,3,34516,0,34516,2227,44,,00
+40s,F,3,College,Married,Less than $40K,Blue,2 - 3,6,3,2,1781,0,1781,2196,35,,00
+40s,F,1,Uneducated,Married,Less than $40K,Blue,2 - 3,5,2,3,3680,0,3680,2725,41,,00
+40s,F,4,Unknown,Married,Less than $40K,Blue,2 - 3,4,3,3,2740,2425,315,2431,46,,89
+40s,M,3,Uneducated,Single,$80K - $120K,Blue,2 - 3,4,2,3,3427,0,3427,2625,63,,00
+50s,M,0,High School,Single,$120K +,Blue,3 - 4,5,3,3,34516,216,34300,2395,47,,01
+40s,F,4,Graduate,Married,Less than $40K,Blue,2 - 3,4,2,3,8318,2517,5801,2427,52,,30
+40s,F,2,Unknown,Single,$40K - $60K,Blue,3 - 4,1,3,2,1643,526,1117,2520,38,,32
+50s,F,2,Graduate,Married,Less than $40K,Blue,3 - 4,3,4,2,2927,2517,410,2231,60,,86
+40s,F,3,High School,Divorced,Less than $40K,Blue,2 - 3,5,2,3,1877,1203,674,2581,57,,64
+40s,F,4,Graduate,Single,$40K - $60K,Blue,2 - 3,5,3,4,5913,1651,4262,2404,39,,28
+40s,F,3,Graduate,Single,$40K - $60K,Blue,2 - 3,3,2,2,2867,0,2867,2646,41,,00
+50s,F,1,Graduate,Married,Unknown,Blue,2 - 3,4,2,2,3137,959,2178,2925,41,,31
+40s,F,3,Doctorate,Single,Less than $40K,Blue,3 - 4,6,2,3,2437,0,2437,2027,42,,00
+40s,F,3,Graduate,Single,$40K - $60K,Blue,2 - 3,6,2,3,1451,599,852,2192,35,,41
+40s,F,0,College,Single,$40K - $60K,Blue,2 - 3,5,2,3,1438,1223,215,2181,43,,85
+30s,F,0,College,Single,Unknown,Blue,1 - 2,3,1,4,2299,0,2299,2323,47,,00
+40s,F,2,Unknown,Single,Less than $40K,Blue,2 - 3,3,2,2,1438,834,604,1890,43,,58
+60s,F,2,High School,Married,Less than $40K,Blue,3 - 4,3,3,2,1438,0,1438,1628,42,,00
+60s,F,0,Graduate,Single,Less than $40K,Blue,2 - 3,1,3,4,1682,0,1682,1811,39,,00
+50s,F,1,Post-Graduate,Single,Less than $40K,Blue,2 - 3,4,3,3,1724,0,1724,2725,47,,00
+40s,M,3,Graduate,Divorced,Less than $40K,Blue,3 - 4,4,4,3,6397,0,6397,2511,56,,00
+50s,M,1,Uneducated,Unknown,$120K +,Blue,3 - 4,4,4,2,23958,2517,21441,2777,45,,10
+40s,M,2,High School,Single,$60K - $80K,Blue,2 - 3,4,3,1,1641,0,1641,2536,45,,00
+40s,M,3,High School,Single,$60K - $80K,Silver,2 - 3,5,2,3,25276,0,25276,2282,38,,00
+30s,F,1,College,Single,Less than $40K,Blue,2 - 3,6,2,3,3119,2517,602,2492,50,,81
+40s,F,4,Graduate,Single,Less than $40K,Blue,2 - 3,6,2,2,2803,0,2803,2216,40,,00
+40s,F,3,Unknown,Divorced,Less than $40K,Blue,2 - 3,3,3,2,1693,1457,236,2829,42,,86
+50s,M,2,High School,Single,$120K +,Blue,3 - 4,6,3,3,34516,0,34516,2213,47,,00
+40s,F,2,High School,Married,Less than $40K,Blue,2 - 3,3,2,2,2811,2404,407,2245,41,,85
+50s,F,1,Unknown,Single,Less than $40K,Blue,4 - 5,5,6,2,7501,2517,4984,2280,49,,34
+50s,F,1,Graduate,Single,Unknown,Blue,2 - 3,3,2,3,10031,0,10031,1792,29,,00
+30s,F,3,Graduate,Single,$40K - $60K,Blue,2 - 3,3,2,3,2669,0,2669,2271,31,,00
+40s,F,3,College,Single,Less than $40K,Blue,2 - 3,6,2,2,1951,0,1951,2697,45,,00
+40s,F,2,High School,Married,Less than $40K,Blue,2 - 3,6,3,3,1438,455,983,2090,50,,32
+50s,M,2,Unknown,Married,$60K - $80K,Blue,3 - 4,4,3,4,3143,0,3143,2297,37,,00
+40s,M,5,Graduate,Divorced,$60K - $80K,Blue,2 - 3,3,3,6,6538,0,6538,2132,33,,00
+40s,F,3,Unknown,Divorced,$40K - $60K,Blue,2 - 3,2,3,2,1689,0,1689,1588,37,,00
+50s,F,2,Uneducated,Single,Less than $40K,Blue,4 - 5,3,5,2,1614,0,1614,1690,38,,00
+30s,M,4,Graduate,Married,$80K - $120K,Blue,2 - 3,5,2,2,17523,0,17523,1974,54,,00
+30s,M,2,College,Single,$80K - $120K,Blue,2 - 3,4,3,2,9642,1431,8211,2172,33,,15
+40s,F,2,Unknown,Single,Less than $40K,Blue,2 - 3,6,3,3,1731,0,1731,2304,46,,00
+40s,F,3,Unknown,Married,Less than $40K,Blue,2 - 3,3,3,2,1855,0,1855,2544,27,,00
+40s,F,3,College,Single,Less than $40K,Blue,2 - 3,4,3,1,1605,890,715,2722,45,,56
+40s,F,3,Graduate,Married,Less than $40K,Blue,2 - 3,3,3,3,2302,1593,709,2689,49,,69
+50s,F,4,Post-Graduate,Unknown,Less than $40K,Blue,3 - 4,5,3,3,2440,503,1937,2334,51,,21
+40s,F,3,Unknown,Single,Less than $40K,Blue,2 - 3,4,3,6,2402,628,1774,1930,48,,26
+40s,F,2,Unknown,Single,$40K - $60K,Blue,2 - 3,5,3,6,3001,0,3001,2577,39,,00
+50s,M,2,High School,Single,$80K - $120K,Blue,4 - 5,3,2,2,2791,2396,395,2658,43,,86
+40s,M,5,Post-Graduate,Single,$120K +,Silver,3 - 4,5,3,1,34516,2517,31999,2260,50,,07
+50s,F,3,Graduate,Divorced,Less than $40K,Blue,3 - 4,5,3,3,1495,691,804,2552,42,,46
+40s,M,3,Doctorate,Single,$120K +,Blue,2 - 3,3,2,2,9220,0,9220,2276,32,,00
+50s,M,2,High School,Married,$60K - $80K,Blue,3 - 4,3,4,2,23128,1958,21170,2050,35,,09
+40s,F,3,Unknown,Single,$40K - $60K,Blue,3 - 4,1,5,3,14897,0,14897,2164,53,,00
+50s,F,4,Graduate,Unknown,Less than $40K,Blue,3 - 4,5,3,3,1677,0,1677,2477,45,,00
+40s,F,3,Unknown,Single,Unknown,Blue,3 - 4,3,2,3,1900,0,1900,2298,45,,00
+60s,M,0,Unknown,Married,$60K - $80K,Blue,3 - 4,5,1,3,4541,1037,3504,2829,44,,23
+40s,F,3,Graduate,Married,Less than $40K,Blue,3 - 4,4,2,1,6184,0,6184,1756,49,,00
+40s,F,1,High School,Unknown,Less than $40K,Blue,3 - 4,6,3,2,3654,0,3654,1998,44,,00
+40s,F,3,Graduate,Married,Less than $40K,Blue,3 - 4,4,2,3,3889,2517,1372,1718,37,,65
+40s,M,2,Graduate,Married,$40K - $60K,Blue,2 - 3,4,3,2,1889,0,1889,2479,46,,00
+40s,F,3,High School,Married,Less than $40K,Blue,2 - 3,4,2,2,1763,0,1763,2813,43,,00
+50s,F,2,High School,Married,Less than $40K,Blue,4 - 5,3,0,2,1944,0,1944,2412,40,,00
+40s,F,3,Uneducated,Married,$40K - $60K,Blue,2 - 3,6,4,3,1438,0,1438,2116,38,,00
+40s,M,3,Graduate,Married,$40K - $60K,Blue,1 - 2,5,3,2,5791,2517,3274,2516,64,,43
+40s,F,2,Unknown,Married,Unknown,Blue,3 - 4,6,2,3,4382,0,4382,2446,34,,00
+40s,F,4,Graduate,Married,Less than $40K,Blue,2 - 3,4,2,2,3159,0,3159,2925,46,,00
+50s,M,2,Uneducated,Married,$60K - $80K,Blue,3 - 4,3,3,2,2527,1030,1497,2767,43,,41
+50s,F,1,High School,Married,Unknown,Blue,3 - 4,5,2,3,3674,2517,1157,2608,45,,69
+30s,F,2,High School,Single,Unknown,Blue,2 - 3,3,3,1,2069,550,1519,2716,43,,27
+40s,M,0,Graduate,Married,$60K - $80K,Blue,2 - 3,3,3,3,1460,0,1460,2329,36,,00
+30s,M,2,Graduate,Single,Less than $40K,Blue,2 - 3,3,3,3,4225,2517,1708,2659,43,,60
+30s,F,4,Graduate,Married,Unknown,Blue,2 - 3,4,3,3,1931,0,1931,2569,46,,00
+40s,M,3,Post-Graduate,Single,$40K - $60K,Blue,3 - 4,3,4,2,2344,0,2344,2098,31,,00
+40s,F,3,Graduate,Single,Less than $40K,Blue,2 - 3,5,3,3,1764,0,1764,2105,57,,00
+50s,F,3,Graduate,Married,$40K - $60K,Blue,3 - 4,6,3,4,1544,0,1544,1902,35,,00
+40s,F,3,Uneducated,Married,Less than $40K,Blue,2 - 3,6,3,3,1684,0,1684,2275,45,,00
+40s,F,3,Unknown,Married,$40K - $60K,Blue,2 - 3,4,2,3,1438,0,1438,2191,51,,00
+50s,F,2,Unknown,Unknown,Less than $40K,Blue,3 - 4,4,3,3,1438,0,1438,2145,41,,00
+50s,M,1,Unknown,Divorced,$80K - $120K,Blue,3 - 4,4,4,2,5763,0,5763,2310,48,,00
+40s,F,5,Post-Graduate,Married,Less than $40K,Blue,2 - 3,5,3,3,1495,0,1495,2622,70,,00
+30s,F,2,Graduate,Married,$40K - $60K,Blue,2 - 3,5,3,2,1959,662,1297,3046,52,,34
+50s,F,2,Unknown,Married,Less than $40K,Blue,3 - 4,3,3,2,1438,910,528,2370,44,,63
+30s,F,2,High School,Single,Unknown,Blue,2 - 3,3,2,2,5956,2517,3439,2828,46,,42
+30s,F,2,Graduate,Divorced,Less than $40K,Blue,2 - 3,5,2,3,2092,0,2092,2015,33,,00
+40s,F,2,Uneducated,Single,Less than $40K,Blue,2 - 3,4,3,6,1628,275,1353,2219,49,,17
+50s,F,4,High School,Married,Less than $40K,Blue,2 - 3,1,3,2,3546,0,3546,2616,47,,00
+30s,F,3,High School,Unknown,Less than $40K,Blue,2 - 3,5,3,3,2989,2387,602,2143,67,,80
+40s,M,3,Graduate,Single,$80K - $120K,Blue,2 - 3,1,2,2,6921,0,6921,2729,44,,00
+40s,M,3,Doctorate,Divorced,$80K - $120K,Blue,2 - 3,5,3,3,9949,0,9949,2207,40,,00
+30s,F,2,Graduate,Married,Less than $40K,Blue,1 - 2,4,2,2,1666,813,853,2622,60,,49
+40s,F,1,College,Married,$40K - $60K,Blue,2 - 3,4,2,4,1737,1689,48,2459,43,,97
+40s,F,1,Uneducated,Married,Unknown,Blue,3 - 4,5,2,2,1438,0,1438,2171,38,,00
+50s,M,2,Doctorate,Married,$120K +,Silver,3 - 4,6,3,3,34516,0,34516,2573,55,,00
+40s,M,4,College,Married,$40K - $60K,Blue,2 - 3,6,3,3,4373,0,4373,2397,46,,00
+40s,M,2,Unknown,Married,$80K - $120K,Blue,2 - 3,5,2,3,12073,0,12073,2400,52,,00
+40s,F,4,Post-Graduate,Married,Unknown,Blue,3 - 4,4,4,4,6451,0,6451,2400,43,,00
+50s,M,2,College,Single,$120K +,Blue,2 - 3,3,2,3,34516,0,34516,2329,47,,00
+40s,F,3,Uneducated,Married,Less than $40K,Blue,2 - 3,6,3,3,1897,0,1897,2866,47,,00
+50s,F,1,College,Single,Less than $40K,Blue,3 - 4,3,5,3,2114,546,1568,2578,42,,26
+30s,M,4,Uneducated,Single,$60K - $80K,Blue,1 - 2,3,2,6,3940,1384,2556,3257,53,,35
+30s,M,4,Graduate,Unknown,$60K - $80K,Blue,1 - 2,5,2,3,8632,0,8632,2221,40,,00
+50s,M,3,High School,Married,$80K - $120K,Blue,3 - 4,3,4,3,3288,2517,771,2717,46,,77
+60s,M,0,Post-Graduate,Divorced,$60K - $80K,Silver,3 - 4,4,5,6,28229,287,27942,2281,45,,01
+50s,F,2,Unknown,Single,$40K - $60K,Blue,2 - 3,3,3,2,2762,0,2762,2571,44,,00
+40s,F,3,Post-Graduate,Single,Less than $40K,Blue,2 - 3,5,1,2,2214,915,1299,2144,51,,41
+40s,F,2,Uneducated,Divorced,Less than $40K,Blue,2 - 3,3,3,4,6811,0,6811,1937,39,,00
+50s,F,3,Unknown,Single,Less than $40K,Blue,3 - 4,4,3,4,1741,0,1741,2546,42,,00
+50s,M,2,Uneducated,Married,$60K - $80K,Blue,2 - 3,4,3,4,2189,382,1807,2750,51,,17
+40s,M,3,Doctorate,Single,$40K - $60K,Blue,3 - 4,5,2,3,4354,0,4354,2750,59,,00
+50s,M,2,Uneducated,Unknown,$80K - $120K,Blue,2 - 3,5,3,3,4316,0,4316,1920,53,,00
+30s,F,2,Graduate,Married,Less than $40K,Blue,1 - 2,6,2,2,3116,0,3116,2768,45,,00
+40s,M,3,Unknown,Married,$120K +,Blue,2 - 3,4,3,2,24868,794,24074,2510,32,,03
+30s,F,1,Uneducated,Unknown,Less than $40K,Blue,2 - 3,1,2,3,3074,0,3074,2721,54,,00
+40s,F,4,High School,Single,$40K - $60K,Blue,3 - 4,4,3,3,10587,2517,8070,2971,54,,24
+40s,F,1,High School,Married,Less than $40K,Blue,3 - 4,5,4,1,1438,0,1438,1843,44,,00
+40s,M,3,College,Married,$80K - $120K,Blue,2 - 3,3,2,2,3031,2517,514,2188,50,,83
+30s,M,3,College,Married,$60K - $80K,Blue,2 - 3,5,2,2,6114,1461,4653,2608,36,,24
+50s,F,5,Unknown,Single,Less than $40K,Blue,2 - 3,4,2,3,1438,0,1438,2244,54,,00
+40s,F,3,Graduate,Married,$40K - $60K,Blue,2 - 3,4,3,3,2701,2498,203,2678,37,,93
+40s,M,2,College,Married,$40K - $60K,Silver,2 - 3,5,3,4,16547,0,16547,1561,41,,00
+40s,F,1,Uneducated,Divorced,$40K - $60K,Blue,3 - 4,6,2,2,2173,0,2173,2379,57,,00
+30s,F,3,High School,Married,Less than $40K,Blue,2 - 3,4,3,3,1438,0,1438,2478,45,,00
+50s,F,1,Post-Graduate,Married,Less than $40K,Blue,2 - 3,6,2,2,2802,2256,546,2371,46,,81
+50s,F,1,Unknown,Single,Unknown,Blue,4 - 5,5,2,2,8513,799,7714,2119,37,,09
+50s,F,1,Uneducated,Married,Less than $40K,Blue,2 - 3,5,3,2,2258,2000,258,2500,42,,89
+40s,F,3,Unknown,Married,Less than $40K,Blue,2 - 3,5,3,3,1654,0,1654,1730,30,,00
+40s,M,4,Graduate,Married,$80K - $120K,Blue,2 - 3,2,3,3,23542,1307,22235,2152,46,,06
+50s,F,1,Uneducated,Single,Less than $40K,Blue,3 - 4,5,3,4,1717,0,1717,3004,46,,00
+40s,F,0,College,Married,Less than $40K,Blue,3 - 4,5,4,2,7499,1083,6416,2478,45,,14
+30s,M,4,Post-Graduate,Married,$120K +,Blue,2 - 3,6,3,3,8700,1742,6958,2306,50,,20
+50s,M,3,Unknown,Single,$60K - $80K,Blue,2 - 3,3,3,3,14266,1341,12925,1625,34,,09
+60s,M,0,Graduate,Married,$60K - $80K,Blue,4 - 5,6,2,3,9918,850,9068,2485,40,,09
+50s,M,2,Graduate,Single,$80K - $120K,Blue,2 - 3,5,3,2,1438,327,1111,1783,40,,23
+40s,F,3,Uneducated,Married,Less than $40K,Blue,3 - 4,5,3,2,4960,0,4960,2430,48,,00
+40s,F,4,Graduate,Married,$40K - $60K,Blue,2 - 3,5,3,1,4152,1446,2706,2218,30,,35
+60s,M,0,College,Unknown,$40K - $60K,Blue,4 - 5,2,6,2,3477,0,3477,2113,40,,00
+40s,M,3,Graduate,Married,$120K +,Blue,2 - 3,5,3,2,2269,0,2269,2108,39,,00
+40s,F,2,College,Unknown,Less than $40K,Blue,2 - 3,6,1,3,2387,2013,374,2134,41,,84
+50s,F,5,High School,Married,Unknown,Blue,3 - 4,5,3,3,5342,605,4737,2426,46,,11
+50s,F,2,Graduate,Unknown,Less than $40K,Blue,3 - 4,5,3,2,1695,913,782,2130,48,,54
+50s,F,1,Graduate,Married,Less than $40K,Blue,4 - 5,3,3,3,3173,2517,656,2763,51,,79
+40s,M,5,High School,Unknown,$80K - $120K,Blue,3 - 4,3,3,2,1504,0,1504,2530,43,,00
+40s,F,3,Graduate,Divorced,$40K - $60K,Blue,3 - 4,1,3,3,1477,0,1477,2214,43,,00
+50s,F,2,High School,Single,Less than $40K,Blue,3 - 4,5,4,2,2423,268,2155,2516,59,,11
+40s,M,3,College,Married,$60K - $80K,Blue,2 - 3,2,3,3,1438,0,1438,1707,38,,00
+30s,F,3,High School,Married,Unknown,Blue,2 - 3,3,3,3,9874,0,9874,2446,47,,00
+40s,M,4,High School,Divorced,Less than $40K,Blue,2 - 3,4,2,3,3489,2517,972,2684,39,,72
+40s,F,3,Unknown,Married,Less than $40K,Blue,2 - 3,6,3,3,2910,0,2910,2648,41,,00
+50s,F,0,Doctorate,Single,Less than $40K,Blue,2 - 3,4,3,2,2708,0,2708,2321,45,,00
+40s,M,2,Doctorate,Divorced,$80K - $120K,Blue,2 - 3,1,3,3,1438,0,1438,2388,42,,00
+50s,F,3,Graduate,Married,Less than $40K,Blue,2 - 3,5,3,3,2566,1079,1487,2340,36,,42
+40s,F,4,Unknown,Married,$40K - $60K,Blue,2 - 3,1,3,4,3356,2517,839,2032,39,,75
+40s,F,3,Graduate,Married,Less than $40K,Blue,2 - 3,3,3,1,1438,0,1438,2658,43,,00
+30s,M,3,Graduate,Married,$80K - $120K,Blue,1 - 2,5,3,2,5015,1963,3052,2491,43,,39
+30s,F,2,High School,Single,Less than $40K,Blue,2 - 3,3,3,3,1568,0,1568,2812,59,,00
+40s,F,3,Graduate,Married,Unknown,Blue,2 - 3,3,3,1,5590,0,5590,1507,32,,00
+40s,F,4,College,Married,Less than $40K,Blue,3 - 4,3,2,3,1745,0,1745,2297,44,,00
+40s,M,3,Graduate,Single,$80K - $120K,Blue,3 - 4,1,3,3,8383,0,8383,2600,44,,00
+30s,F,2,Unknown,Married,$40K - $60K,Blue,2 - 3,6,2,2,1628,0,1628,2527,41,,00
+30s,F,4,Post-Graduate,Married,Less than $40K,Blue,2 - 3,3,3,3,1586,0,1586,2109,41,,00
+40s,F,4,Doctorate,Unknown,Unknown,Blue,2 - 3,5,3,6,1438,0,1438,2316,48,,00
+50s,F,4,Graduate,Single,$40K - $60K,Blue,3 - 4,2,3,2,4708,920,3788,2179,50,,20
+40s,F,4,Uneducated,Married,Less than $40K,Blue,1 - 2,3,2,3,3214,0,3214,2119,44,,00
+50s,M,4,High School,Single,$80K - $120K,Silver,4 - 5,1,3,4,34516,214,34302,1201,22,,01
+30s,F,2,Graduate,Divorced,Unknown,Blue,2 - 3,2,3,4,12373,0,12373,2462,40,,00
+40s,F,3,High School,Married,$40K - $60K,Blue,2 - 3,6,3,1,1585,1381,204,2360,40,,87
+30s,F,1,Uneducated,Single,$40K - $60K,Blue,2 - 3,5,3,6,3911,0,3911,2867,42,,00
+40s,F,2,Post-Graduate,Single,Unknown,Blue,3 - 4,1,3,3,4848,2517,2331,2353,53,,52
+40s,M,2,Graduate,Unknown,$80K - $120K,Blue,3 - 4,3,4,3,34516,0,34516,1592,35,,00
+40s,M,3,Post-Graduate,Single,$80K - $120K,Blue,2 - 3,4,4,3,8958,0,8958,2131,43,,00
+30s,M,3,Unknown,Unknown,$80K - $120K,Blue,2 - 3,4,1,2,1815,0,1815,2039,34,,00
+50s,F,3,Graduate,Married,Less than $40K,Blue,3 - 4,1,4,2,1759,186,1573,2705,35,,11
+30s,F,1,Unknown,Married,$40K - $60K,Blue,2 - 3,6,4,4,2045,1707,338,2183,39,,83
+40s,F,4,Graduate,Unknown,Less than $40K,Blue,3 - 4,1,4,2,3017,1868,1149,2096,50,,62
+30s,M,1,Graduate,Single,$60K - $80K,Blue,2 - 3,4,3,2,1819,725,1094,2254,45,,40
+40s,F,3,Unknown,Married,Less than $40K,Blue,2 - 3,3,4,6,2279,1837,442,2789,52,,81
+40s,F,4,High School,Married,$40K - $60K,Blue,3 - 4,4,2,2,1438,0,1438,2520,45,,00
+50s,F,0,Graduate,Single,Less than $40K,Blue,3 - 4,2,3,1,3423,0,3423,2229,45,,00
+40s,F,4,Doctorate,Married,Less than $40K,Blue,1 - 2,1,2,1,2984,2517,467,2373,53,,84
+30s,F,3,High School,Single,Less than $40K,Blue,2 - 3,3,3,3,1653,0,1653,2284,35,,00
+40s,F,1,Uneducated,Single,Less than $40K,Blue,2 - 3,1,3,2,1818,0,1818,2279,50,,00
+50s,F,1,Unknown,Single,Unknown,Blue,3 - 4,6,3,3,9248,0,9248,2325,45,,00
+40s,F,3,College,Married,Less than $40K,Blue,2 - 3,2,3,3,5357,2139,3218,1979,48,,40
+40s,F,4,Uneducated,Divorced,Less than $40K,Blue,2 - 3,6,3,1,1706,0,1706,2371,45,,00
+50s,F,2,High School,Divorced,Less than $40K,Blue,2 - 3,6,3,1,3591,2517,1074,2313,43,,70
+40s,F,3,High School,Married,Less than $40K,Blue,3 - 4,3,2,3,2951,2437,514,2519,36,,83
+50s,M,1,College,Single,$120K +,Blue,3 - 4,6,2,3,9090,2517,6573,2239,43,,28
+50s,M,2,Unknown,Married,$80K - $120K,Blue,2 - 3,4,3,2,1837,875,962,2169,43,,48
+30s,F,3,Graduate,Single,Less than $40K,Blue,1 - 2,4,2,2,1784,577,1207,2348,47,,32
+50s,F,2,Uneducated,Single,Less than $40K,Blue,2 - 3,1,3,5,1883,400,1483,1954,45,,21
+40s,M,3,Uneducated,Married,$40K - $60K,Blue,2 - 3,1,2,4,1684,644,1040,2164,36,,38
+40s,F,3,Unknown,Married,Less than $40K,Blue,3 - 4,3,3,2,1438,0,1438,1687,38,,00
+40s,M,5,High School,Married,$60K - $80K,Blue,2 - 3,1,2,3,1866,0,1866,2833,42,,00
+40s,F,2,College,Divorced,$40K - $60K,Blue,3 - 4,4,3,4,3076,0,3076,2580,50,,00
+50s,F,1,Post-Graduate,Divorced,Less than $40K,Blue,4 - 5,4,1,3,1817,0,1817,2347,45,,00
+50s,F,0,Graduate,Married,Less than $40K,Blue,2 - 3,2,3,2,1708,0,1708,1992,38,,00
+50s,F,2,Graduate,Married,$40K - $60K,Blue,3 - 4,3,4,2,1606,0,1606,2258,37,,00
+40s,F,3,Graduate,Married,Less than $40K,Blue,2 - 3,4,3,2,1666,0,1666,2816,38,,00
+40s,F,3,High School,Divorced,Less than $40K,Blue,1 - 2,4,2,2,1662,613,1049,2326,31,,37
+40s,F,3,Graduate,Single,Less than $40K,Blue,2 - 3,6,2,2,2053,0,2053,3053,50,,00
+30s,F,1,Uneducated,Married,$40K - $60K,Blue,2 - 3,3,3,3,2821,725,2096,2397,35,,26
+40s,F,3,Graduate,Married,Less than $40K,Blue,2 - 3,4,3,2,2031,1720,311,2702,32,,85
+50s,M,2,High School,Divorced,Less than $40K,Blue,4 - 5,6,5,3,1438,0,1438,2589,49,,00
+50s,M,1,Unknown,Single,$60K - $80K,Blue,3 - 4,4,3,3,7603,744,6859,2497,42,,10
+40s,F,3,Uneducated,Married,$40K - $60K,Blue,2 - 3,1,3,4,3606,0,3606,1829,41,,00
+30s,F,3,College,Single,Less than $40K,Blue,2 - 3,4,3,2,3611,2517,1094,2178,45,,70
+50s,F,2,Graduate,Married,Less than $40K,Blue,2 - 3,5,3,4,2160,0,2160,2360,56,,00
+40s,F,5,Graduate,Unknown,Less than $40K,Blue,3 - 4,6,3,2,1545,0,1545,2646,39,,00
+40s,F,2,Graduate,Married,Less than $40K,Blue,3 - 4,3,3,1,2212,0,2212,2394,55,,00
+30s,F,3,Uneducated,Single,Less than $40K,Blue,1 - 2,3,3,1,2784,2378,406,2021,57,,85
+50s,M,1,Post-Graduate,Single,$60K - $80K,Blue,2 - 3,4,3,2,2317,0,2317,2214,41,,00
+50s,F,0,Doctorate,Single,Less than $40K,Blue,3 - 4,4,3,3,2595,2353,242,2526,41,,91
+40s,F,1,Graduate,Married,Unknown,Blue,1 - 2,3,3,2,2694,1576,1118,2041,57,,58
+50s,F,4,High School,Married,Less than $40K,Blue,3 - 4,3,3,4,2791,940,1851,2584,49,,34
+60s,M,0,Uneducated,Married,$80K - $120K,Blue,3 - 4,3,3,5,1438,0,1438,1958,47,,00
+40s,M,4,Graduate,Single,$80K - $120K,Blue,2 - 3,4,2,2,10834,0,10834,2249,51,,00
+30s,F,5,Unknown,Married,$40K - $60K,Blue,2 - 3,3,3,6,3333,1867,1466,3348,50,,56
+30s,F,4,Graduate,Married,Less than $40K,Blue,2 - 3,2,2,4,5021,2517,2504,2270,40,,50
+40s,M,3,Doctorate,Married,$40K - $60K,Blue,2 - 3,3,3,4,2313,0,2313,2249,42,,00
+40s,F,4,Graduate,Married,$40K - $60K,Blue,2 - 3,4,3,2,2918,0,2918,2056,54,,00
+40s,M,2,College,Single,$80K - $120K,Blue,2 - 3,2,4,3,4617,1035,3582,1779,35,,22
+40s,M,4,High School,Married,$60K - $80K,Blue,2 - 3,4,3,5,5869,0,5869,2203,41,,00
+50s,F,3,College,Single,Less than $40K,Blue,3 - 4,1,3,3,2272,1350,922,2354,49,,59
+50s,F,3,Graduate,Single,Less than $40K,Blue,3 - 4,2,3,4,2437,0,2437,3068,53,,00
+40s,M,3,Graduate,Married,$80K - $120K,Blue,3 - 4,4,2,3,4576,193,4383,3100,54,,04
+30s,F,4,College,Single,$40K - $60K,Blue,2 - 3,3,2,3,1776,0,1776,2201,31,,00
+40s,M,4,College,Married,$60K - $80K,Blue,2 - 3,4,2,1,1681,0,1681,1953,48,,00
+40s,F,3,High School,Unknown,Less than $40K,Blue,3 - 4,4,2,1,2363,978,1385,2635,40,,41
+40s,F,3,Uneducated,Unknown,Unknown,Blue,2 - 3,2,3,1,13733,0,13733,1591,30,,00
+30s,M,3,High School,Single,$120K +,Blue,2 - 3,3,2,2,7361,0,7361,2109,44,,00
+40s,F,2,College,Divorced,Less than $40K,Blue,2 - 3,3,3,4,1569,257,1312,2288,45,,16
+40s,F,3,Unknown,Unknown,Unknown,Blue,2 - 3,3,3,2,4431,2517,1914,2185,48,,57
+50s,M,1,Unknown,Married,$80K - $120K,Blue,3 - 4,4,3,4,24462,946,23516,1709,37,,04
+30s,F,3,College,Married,Unknown,Blue,1 - 2,4,2,4,11239,0,11239,2055,43,,00
+40s,F,0,Uneducated,Divorced,Unknown,Blue,2 - 3,3,3,4,2712,0,2712,2307,28,,00
+30s,F,1,High School,Married,Less than $40K,Blue,2 - 3,3,3,3,4196,731,3465,1868,30,,17
+60s,F,1,High School,Single,Unknown,Blue,4 - 5,3,2,4,3293,0,3293,3121,56,,00
+40s,F,3,College,Married,Less than $40K,Blue,2 - 3,3,3,2,1601,0,1601,2339,41,,00
+30s,F,1,Unknown,Married,Less than $40K,Blue,2 - 3,2,3,3,2401,496,1905,2597,40,,21
+30s,M,3,Uneducated,Married,$60K - $80K,Blue,2 - 3,4,3,4,2187,0,2187,2031,40,,00
+40s,F,4,Graduate,Single,Less than $40K,Blue,1 - 2,4,2,3,1438,0,1438,2502,45,,00
+50s,F,2,College,Married,Less than $40K,Blue,3 - 4,3,3,3,1473,0,1473,2836,48,,00
+40s,F,2,Doctorate,Married,$40K - $60K,Blue,2 - 3,4,2,3,2208,0,2208,2659,56,,00
+40s,F,1,Unknown,Single,Less than $40K,Blue,3 - 4,3,1,2,3251,2517,734,2483,50,,77
+50s,F,2,Uneducated,Divorced,Less than $40K,Blue,2 - 3,3,3,3,1863,1853,10,2462,40,,99
+40s,F,2,Graduate,Unknown,Less than $40K,Blue,2 - 3,6,3,2,3413,0,3413,2285,40,,00
+40s,F,5,High School,Unknown,$40K - $60K,Blue,1 - 2,3,2,2,4430,2203,2227,2742,49,,50
+30s,F,2,College,Married,Less than $40K,Blue,2 - 3,1,3,2,1696,0,1696,2325,56,,00
+40s,M,3,Uneducated,Divorced,$80K - $120K,Blue,2 - 3,2,2,3,6614,1881,4733,3016,51,,28
+40s,F,1,Uneducated,Single,Less than $40K,Blue,2 - 3,4,3,3,3241,0,3241,2152,43,,00
+40s,F,2,Unknown,Married,Less than $40K,Blue,2 - 3,3,3,3,4204,0,4204,2316,43,,00
+40s,F,3,Unknown,Single,$40K - $60K,Blue,2 - 3,3,3,3,2473,2332,141,1738,32,,94
+40s,M,2,High School,Single,$60K - $80K,Blue,2 - 3,3,3,3,4836,493,4343,1870,45,,10
+40s,M,4,Graduate,Single,Less than $40K,Blue,2 - 3,5,2,3,1438,1060,378,1253,29,,74
+40s,F,3,High School,Single,Less than $40K,Blue,2 - 3,2,3,3,2228,0,2228,2523,45,,00
+40s,F,3,Uneducated,Married,Less than $40K,Blue,2 - 3,3,3,3,2745,2463,282,2466,39,,90
+30s,F,1,Graduate,Divorced,Unknown,Blue,1 - 2,2,2,3,1623,0,1623,2126,45,,00
+50s,F,3,Graduate,Single,Unknown,Blue,2 - 3,3,3,3,10016,1872,8144,2804,37,,19
+40s,F,5,Unknown,Married,$40K - $60K,Blue,2 - 3,5,2,3,1588,0,1588,2561,61,,00
+40s,F,3,Unknown,Divorced,Less than $40K,Blue,2 - 3,4,3,1,3223,243,2980,1979,38,,07
+30s,F,1,Graduate,Married,Unknown,Blue,2 - 3,3,3,3,8953,0,8953,1982,43,,00
+50s,F,3,Uneducated,Single,Unknown,Blue,2 - 3,2,3,3,3187,986,2201,2381,47,,31
+40s,M,4,Graduate,Unknown,$80K - $120K,Blue,2 - 3,3,3,2,19782,868,18914,2535,44,,04
+50s,M,4,Uneducated,Single,$80K - $120K,Blue,3 - 4,3,3,2,11561,2189,9372,2153,39,,19
+40s,F,2,High School,Married,Unknown,Blue,2 - 3,4,3,3,8477,2517,5960,2455,41,,30
+40s,F,4,Uneducated,Single,Unknown,Blue,2 - 3,3,3,4,8075,317,7758,2415,41,,04
+40s,F,4,High School,Unknown,Less than $40K,Blue,3 - 4,2,2,3,2616,2505,111,2576,42,,96
+50s,F,1,Graduate,Single,Less than $40K,Blue,2 - 3,5,2,2,2939,2152,787,2476,42,,73
+30s,F,2,Graduate,Married,Less than $40K,Blue,1 - 2,3,2,5,3202,0,3202,2917,37,,00
+50s,F,1,High School,Single,Less than $40K,Blue,2 - 3,3,3,2,1795,0,1795,2281,55,,00
+50s,F,3,Post-Graduate,Married,Less than $40K,Blue,3 - 4,2,4,1,1760,0,1760,1554,35,,00
+50s,F,1,Graduate,Single,$40K - $60K,Blue,2 - 3,3,3,3,8840,1794,7046,2839,47,,20
+30s,F,4,High School,Married,Less than $40K,Blue,1 - 2,3,2,4,1555,872,683,2252,51,,56
+40s,M,4,Uneducated,Married,$120K +,Blue,2 - 3,2,3,3,5195,468,4727,2682,48,,09
+30s,M,2,Uneducated,Single,Unknown,Blue,1 - 2,2,2,3,1649,0,1649,2574,51,,00
+40s,M,4,High School,Married,$120K +,Blue,2 - 3,3,2,3,17228,1331,15897,2229,44,,08
+40s,F,3,Uneducated,Divorced,$40K - $60K,Blue,3 - 4,2,3,2,3157,965,2192,3300,58,,31
+30s,F,3,College,Married,Less than $40K,Blue,2 - 3,2,2,2,1707,0,1707,2060,52,,00
+40s,F,2,Uneducated,Single,Less than $40K,Blue,2 - 3,2,2,2,3021,0,3021,2814,37,,00
+50s,F,3,High School,Divorced,Less than $40K,Blue,3 - 4,3,3,1,6629,2517,4112,2599,50,,38
+50s,F,3,Unknown,Divorced,Less than $40K,Blue,2 - 3,2,2,3,1508,0,1508,1990,31,,00
+50s,F,3,High School,Married,Unknown,Blue,4 - 5,2,5,2,1438,0,1438,2607,37,,00
+40s,F,4,Graduate,Single,Less than $40K,Blue,3 - 4,3,3,6,1438,0,1438,2295,51,,00
+30s,F,2,Graduate,Unknown,Less than $40K,Blue,2 - 3,2,3,2,2369,0,2369,1924,48,,00
+50s,F,1,Graduate,Single,Unknown,Blue,3 - 4,3,3,3,1874,0,1874,2535,55,,00
+30s,F,4,Graduate,Married,$40K - $60K,Blue,2 - 3,4,3,1,4047,0,4047,2134,34,,00
+40s,F,5,Doctorate,Married,Unknown,Blue,3 - 4,3,5,3,4345,2176,2169,2458,44,,50
+30s,M,2,High School,Single,$120K +,Blue,2 - 3,1,3,4,1726,1476,250,1804,34,,85
+40s,F,2,College,Single,Less than $40K,Blue,2 - 3,4,3,3,1751,0,1751,2078,37,,00
+40s,F,4,High School,Divorced,Less than $40K,Blue,2 - 3,2,3,2,8203,0,8203,2613,46,,00
+50s,M,1,College,Single,$120K +,Blue,3 - 4,2,4,2,4789,357,4432,2496,41,,07
+40s,M,4,Graduate,Single,$40K - $60K,Blue,2 - 3,2,2,4,2979,0,2979,2061,38,,00
+40s,F,3,Graduate,Single,Less than $40K,Blue,2 - 3,5,3,2,2391,0,2391,2857,40,,00
+40s,F,1,High School,Married,$40K - $60K,Blue,2 - 3,5,3,2,2705,2430,275,2602,43,,90
+50s,F,1,Unknown,Married,$40K - $60K,Blue,4 - 5,4,3,6,2471,0,2471,2519,35,,00
+50s,F,3,Unknown,Single,Less than $40K,Blue,2 - 3,2,3,3,1857,0,1857,2464,57,,00
+40s,F,2,Graduate,Married,Less than $40K,Blue,2 - 3,2,2,2,2234,2024,210,2313,37,,91
+30s,F,1,Graduate,Single,Less than $40K,Blue,2 - 3,2,2,2,1649,0,1649,2549,54,,00
+40s,F,4,Uneducated,Married,Unknown,Blue,2 - 3,6,2,3,5557,2246,3311,2299,39,,40
+40s,F,3,Doctorate,Married,Less than $40K,Blue,1 - 2,5,2,2,1728,0,1728,2191,38,,00
+30s,F,3,Unknown,Single,Unknown,Blue,2 - 3,4,2,3,1438,0,1438,2549,56,,00
+50s,M,1,High School,Single,$80K - $120K,Blue,3 - 4,1,3,2,3770,0,3770,2387,51,,00
+50s,F,2,Unknown,Single,$40K - $60K,Blue,3 - 4,2,2,3,2963,0,2963,2919,47,,00
+40s,F,2,Graduate,Single,Unknown,Blue,3 - 4,4,2,3,11750,487,11263,2532,48,,04
+40s,F,2,Graduate,Single,Less than $40K,Blue,3 - 4,4,2,3,2168,1323,845,2499,38,,61
+40s,F,4,Doctorate,Married,Less than $40K,Blue,2 - 3,5,3,3,1663,1012,651,2729,38,,61
+30s,F,0,Unknown,Divorced,Less than $40K,Blue,2 - 3,6,3,3,1732,0,1732,2479,43,,00
+40s,M,3,Unknown,Single,$40K - $60K,Blue,3 - 4,5,2,2,1643,0,1643,1754,39,,00
+30s,M,3,College,Married,$80K - $120K,Blue,2 - 3,2,3,3,4618,0,4618,2476,49,,00
+20s,F,0,High School,Single,Less than $40K,Blue,1 - 2,6,1,4,1438,0,1438,2641,40,,00
+40s,F,4,Graduate,Married,Less than $40K,Blue,2 - 3,6,2,2,1655,0,1655,2156,37,,00
+40s,F,3,Graduate,Single,Less than $40K,Blue,3 - 4,1,2,4,1438,0,1438,1757,44,,00
+50s,F,2,Unknown,Married,Unknown,Blue,4 - 5,2,4,3,1812,1798,14,2921,44,,99
+40s,F,4,Unknown,Married,Less than $40K,Blue,2 - 3,5,2,3,2020,0,2020,2621,45,,00
+30s,F,2,Post-Graduate,Single,Less than $40K,Blue,2 - 3,1,2,3,1821,1486,335,2824,43,,82
+30s,F,1,High School,Married,Less than $40K,Blue,2 - 3,2,2,1,2024,0,2024,2870,36,,00
+50s,M,5,Uneducated,Married,$120K +,Blue,3 - 4,4,2,2,19138,0,19138,2028,43,,00
+60s,F,0,High School,Married,Unknown,Blue,4 - 5,4,1,3,5549,0,5549,2412,38,,00
+40s,F,3,High School,Single,Less than $40K,Blue,2 - 3,2,3,3,2145,0,2145,2465,42,,00
+40s,M,3,Graduate,Married,$60K - $80K,Blue,2 - 3,2,3,3,9114,0,9114,2740,52,,00
+30s,F,3,High School,Unknown,Less than $40K,Blue,2 - 3,2,3,2,1817,0,1817,2216,44,,00
+50s,F,1,Graduate,Married,Less than $40K,Blue,3 - 4,1,5,3,1471,0,1471,2253,48,,00
+40s,F,2,Graduate,Married,Less than $40K,Blue,2 - 3,2,3,3,1438,0,1438,2418,48,,00
+40s,F,4,College,Married,Less than $40K,Blue,2 - 3,5,2,4,1484,0,1484,1664,39,,00
+30s,F,3,Post-Graduate,Married,$40K - $60K,Blue,2 - 3,2,2,5,3233,2517,716,1339,32,,78
+50s,F,3,Graduate,Single,Less than $40K,Blue,2 - 3,5,3,5,1438,1030,408,1985,38,,72
+40s,F,3,Uneducated,Married,Unknown,Blue,2 - 3,2,3,1,2872,357,2515,2629,41,,12
+40s,F,4,Uneducated,Married,Less than $40K,Blue,2 - 3,4,3,2,1567,0,1567,2138,41,,00
+40s,M,3,College,Divorced,$80K - $120K,Blue,2 - 3,6,3,2,7278,0,7278,2120,43,,00
+30s,F,1,Uneducated,Unknown,Less than $40K,Blue,2 - 3,2,3,2,1470,458,1012,2383,39,,31
+40s,F,2,College,Married,Unknown,Blue,2 - 3,1,2,6,3793,2517,1276,2577,57,,66
+50s,F,4,Graduate,Unknown,$40K - $60K,Blue,3 - 4,2,2,1,1779,0,1779,2660,41,,00
+40s,F,3,Uneducated,Single,Unknown,Blue,2 - 3,2,3,4,2952,0,2952,2907,60,,00
+50s,F,2,High School,Married,Less than $40K,Blue,2 - 3,6,3,2,3918,2517,1401,2115,42,,64
+40s,F,4,High School,Unknown,$40K - $60K,Blue,3 - 4,4,3,3,4048,0,4048,2227,41,,00
+40s,F,4,College,Married,$40K - $60K,Blue,2 - 3,1,3,2,1695,0,1695,2055,46,,00
+40s,F,4,Graduate,Single,Less than $40K,Blue,2 - 3,2,3,3,2881,2450,431,2450,49,,85
+30s,F,2,Graduate,Single,Less than $40K,Blue,2 - 3,1,2,3,1666,0,1666,2312,35,,00
+40s,F,2,Doctorate,Single,Unknown,Blue,2 - 3,4,2,3,3137,860,2277,1618,34,,27
+50s,F,4,Graduate,Single,Less than $40K,Blue,3 - 4,5,3,3,1483,0,1483,2520,40,,00
+40s,F,3,High School,Married,Unknown,Blue,2 - 3,3,3,4,7772,0,7772,2618,52,,00
+50s,M,1,Graduate,Married,$80K - $120K,Blue,4 - 5,3,6,3,8688,0,8688,2361,41,,00
+40s,F,2,Graduate,Single,Less than $40K,Gold,3 - 4,6,2,1,15109,897,14212,2315,43,,06
+50s,F,0,High School,Married,Unknown,Blue,3 - 4,1,4,4,9989,568,9421,2053,49,,06
+50s,F,1,College,Married,Unknown,Blue,3 - 4,2,4,4,1438,0,1438,2264,37,,00
+50s,F,3,High School,Single,Less than $40K,Blue,2 - 3,4,3,3,2347,1900,447,2447,47,,81
+50s,F,3,Unknown,Single,Less than $40K,Blue,3 - 4,1,3,4,1632,0,1632,2509,47,,00
+40s,F,3,Uneducated,Married,Less than $40K,Blue,2 - 3,4,2,4,1522,0,1522,2241,36,,00
+40s,F,3,Graduate,Unknown,Less than $40K,Blue,3 - 4,2,2,3,3165,2517,648,2751,49,,80
+40s,F,3,Uneducated,Single,$40K - $60K,Blue,3 - 4,1,2,3,2655,2283,372,2386,49,,86
+40s,F,2,Doctorate,Married,$40K - $60K,Blue,2 - 3,1,3,3,1604,0,1604,2264,47,,00
+50s,F,1,Graduate,Married,$40K - $60K,Blue,3 - 4,6,4,3,1632,351,1281,2532,43,,21
+40s,F,4,Unknown,Married,$40K - $60K,Blue,3 - 4,5,3,3,1438,819,619,2488,44,,57
+40s,F,4,Doctorate,Single,Less than $40K,Blue,2 - 3,2,2,3,2292,0,2292,2595,31,,00
+40s,M,3,High School,Unknown,Less than $40K,Blue,2 - 3,1,3,4,2420,191,2229,2478,43,,08
+30s,F,2,High School,Single,Less than $40K,Blue,1 - 2,2,1,2,2703,0,2703,2752,43,,00
+50s,M,1,Unknown,Single,$80K - $120K,Blue,3 - 4,5,6,5,7570,965,6605,2599,61,,13
+50s,F,3,College,Married,$40K - $60K,Blue,2 - 3,2,3,3,4762,0,4762,2811,52,,00
+40s,M,3,College,Married,$80K - $120K,Blue,3 - 4,2,3,3,3430,2517,913,2639,46,,73
+40s,M,3,Doctorate,Single,$120K +,Blue,2 - 3,4,2,3,6314,0,6314,2718,44,,00
+50s,F,2,Unknown,Divorced,$40K - $60K,Blue,3 - 4,1,4,3,2295,0,2295,2140,40,,00
+40s,M,5,Graduate,Married,$60K - $80K,Blue,3 - 4,2,3,5,1438,0,1438,2389,49,,00
+40s,M,2,High School,Single,$80K - $120K,Blue,2 - 3,4,3,5,4754,0,4754,2607,41,,00
+40s,F,2,Graduate,Single,Less than $40K,Blue,3 - 4,6,3,3,1791,0,1791,2771,36,,00
+50s,F,1,Graduate,Single,Less than $40K,Blue,4 - 5,1,4,4,4257,2517,1740,2828,50,,59
+40s,M,5,College,Married,$60K - $80K,Blue,3 - 4,2,3,3,3439,0,3439,2661,35,,00
+40s,M,4,Unknown,Divorced,$60K - $80K,Blue,2 - 3,2,2,3,5051,0,5051,2137,45,,00
+40s,F,1,High School,Single,Less than $40K,Blue,2 - 3,2,3,3,1895,0,1895,2472,40,,00
+50s,F,4,Graduate,Married,Unknown,Blue,4 - 5,5,5,4,10533,330,10203,2585,48,,03
+50s,F,1,Graduate,Single,Less than $40K,Blue,3 - 4,6,6,3,2370,1166,1204,2164,45,,49
+30s,F,3,Graduate,Single,Less than $40K,Blue,2 - 3,1,3,4,1678,0,1678,2475,61,,00
+30s,F,1,Graduate,Married,Less than $40K,Blue,2 - 3,4,2,3,1493,0,1493,2516,63,,00
+50s,F,4,High School,Married,Less than $40K,Blue,2 - 3,5,3,5,2690,1614,1076,2272,57,,60
+40s,F,3,High School,Unknown,Less than $40K,Blue,3 - 4,2,3,4,3313,0,3313,2135,44,,00
+50s,F,3,High School,Married,Less than $40K,Blue,3 - 4,2,2,4,2452,1012,1440,2398,29,,41
+30s,F,2,Unknown,Unknown,$40K - $60K,Blue,2 - 3,1,2,3,4363,0,4363,2596,48,,00
+30s,F,3,Uneducated,Married,Unknown,Blue,2 - 3,6,3,4,3023,1348,1675,2219,44,,45
+50s,F,3,Graduate,Married,Less than $40K,Blue,3 - 4,2,3,4,1438,0,1438,1988,42,,00
+30s,F,3,High School,Single,Less than $40K,Blue,2 - 3,2,3,0,2920,2426,494,2750,41,,83
+40s,F,1,Graduate,Married,Less than $40K,Blue,3 - 4,5,3,3,1938,0,1938,2870,49,,00
+40s,F,3,Uneducated,Single,Unknown,Blue,2 - 3,2,3,3,1706,0,1706,2320,42,,00
+40s,F,3,High School,Single,Less than $40K,Blue,2 - 3,6,3,5,5492,1573,3919,2416,45,,29
+40s,M,3,Uneducated,Single,$120K +,Blue,2 - 3,2,3,5,7135,2517,4618,2305,42,,35
+40s,F,3,Doctorate,Single,Unknown,Blue,2 - 3,2,3,6,2246,0,2246,3607,51,,00
+40s,F,3,Graduate,Single,Less than $40K,Blue,3 - 4,6,3,4,1675,0,1675,2622,53,,00
+30s,F,3,Unknown,Married,Less than $40K,Blue,2 - 3,5,2,5,2190,0,2190,2338,40,,00
+40s,F,2,Graduate,Single,$40K - $60K,Blue,2 - 3,2,3,4,4196,561,3635,2558,38,,13
+50s,F,4,Uneducated,Single,Less than $40K,Blue,2 - 3,2,2,3,2477,0,2477,2037,43,,00
+40s,M,3,Unknown,Single,$60K - $80K,Blue,2 - 3,1,3,3,4697,1046,3651,1679,29,,22
+40s,M,2,Uneducated,Unknown,$60K - $80K,Blue,2 - 3,4,3,2,1438,681,757,2527,38,,47
+40s,M,3,Unknown,Single,$80K - $120K,Blue,2 - 3,1,3,4,4742,2221,2521,2422,41,,47
+50s,F,1,High School,Married,$40K - $60K,Blue,3 - 4,2,4,3,4629,710,3919,2877,49,,15
+30s,F,3,Unknown,Single,Less than $40K,Blue,2 - 3,4,3,0,1558,261,1297,2424,40,,17
+40s,M,4,Doctorate,Married,$60K - $80K,Blue,3 - 4,1,2,2,13093,2517,10576,2032,39,,19
+40s,F,1,High School,Single,Less than $40K,Blue,2 - 3,4,3,2,2372,0,2372,2499,41,,00
+40s,F,2,Graduate,Single,Less than $40K,Blue,2 - 3,1,3,4,1492,0,1492,2469,38,,00
+50s,F,2,High School,Married,Unknown,Blue,3 - 4,1,3,4,2233,1790,443,2888,50,,80
+40s,F,2,Graduate,Unknown,Less than $40K,Blue,3 - 4,5,2,2,6568,0,6568,1507,33,,00
+40s,F,3,High School,Married,$40K - $60K,Blue,2 - 3,5,3,2,1456,0,1456,2843,42,,00
+50s,M,2,Graduate,Single,$60K - $80K,Blue,3 - 4,2,3,3,3460,0,3460,2355,47,,00
+30s,F,1,Uneducated,Married,Less than $40K,Blue,1 - 2,6,2,2,1438,0,1438,2614,49,,00
+50s,F,2,College,Single,Unknown,Blue,4 - 5,1,0,6,1438,0,1438,2278,57,,00
+40s,F,4,High School,Single,Unknown,Blue,2 - 3,6,2,2,4549,1631,2918,2240,34,,36
+30s,F,0,Unknown,Married,Less than $40K,Blue,2 - 3,5,3,3,1438,0,1438,2464,37,,00
+50s,F,1,High School,Single,Less than $40K,Blue,3 - 4,1,5,2,3556,0,3556,2220,45,,00
+50s,F,2,Graduate,Married,Unknown,Blue,2 - 3,2,3,2,7551,0,7551,2977,46,,00
+50s,F,0,Graduate,Unknown,Unknown,Blue,4 - 5,2,3,2,9076,0,9076,3048,53,,00
+30s,M,2,High School,Married,$80K - $120K,Blue,2 - 3,6,2,0,1439,0,1439,2932,44,,00
+30s,F,3,Graduate,Married,Unknown,Blue,2 - 3,2,2,3,4376,855,3521,2862,52,,20
+40s,F,1,Uneducated,Unknown,Unknown,Blue,2 - 3,5,2,6,2069,0,2069,2754,55,,00
+50s,F,3,Unknown,Unknown,Less than $40K,Blue,3 - 4,5,3,2,1462,0,1462,2299,42,,00
+50s,F,0,Unknown,Single,$40K - $60K,Blue,4 - 5,2,4,3,1852,0,1852,2851,49,,00
+40s,F,4,College,Single,Less than $40K,Blue,3 - 4,6,3,2,3785,2517,1268,2401,54,,67
+50s,F,1,Unknown,Unknown,Less than $40K,Blue,2 - 3,2,3,2,3626,795,2831,2954,42,,22
+50s,F,1,High School,Married,Less than $40K,Blue,3 - 4,4,3,3,1665,1521,144,2878,45,,91
+40s,F,4,Graduate,Married,Less than $40K,Blue,3 - 4,2,4,3,2575,2517,58,1874,40,,98
+60s,M,1,Graduate,Single,$60K - $80K,Blue,4 - 5,6,4,3,14324,2507,11817,2083,56,,17
+40s,F,5,Graduate,Married,Less than $40K,Blue,2 - 3,2,3,3,1504,970,534,2801,51,,65
+40s,F,4,Unknown,Single,Unknown,Gold,2 - 3,1,2,3,34516,0,34516,2198,42,,00
+40s,M,2,High School,Single,$40K - $60K,Blue,2 - 3,5,2,2,6362,0,6362,1968,51,,00
+50s,F,2,College,Single,Unknown,Blue,2 - 3,1,3,3,8827,0,8827,2643,50,,00
+50s,F,3,Uneducated,Single,$40K - $60K,Blue,2 - 3,2,3,3,1915,1445,470,2264,39,,76
+50s,F,3,High School,Unknown,Less than $40K,Blue,3 - 4,4,3,2,1667,595,1072,2424,40,,36
+40s,F,5,High School,Single,Less than $40K,Blue,2 - 3,2,3,2,1636,0,1636,2235,35,,00
+40s,F,4,Graduate,Married,Less than $40K,Blue,2 - 3,6,3,3,1905,0,1905,3120,46,,00
+40s,M,3,Graduate,Divorced,$40K - $60K,Blue,3 - 4,2,3,3,9104,145,8959,2563,34,,02
+50s,M,2,Unknown,Divorced,$120K +,Blue,3 - 4,1,2,4,24379,1116,23263,2836,41,,05
+50s,M,0,Uneducated,Unknown,$60K - $80K,Blue,3 - 4,2,6,2,13172,0,13172,2598,47,,00
+40s,F,2,High School,Single,Less than $40K,Blue,2 - 3,4,3,3,2201,2104,97,2408,38,,96
+20s,F,0,College,Married,Less than $40K,Blue,1 - 2,2,1,2,3261,2517,744,2461,54,,77
+40s,F,2,Unknown,Married,Less than $40K,Blue,2 - 3,2,3,2,4065,2517,1548,2899,51,,62
+60s,M,1,High School,Divorced,$80K - $120K,Blue,3 - 4,1,5,3,28930,0,28930,2251,27,,00
+50s,M,3,Post-Graduate,Married,$60K - $80K,Blue,3 - 4,6,4,3,2049,0,2049,2703,54,,00
+40s,M,2,Graduate,Single,$80K - $120K,Blue,3 - 4,2,3,3,2384,1919,465,3512,50,,81
+40s,M,1,Graduate,Married,$40K - $60K,Blue,3 - 4,6,1,4,14973,0,14973,4517,59,,00
+40s,F,4,Post-Graduate,Single,Less than $40K,Blue,3 - 4,3,3,3,3874,460,3414,4921,51,,12
+50s,F,1,High School,Single,Less than $40K,Blue,3 - 4,2,3,2,7484,1939,5545,4923,56,,26
+40s,F,3,High School,Married,Unknown,Silver,2 - 3,2,3,3,34516,1273,33243,4777,51,,04
+40s,F,3,High School,Married,Unknown,Silver,2 - 3,3,3,2,34516,2517,31999,2691,42,,07
+50s,F,1,Unknown,Married,$40K - $60K,Blue,2 - 3,2,3,2,2710,0,2710,4724,60,,00
+40s,M,3,College,Single,$60K - $80K,Blue,3 - 4,5,3,2,22599,0,22599,4739,55,,00
+40s,M,2,Doctorate,Married,$80K - $120K,Blue,3 - 4,1,2,1,25894,2517,23377,4847,49,,10
+40s,F,3,Graduate,Single,Less than $40K,Blue,2 - 3,4,2,3,3138,986,2152,4724,56,,31
+40s,F,4,Post-Graduate,Single,Less than $40K,Blue,2 - 3,1,3,3,4477,2517,1960,4996,55,,56
+40s,M,4,Post-Graduate,Single,$80K - $120K,Blue,2 - 3,5,3,2,2367,1606,761,4506,59,,68
+40s,F,4,Unknown,Married,Unknown,Blue,2 - 3,1,2,3,6030,0,6030,4983,62,,00
+50s,M,4,High School,Single,$120K +,Blue,3 - 4,4,3,3,6982,0,6982,4830,50,,00
+40s,M,3,Unknown,Unknown,$60K - $80K,Blue,2 - 3,2,2,1,9405,0,9405,4801,47,,00
+40s,M,2,Graduate,Single,$60K - $80K,Gold,2 - 3,2,3,3,34516,687,33829,4822,57,,02
+50s,F,4,Graduate,Single,$40K - $60K,Blue,3 - 4,1,3,2,6058,0,6058,4754,60,,00
+40s,M,3,Unknown,Single,$80K - $120K,Blue,2 - 3,4,3,3,9959,0,9959,4859,64,,00
+40s,M,3,Post-Graduate,Married,$40K - $60K,Blue,2 - 3,6,2,2,9422,2108,7314,4633,58,,22
+40s,M,3,High School,Married,$120K +,Blue,2 - 3,2,2,1,34516,0,34516,4734,57,,00
+50s,F,2,High School,Single,Less than $40K,Blue,3 - 4,6,1,2,3199,0,3199,4805,59,,00
+60s,F,2,High School,Single,Less than $40K,Blue,4 - 5,1,6,2,8141,1811,6330,5043,53,,22
+40s,M,4,Post-Graduate,Single,$40K - $60K,Blue,2 - 3,1,2,2,9043,1974,7069,4638,48,,22
+40s,M,3,Post-Graduate,Single,$60K - $80K,Blue,3 - 4,2,4,2,14895,0,14895,5147,53,,00
+40s,M,2,High School,Single,$120K +,Blue,2 - 3,1,2,2,10896,2517,8379,4935,58,,23
+40s,F,4,College,Divorced,Unknown,Blue,2 - 3,4,3,3,6769,274,6495,4885,54,,04
+40s,M,2,Unknown,Married,$60K - $80K,Gold,2 - 3,1,3,2,34516,1085,33431,4805,54,,03
+50s,M,1,College,Single,$120K +,Silver,3 - 4,1,3,2,34516,0,34516,4864,48,,00
+50s,M,1,High School,Married,$120K +,Blue,2 - 3,2,3,1,34516,0,34516,4863,56,,00
+50s,M,3,Post-Graduate,Married,$80K - $120K,Silver,3 - 4,6,2,2,34516,989,33527,4810,55,,03
+40s,M,3,Post-Graduate,Married,$40K - $60K,Platinum,2 - 3,2,3,4,23981,593,23388,4758,65,,03
+40s,F,4,Unknown,Single,Less than $40K,Blue,2 - 3,5,3,5,2879,0,2879,4684,56,,00
+40s,F,2,Unknown,Single,Unknown,Blue,3 - 4,5,3,4,5984,0,5984,1838,42,,00
+40s,M,2,High School,Married,$80K - $120K,Blue,3 - 4,3,2,4,29893,0,29893,2063,48,,00
+30s,M,3,College,Single,$60K - $80K,Blue,2 - 3,6,3,4,12050,1821,10229,2381,40,,15
+50s,F,1,Graduate,Single,Less than $40K,Blue,3 - 4,1,3,4,7176,0,7176,1375,33,,00
+50s,M,5,Post-Graduate,Single,$80K - $120K,Blue,3 - 4,3,1,4,1438,0,1438,1427,36,,00
+40s,M,4,High School,Married,$60K - $80K,Blue,2 - 3,1,3,2,8017,0,8017,1657,43,,00
+40s,M,3,Post-Graduate,Unknown,$120K +,Blue,2 - 3,2,2,6,34516,0,34516,1632,44,,00
+40s,M,4,Graduate,Married,$80K - $120K,Blue,2 - 3,5,3,4,12250,2165,10085,1995,39,,18
+40s,F,3,Graduate,Married,Less than $40K,Blue,2 - 3,2,3,3,5505,2517,2988,2272,42,,46
+60s,M,0,Unknown,Single,$40K - $60K,Silver,3 - 4,3,4,4,17161,0,17161,1898,42,,00
+40s,M,4,Graduate,Single,$60K - $80K,Blue,2 - 3,1,4,5,5662,1484,4178,1693,25,,26
+30s,M,1,Unknown,Married,$120K +,Blue,1 - 2,3,1,4,2106,238,1868,2136,40,,11
+30s,M,3,College,Single,$60K - $80K,Blue,1 - 2,5,1,5,16317,0,16317,1995,54,,00
+40s,F,1,Uneducated,Married,$40K - $60K,Blue,3 - 4,2,3,3,8061,2517,5544,1224,31,,31
+50s,M,4,Unknown,Single,$120K +,Blue,3 - 4,3,3,4,34516,278,34238,3029,49,,01
+60s,M,0,High School,Single,$60K - $80K,Blue,3 - 4,5,3,1,1856,0,1856,1805,46,,00
+40s,M,4,Graduate,Unknown,$40K - $60K,Blue,2 - 3,2,3,6,9080,2174,6906,2098,46,,24
+50s,M,2,High School,Single,$80K - $120K,Blue,3 - 4,4,3,3,11617,2517,9100,1643,43,,22
+40s,M,3,Uneducated,Divorced,$120K +,Silver,3 - 4,2,4,5,34516,0,34516,1641,35,,00
+40s,F,3,Unknown,Single,$40K - $60K,Blue,2 - 3,3,2,4,5317,0,5317,2003,29,,00
+40s,F,2,Uneducated,Single,Less than $40K,Silver,2 - 3,1,2,3,13453,2517,10936,1904,42,,19
+40s,M,3,Unknown,Unknown,$120K +,Blue,2 - 3,1,3,4,3952,0,3952,2066,37,,00
+40s,M,3,Unknown,Single,$60K - $80K,Blue,2 - 3,2,3,3,15422,864,14558,2136,54,,06
+40s,M,3,Graduate,Married,$40K - $60K,Blue,2 - 3,3,2,3,1640,1444,196,1360,33,,88
+40s,M,4,Graduate,Single,$80K - $120K,Blue,2 - 3,3,1,4,1818,0,1818,2308,44,,00
+30s,F,1,Unknown,Married,Less than $40K,Blue,1 - 2,2,2,3,1621,580,1041,1893,41,,36
+50s,M,4,Uneducated,Single,$60K - $80K,Blue,3 - 4,1,3,2,13720,0,13720,1830,36,,00
+40s,M,5,Uneducated,Married,$40K - $60K,Blue,3 - 4,2,3,4,3893,0,3893,1866,37,,00
+40s,M,0,Doctorate,Married,$60K - $80K,Blue,3 - 4,2,3,4,7277,504,6773,2356,40,,07
+50s,F,3,Doctorate,Unknown,Less than $40K,Blue,2 - 3,3,3,4,1438,0,1438,1598,40,,00
+40s,F,3,Uneducated,Married,Less than $40K,Blue,2 - 3,2,3,1,3675,2517,1158,1913,35,,69
+60s,F,0,Graduate,Single,$40K - $60K,Blue,4 - 5,3,3,4,9721,0,9721,2260,46,,00
+40s,F,5,Graduate,Married,Less than $40K,Blue,3 - 4,2,3,4,3981,0,3981,2134,42,,00
+60s,M,0,Graduate,Single,Less than $40K,Blue,2 - 3,3,3,5,3812,2517,1295,2325,45,,66
+50s,M,2,High School,Single,$80K - $120K,Blue,3 - 4,1,2,3,4915,464,4451,1474,36,,09
+50s,M,4,Graduate,Single,$120K +,Silver,2 - 3,5,3,2,34516,0,34516,1480,37,,00
+40s,F,3,Unknown,Married,Unknown,Blue,2 - 3,2,3,5,11538,0,11538,1926,53,,00
+40s,M,2,Graduate,Divorced,$40K - $60K,Blue,2 - 3,2,2,4,9569,0,9569,1724,35,,00
+30s,M,3,College,Single,$80K - $120K,Blue,2 - 3,3,3,2,1438,0,1438,1585,32,,00
+60s,F,0,Graduate,Single,Less than $40K,Blue,4 - 5,5,6,3,1931,1531,400,2288,48,,79
+50s,F,3,Graduate,Divorced,$40K - $60K,Blue,2 - 3,2,3,4,4948,0,4948,1796,41,,00
+30s,M,5,Graduate,Single,$60K - $80K,Blue,2 - 3,1,3,3,24657,633,24024,1954,46,,03
+50s,F,3,Unknown,Single,$40K - $60K,Blue,3 - 4,3,3,3,5026,0,5026,1844,37,,00
+40s,M,3,Graduate,Married,$40K - $60K,Blue,3 - 4,2,2,6,9502,2457,7045,2310,57,,26
+60s,F,0,Doctorate,Single,Less than $40K,Blue,4 - 5,6,3,5,2936,326,2610,2692,29,,11
+40s,M,3,Graduate,Married,$80K - $120K,Blue,3 - 4,3,3,2,3728,0,3728,1632,42,,00
+40s,F,1,Doctorate,Married,$40K - $60K,Blue,2 - 3,2,3,2,1438,0,1438,2584,42,,00
+50s,M,2,Graduate,Single,$120K +,Blue,3 - 4,1,3,1,31668,810,30858,1822,36,,03
+50s,M,0,Unknown,Single,$120K +,Blue,3 - 4,4,5,5,13114,2247,10867,2474,51,,17
+40s,M,3,High School,Single,$60K - $80K,Blue,3 - 4,2,3,2,12254,0,12254,2129,42,,00
+60s,F,0,High School,Single,$40K - $60K,Blue,4 - 5,1,5,5,10882,2517,8365,1861,46,,23
+30s,F,5,Graduate,Married,Less than $40K,Blue,2 - 3,3,3,3,3664,0,3664,1479,44,,00
+40s,F,3,Graduate,Married,$40K - $60K,Blue,2 - 3,6,3,6,5496,0,5496,1913,34,,00
+50s,M,2,Graduate,Single,$80K - $120K,Blue,2 - 3,5,3,3,12342,0,12342,1430,37,,00
+40s,M,3,Graduate,Married,$60K - $80K,Blue,3 - 4,5,2,2,8808,390,8418,1905,42,,04
+40s,F,2,Graduate,Married,Less than $40K,Blue,2 - 3,6,3,2,1693,1088,605,2104,40,,64
+40s,M,3,Graduate,Married,$60K - $80K,Blue,2 - 3,4,2,3,15186,0,15186,1884,33,,00
+50s,F,1,Doctorate,Single,$40K - $60K,Blue,2 - 3,6,3,2,5349,2391,2958,2122,46,,45
+40s,M,3,College,Single,$80K - $120K,Silver,2 - 3,1,3,3,34516,0,34516,2534,43,,00
+40s,M,5,High School,Married,$80K - $120K,Blue,3 - 4,2,2,2,9410,0,9410,2178,41,,00
+30s,M,2,Graduate,Single,$120K +,Blue,2 - 3,5,2,1,34516,1229,33287,1797,35,,04
+40s,M,4,High School,Married,$60K - $80K,Blue,2 - 3,3,3,2,12544,1636,10908,1758,51,,13
+40s,M,3,Graduate,Married,Less than $40K,Blue,3 - 4,2,3,3,6967,1767,5200,1919,38,,25
+50s,M,3,High School,Single,$120K +,Blue,3 - 4,6,1,3,19032,0,19032,1726,42,,00
+40s,M,4,Uneducated,Married,$40K - $60K,Blue,2 - 3,5,4,3,1527,0,1527,1877,38,,00
+40s,M,2,High School,Divorced,$40K - $60K,Blue,3 - 4,2,3,4,14839,512,14327,1453,26,,04
+40s,F,2,Graduate,Married,Unknown,Blue,2 - 3,1,3,2,18799,2517,16282,2315,52,,13
+60s,F,0,Graduate,Divorced,Less than $40K,Blue,2 - 3,2,3,3,2125,0,2125,2860,38,,00
+40s,F,3,Unknown,Single,Less than $40K,Blue,2 - 3,3,1,1,5644,2517,3127,2440,44,,45
+40s,F,3,Unknown,Married,Less than $40K,Blue,2 - 3,4,3,3,5941,0,5941,2196,37,,00
+40s,F,2,Graduate,Married,$40K - $60K,Blue,2 - 3,3,2,2,9576,0,9576,2362,49,,00
+60s,M,1,Graduate,Single,$60K - $80K,Blue,4 - 5,3,3,2,9569,0,9569,2287,49,,00
+40s,M,4,Uneducated,Unknown,Unknown,Blue,2 - 3,3,3,3,18873,0,18873,2021,38,,00
+40s,M,1,Graduate,Single,$60K - $80K,Blue,3 - 4,2,3,2,9904,2513,7391,1152,28,,25
+40s,F,3,High School,Divorced,Less than $40K,Blue,3 - 4,3,3,3,7084,0,7084,2287,44,,00
+40s,M,3,High School,Single,$80K - $120K,Blue,2 - 3,2,2,3,7498,2319,5179,1676,51,,31
+30s,M,2,Uneducated,Unknown,$40K - $60K,Blue,2 - 3,2,3,2,3250,1721,1529,1714,32,,53
+40s,M,3,Doctorate,Married,$120K +,Blue,3 - 4,3,2,2,8989,552,8437,2309,49,,06
+40s,M,3,High School,Married,$60K - $80K,Blue,2 - 3,3,2,1,6813,2332,4481,2634,51,,34
+40s,M,3,Unknown,Single,$60K - $80K,Blue,2 - 3,6,2,1,18004,2517,15487,2030,45,,14
+60s,F,1,Unknown,Single,Less than $40K,Blue,4 - 5,3,3,3,1892,1604,288,1581,34,,85
+50s,F,2,College,Unknown,Unknown,Blue,3 - 4,2,3,2,1438,0,1438,1859,41,,00
+50s,F,2,Graduate,Married,$40K - $60K,Blue,4 - 5,3,3,4,1809,0,1809,2123,44,,00
+40s,M,4,Unknown,Married,$80K - $120K,Blue,2 - 3,2,3,2,22917,0,22917,2045,45,,00
+50s,F,1,Unknown,Single,Less than $40K,Blue,3 - 4,2,3,2,3099,0,3099,1401,44,,00
+40s,M,1,High School,Unknown,$80K - $120K,Gold,2 - 3,2,2,3,34516,0,34516,1891,34,,00
+40s,F,5,Unknown,Single,Less than $40K,Blue,2 - 3,1,4,1,5155,0,5155,2753,45,,00
+30s,F,3,High School,Single,Unknown,Blue,2 - 3,1,3,2,5260,1706,3554,2142,57,,32
+40s,F,3,Post-Graduate,Single,Less than $40K,Blue,2 - 3,1,3,1,2067,1966,101,3033,41,,95
+30s,F,2,Graduate,Single,Unknown,Blue,1 - 2,3,2,3,2214,570,1644,2066,45,,26
+30s,F,2,Graduate,Single,Less than $40K,Blue,2 - 3,2,3,3,3775,0,3775,2031,36,,00
+40s,M,3,Doctorate,Single,$60K - $80K,Blue,2 - 3,3,3,3,11328,1369,9959,1829,42,,12
+30s,M,2,Graduate,Married,$60K - $80K,Blue,2 - 3,2,3,2,1438,0,1438,1651,42,,00
+50s,F,3,Post-Graduate,Single,Less than $40K,Blue,4 - 5,1,4,3,8516,0,8516,2189,37,,00
+40s,F,2,Uneducated,Single,Less than $40K,Blue,3 - 4,3,2,2,8924,0,8924,1720,42,,00
+60s,M,0,Graduate,Single,$40K - $60K,Blue,4 - 5,2,5,4,3984,2245,1739,1821,39,,56
+40s,F,2,Post-Graduate,Single,Less than $40K,Blue,3 - 4,3,3,1,3036,2517,519,2609,42,,83
+60s,F,1,High School,Unknown,$40K - $60K,Blue,4 - 5,3,5,1,3807,2517,1290,1739,36,,66
+40s,M,3,Unknown,Married,$60K - $80K,Blue,3 - 4,3,5,3,4097,655,3442,2611,51,,16
+30s,M,2,Unknown,Unknown,$60K - $80K,Blue,2 - 3,2,2,3,11252,1129,10123,1766,31,,10
+40s,M,4,Graduate,Single,$120K +,Blue,2 - 3,1,3,4,33384,0,33384,2066,46,,00
+60s,F,1,College,Unknown,Less than $40K,Blue,4 - 5,3,1,2,6167,0,6167,1648,43,,00
+40s,F,2,Graduate,Married,Unknown,Blue,3 - 4,6,3,3,5666,2386,3280,1981,42,,42
+50s,F,4,Graduate,Married,Less than $40K,Blue,2 - 3,2,3,5,1438,0,1438,1739,44,,00
+40s,F,1,Graduate,Single,Less than $40K,Blue,2 - 3,2,3,2,2886,0,2886,2326,50,,00
+60s,F,1,Unknown,Single,Less than $40K,Blue,2 - 3,3,3,4,1896,0,1896,2186,50,,00
+50s,F,2,Doctorate,Married,Less than $40K,Platinum,3 - 4,3,2,3,15987,193,15794,2021,46,,01
+40s,F,2,Uneducated,Married,Unknown,Blue,2 - 3,1,3,3,13735,1733,12002,1783,43,,13
+40s,M,4,Graduate,Single,$120K +,Blue,2 - 3,3,4,3,7015,0,7015,1799,51,,00
+40s,M,3,Unknown,Single,$80K - $120K,Blue,3 - 4,1,3,4,4384,0,4384,1832,49,,00
+40s,M,3,High School,Married,$60K - $80K,Blue,2 - 3,6,3,3,1511,0,1511,1329,35,,00
+40s,F,3,Graduate,Single,Unknown,Blue,2 - 3,2,3,4,4946,0,4946,2239,38,,00
+50s,M,2,Uneducated,Single,$60K - $80K,Silver,4 - 5,4,3,3,32182,0,32182,1937,46,,00
+40s,F,2,Post-Graduate,Single,$40K - $60K,Blue,2 - 3,3,3,3,5667,812,4855,2064,42,,14
+50s,M,1,College,Single,$80K - $120K,Blue,3 - 4,3,3,3,6846,0,6846,1735,35,,00
+40s,M,3,Uneducated,Single,$80K - $120K,Blue,2 - 3,3,2,4,11336,0,11336,1809,39,,00
+40s,M,3,High School,Married,$80K - $120K,Blue,2 - 3,3,3,3,21359,0,21359,2064,63,,00
+40s,M,4,Unknown,Married,$80K - $120K,Blue,3 - 4,2,3,6,4806,1357,3449,1771,35,,28
+40s,F,3,High School,Married,$40K - $60K,Blue,2 - 3,1,3,4,4527,0,4527,2441,37,,00
+50s,M,2,Uneducated,Single,$80K - $120K,Blue,4 - 5,1,2,4,3091,2517,574,1844,49,,81
+50s,F,2,High School,Single,Unknown,Blue,3 - 4,4,3,4,3778,0,3778,2367,45,,00
+40s,F,3,High School,Married,Unknown,Blue,2 - 3,1,2,4,26229,0,26229,2077,46,,00
+40s,M,3,High School,Married,$80K - $120K,Blue,2 - 3,2,3,4,29149,0,29149,2106,56,,00
+50s,F,2,Graduate,Unknown,Less than $40K,Blue,4 - 5,4,4,3,1438,0,1438,1785,33,,00
+40s,F,3,Unknown,Married,Less than $40K,Blue,2 - 3,2,3,3,1535,0,1535,1921,41,,00
+40s,F,4,College,Married,Less than $40K,Blue,2 - 3,2,3,2,5997,0,5997,1457,42,,00
+40s,F,1,Post-Graduate,Married,$40K - $60K,Blue,3 - 4,3,2,2,1803,0,1803,1979,37,,00
+50s,F,1,Uneducated,Divorced,Unknown,Blue,4 - 5,3,5,3,3266,859,2407,2151,46,,26
+50s,M,1,Graduate,Divorced,$60K - $80K,Blue,3 - 4,3,4,3,7050,1008,6042,2176,39,,14
+30s,F,0,Unknown,Married,$40K - $60K,Silver,2 - 3,3,0,3,15142,0,15142,2458,41,,00
+40s,M,4,Post-Graduate,Married,$60K - $80K,Blue,2 - 3,3,4,3,20178,1553,18625,1735,44,,08
+40s,F,3,Unknown,Married,Less than $40K,Blue,2 - 3,3,3,2,1561,0,1561,1947,28,,00
+50s,M,1,Graduate,Single,$120K +,Blue,2 - 3,2,3,4,28618,0,28618,1712,41,,00
+40s,M,1,Graduate,Single,$120K +,Blue,2 - 3,3,4,3,8136,2517,5619,2179,40,,31
+40s,F,2,Graduate,Single,Unknown,Blue,3 - 4,6,2,3,3120,2517,603,2468,43,,81
+40s,F,2,Uneducated,Single,Less than $40K,Blue,2 - 3,2,2,3,2892,2517,375,2257,48,,87
+40s,M,2,Doctorate,Married,$80K - $120K,Blue,2 - 3,1,2,5,17667,0,17667,1775,42,,00
+40s,M,4,Uneducated,Single,$120K +,Blue,3 - 4,3,2,6,34516,1126,33390,1736,35,,03
+40s,M,1,College,Divorced,$80K - $120K,Silver,3 - 4,2,3,2,34516,2361,32155,1853,36,,07
+40s,M,4,College,Married,$80K - $120K,Blue,2 - 3,5,2,3,25190,0,25190,1533,41,,00
+40s,F,3,Unknown,Single,Less than $40K,Blue,2 - 3,3,2,2,1606,1578,28,2418,44,,98
+50s,F,4,Graduate,Single,Less than $40K,Silver,2 - 3,3,2,3,13626,0,13626,1711,30,,00
+40s,M,3,Uneducated,Married,Less than $40K,Blue,3 - 4,3,3,4,8580,1636,6944,1880,37,,19
+50s,M,2,Graduate,Single,$60K - $80K,Silver,3 - 4,2,3,2,30540,0,30540,1980,36,,00
+40s,M,2,High School,Divorced,$80K - $120K,Blue,2 - 3,4,2,4,34516,2517,31999,1789,48,,07
+30s,F,4,Graduate,Single,Less than $40K,Blue,2 - 3,2,2,2,4391,1933,2458,1849,36,,44
+40s,M,4,High School,Single,$120K +,Blue,3 - 4,3,4,4,24593,0,24593,2084,31,,00
+40s,M,4,Unknown,Married,$120K +,Blue,2 - 3,1,4,3,26107,0,26107,1697,47,,00
+50s,F,1,Graduate,Single,Less than $40K,Blue,2 - 3,3,2,4,4287,0,4287,1635,41,,00
+50s,F,3,College,Single,Less than $40K,Blue,2 - 3,3,3,3,8960,2222,6738,1853,40,,25
+50s,M,3,High School,Married,$60K - $80K,Blue,2 - 3,3,3,3,8989,0,8989,2031,53,,00
+60s,F,0,College,Single,Less than $40K,Silver,4 - 5,3,4,3,10885,1758,9127,2291,39,,16
+40s,M,3,College,Married,$80K - $120K,Blue,2 - 3,6,2,3,1438,864,574,2299,40,,60
+50s,F,2,Graduate,Married,$40K - $60K,Blue,3 - 4,3,1,4,7191,0,7191,1654,30,,00
+30s,F,2,Graduate,Single,Less than $40K,Blue,2 - 3,2,3,0,1610,0,1610,2729,45,,00
+30s,M,3,College,Single,$40K - $60K,Blue,1 - 2,1,2,4,3458,321,3137,2256,40,,09
+60s,F,0,Uneducated,Single,Less than $40K,Blue,4 - 5,3,4,4,1697,377,1320,2799,49,,22
+40s,M,2,College,Single,$80K - $120K,Blue,3 - 4,2,3,2,10309,0,10309,1760,40,,00
+40s,M,5,High School,Married,$40K - $60K,Blue,3 - 4,3,3,1,7897,157,7740,2270,46,,02
+50s,F,2,Uneducated,Married,$40K - $60K,Blue,2 - 3,1,3,1,1438,458,980,1863,42,,32
+40s,F,4,Uneducated,Married,Less than $40K,Blue,2 - 3,3,3,3,1438,0,1438,1517,38,,00
+50s,F,2,Unknown,Married,Unknown,Blue,3 - 4,3,2,1,1773,0,1773,1764,30,,00
+40s,M,2,High School,Married,$80K - $120K,Blue,2 - 3,1,2,4,16362,2268,14094,2228,37,,14
+40s,M,5,High School,Single,$80K - $120K,Blue,3 - 4,3,4,4,18800,2517,16283,1575,23,,13
+40s,F,3,Uneducated,Married,Less than $40K,Blue,2 - 3,1,3,4,4579,1506,3073,1915,44,,33
+50s,M,1,Uneducated,Single,$40K - $60K,Silver,4 - 5,3,2,2,15809,0,15809,3109,48,,00
+50s,F,3,Graduate,Single,$40K - $60K,Blue,3 - 4,6,3,2,1625,0,1625,2314,43,,00
+50s,F,2,Graduate,Single,$40K - $60K,Blue,2 - 3,2,3,2,2121,0,2121,1464,32,,00
+40s,F,3,Doctorate,Single,Less than $40K,Blue,1 - 2,5,3,4,8668,0,8668,1402,38,,00
+40s,F,3,Doctorate,Married,Less than $40K,Blue,2 - 3,3,4,2,7066,0,7066,1695,38,,00
+50s,F,2,Post-Graduate,Married,$40K - $60K,Blue,2 - 3,3,2,3,5527,1120,4407,2281,37,,20
+50s,F,1,College,Married,Unknown,Blue,3 - 4,2,2,3,1461,0,1461,2176,40,,00
+50s,M,3,Uneducated,Unknown,$120K +,Blue,3 - 4,2,4,4,13354,0,13354,1097,28,,00
+40s,M,1,Graduate,Single,$120K +,Blue,2 - 3,6,2,4,26723,0,26723,2138,43,,00
+40s,F,3,High School,Single,Unknown,Blue,2 - 3,3,2,6,3512,2517,995,1801,48,,72
+40s,F,4,College,Single,Less than $40K,Blue,2 - 3,2,2,3,2263,0,2263,2385,33,,00
+50s,M,4,Graduate,Married,$60K - $80K,Blue,2 - 3,4,1,3,9375,1625,7750,2108,51,,17
+40s,F,2,Unknown,Divorced,Less than $40K,Blue,2 - 3,3,1,4,2806,2514,292,1757,35,,90
+40s,F,2,High School,Divorced,Less than $40K,Blue,2 - 3,4,2,2,1478,524,954,2180,46,,35
+40s,M,4,Unknown,Divorced,$80K - $120K,Blue,2 - 3,6,1,3,8757,0,8757,2108,47,,00
+50s,F,1,Graduate,Single,$40K - $60K,Blue,3 - 4,2,4,3,2339,0,2339,1542,45,,00
+50s,F,4,Graduate,Single,Unknown,Blue,3 - 4,5,3,3,2509,0,2509,2281,41,,00
+40s,M,3,Graduate,Married,$60K - $80K,Blue,2 - 3,2,2,3,5298,0,5298,2431,37,,00
+50s,F,3,Uneducated,Single,Less than $40K,Blue,4 - 5,3,0,3,1438,0,1438,2113,38,,00
+50s,M,3,Graduate,Single,$40K - $60K,Blue,3 - 4,6,3,3,5501,0,5501,2050,51,,00
+40s,M,2,Graduate,Single,$80K - $120K,Blue,2 - 3,2,2,2,5054,2517,2537,2027,39,,50
+60s,F,1,High School,Single,Less than $40K,Blue,2 - 3,2,3,4,1930,0,1930,1971,45,,00
+50s,M,3,Graduate,Single,$40K - $60K,Silver,3 - 4,2,3,1,18128,0,18128,2503,49,,00
+40s,F,2,Unknown,Single,$40K - $60K,Blue,2 - 3,3,3,3,2516,0,2516,2257,51,,00
+50s,F,3,High School,Single,$40K - $60K,Blue,3 - 4,1,3,4,1714,0,1714,2279,46,,00
+40s,F,4,Graduate,Divorced,Less than $40K,Blue,3 - 4,1,3,3,5798,2517,3281,1860,43,,43
+40s,F,4,Graduate,Married,Less than $40K,Blue,2 - 3,3,3,4,2184,0,2184,1973,42,,00
+50s,M,2,College,Single,$80K - $120K,Blue,3 - 4,5,2,4,3495,0,3495,2131,41,,00
+50s,F,3,High School,Married,$40K - $60K,Blue,3 - 4,2,2,3,8018,134,7884,2409,38,,02
+40s,M,3,Unknown,Married,$80K - $120K,Blue,1 - 2,3,3,4,20543,0,20543,1874,42,,00
+40s,M,3,Uneducated,Unknown,$60K - $80K,Blue,3 - 4,3,4,4,18075,0,18075,1477,30,,00
+50s,M,0,High School,Single,$120K +,Silver,3 - 4,2,4,4,34516,2297,32219,1461,43,,07
+50s,M,3,Uneducated,Married,$60K - $80K,Blue,3 - 4,2,2,5,21096,0,21096,1882,39,,00
+50s,F,1,High School,Single,Unknown,Blue,3 - 4,5,0,4,10057,0,10057,2383,42,,00
+60s,M,0,Graduate,Single,Less than $40K,Blue,4 - 5,2,3,5,3570,2517,1053,3289,47,,70
+40s,M,2,Graduate,Single,$80K - $120K,Blue,2 - 3,3,3,3,34516,0,34516,2427,51,,00
+40s,F,4,Doctorate,Married,Unknown,Blue,2 - 3,3,3,6,15195,0,15195,2631,41,,00
+30s,F,1,Graduate,Married,Less than $40K,Blue,2 - 3,3,3,4,1438,0,1438,2139,47,,00
+40s,F,3,Graduate,Unknown,Unknown,Blue,2 - 3,1,3,4,3443,0,3443,2505,45,,00
+50s,F,2,Post-Graduate,Single,Less than $40K,Blue,2 - 3,3,3,3,4281,0,4281,1723,44,,00
+40s,M,1,Graduate,Single,$60K - $80K,Blue,3 - 4,2,3,4,2445,848,1597,2216,39,,35
+40s,M,4,Unknown,Married,$40K - $60K,Blue,2 - 3,2,3,5,1606,0,1606,2628,41,,00
+50s,F,1,Uneducated,Single,Less than $40K,Blue,4 - 5,3,4,3,3292,0,3292,2222,54,,00
+50s,F,1,College,Unknown,Less than $40K,Silver,3 - 4,6,3,4,10797,1252,9545,1739,38,,12
+40s,F,2,Graduate,Married,Less than $40K,Blue,3 - 4,6,3,3,5848,2517,3331,2000,32,,43
+40s,M,3,Graduate,Married,$120K +,Blue,2 - 3,2,4,1,13883,783,13100,1871,32,,06
+40s,F,2,Uneducated,Married,Unknown,Blue,2 - 3,3,2,3,13019,0,13019,1484,33,,00
+50s,F,1,College,Married,$40K - $60K,Blue,3 - 4,2,2,3,3339,0,3339,2432,48,,00
+20s,F,1,Graduate,Single,Less than $40K,Blue,2 - 3,4,2,5,1624,0,1624,1897,35,,00
+50s,F,2,Uneducated,Single,Less than $40K,Blue,2 - 3,2,3,3,1746,1107,639,1907,47,,63
+40s,M,4,Uneducated,Single,$80K - $120K,Silver,3 - 4,2,3,4,34516,0,34516,1626,28,,00
+40s,F,4,Unknown,Single,Less than $40K,Blue,2 - 3,3,3,4,2858,0,2858,2611,43,,00
+40s,M,3,Doctorate,Divorced,$80K - $120K,Blue,3 - 4,6,3,3,8258,1771,6487,1447,23,,21
+50s,M,3,Graduate,Married,$120K +,Blue,2 - 3,1,2,3,3841,2517,1324,2680,51,,66
+50s,F,2,Doctorate,Married,$40K - $60K,Blue,3 - 4,3,2,4,1822,1605,217,2538,39,,88
+40s,F,4,High School,Divorced,$40K - $60K,Blue,3 - 4,3,2,3,4650,204,4446,2014,54,,04
+40s,F,4,High School,Married,Less than $40K,Blue,3 - 4,1,2,3,3607,0,3607,2013,35,,00
+40s,M,3,Graduate,Single,$80K - $120K,Blue,3 - 4,3,3,3,19402,0,19402,1937,51,,00
+40s,F,3,Graduate,Unknown,Less than $40K,Blue,3 - 4,3,3,2,1438,0,1438,2054,46,,00
+30s,F,3,Uneducated,Single,$40K - $60K,Blue,2 - 3,3,2,3,2435,2432,3,1460,32,1,00
+40s,F,3,College,Married,Less than $40K,Blue,3 - 4,3,3,3,1603,749,854,2644,43,,47
+50s,F,2,Uneducated,Single,Unknown,Blue,3 - 4,2,3,2,2751,2253,498,2108,40,,82
+50s,F,1,High School,Single,Less than $40K,Blue,2 - 3,4,2,5,1457,0,1457,1441,39,,00
+40s,F,0,Doctorate,Unknown,Less than $40K,Blue,3 - 4,5,2,3,1749,0,1749,2510,38,,00
+40s,F,2,Graduate,Married,Less than $40K,Blue,2 - 3,3,2,3,5911,916,4995,1656,31,,15
+40s,M,5,Uneducated,Unknown,$60K - $80K,Blue,3 - 4,3,3,3,1960,0,1960,2253,39,,00
+40s,M,2,Graduate,Married,$40K - $60K,Blue,3 - 4,6,3,3,4738,0,4738,1900,36,,00
+40s,F,3,High School,Single,Unknown,Silver,2 - 3,4,2,3,34516,154,34362,1987,46,,00
+40s,M,2,College,Divorced,$120K +,Blue,3 - 4,4,1,2,34516,0,34516,1370,38,,00
+50s,F,2,Graduate,Married,Unknown,Blue,3 - 4,2,3,3,3781,1692,2089,2310,43,,45
+40s,M,3,Graduate,Single,$80K - $120K,Blue,2 - 3,3,2,1,3261,0,3261,3081,50,,00
+60s,F,0,High School,Unknown,Less than $40K,Blue,4 - 5,4,2,3,5210,0,5210,2162,36,,00
+40s,M,3,Post-Graduate,Married,$80K - $120K,Blue,2 - 3,3,3,2,13382,1159,12223,1828,45,,09
+60s,M,0,Graduate,Single,Unknown,Blue,4 - 5,5,0,2,18550,0,18550,2616,42,,00
+30s,M,3,Uneducated,Single,$40K - $60K,Blue,2 - 3,3,2,4,1696,0,1696,2095,43,,00
+50s,M,2,High School,Married,$60K - $80K,Blue,3 - 4,5,3,2,4123,1760,2363,2447,40,,43
+50s,F,0,Graduate,Single,Less than $40K,Blue,3 - 4,4,3,3,3023,2517,506,2477,42,,83
+50s,F,2,High School,Married,Unknown,Blue,4 - 5,3,3,3,3875,1397,2478,2312,49,,36
+40s,M,2,Doctorate,Single,$40K - $60K,Blue,3 - 4,6,3,2,2760,0,2760,1759,34,,00
+40s,M,3,Graduate,Married,$80K - $120K,Blue,2 - 3,5,2,3,25256,966,24290,2048,40,,04
+40s,F,3,Graduate,Single,Unknown,Blue,2 - 3,3,3,1,1630,1243,387,1884,43,,76
+30s,F,1,Graduate,Single,Less than $40K,Blue,2 - 3,3,3,1,1876,1536,340,2579,47,,82
+40s,M,5,Unknown,Married,$60K - $80K,Blue,2 - 3,2,3,2,4963,0,4963,2335,40,,00
+50s,F,1,Graduate,Married,Less than $40K,Blue,2 - 3,2,3,3,2468,0,2468,2017,37,,00
+40s,F,3,Graduate,Divorced,Less than $40K,Blue,2 - 3,3,3,3,1438,0,1438,1849,43,,00
+50s,F,3,Graduate,Married,Less than $40K,Blue,3 - 4,1,4,3,2016,395,1621,2473,44,,20
+50s,M,2,Graduate,Single,$80K - $120K,Blue,2 - 3,1,2,2,1438,0,1438,2123,37,,00
+50s,M,3,College,Unknown,$80K - $120K,Blue,3 - 4,1,3,2,27186,0,27186,1704,34,,00
+50s,F,2,Graduate,Unknown,Less than $40K,Blue,2 - 3,5,2,2,1438,0,1438,2329,43,,00
+30s,F,3,Unknown,Single,Unknown,Blue,1 - 2,2,3,2,2054,0,2054,2567,43,,00
+40s,M,2,High School,Married,$120K +,Blue,2 - 3,6,2,4,34516,1477,33039,1868,40,,04
+50s,M,4,High School,Married,$60K - $80K,Blue,3 - 4,6,2,6,4535,0,4535,2342,40,,00
+30s,M,1,Unknown,Single,$40K - $60K,Blue,2 - 3,3,3,4,2088,975,1113,2866,59,,47
+40s,F,3,Post-Graduate,Married,Less than $40K,Blue,2 - 3,3,3,2,1914,0,1914,2687,41,,00
+40s,F,4,Unknown,Married,Less than $40K,Blue,1 - 2,6,2,3,1679,951,728,2492,43,,57
+50s,F,4,Graduate,Married,Less than $40K,Blue,3 - 4,3,2,3,1722,0,1722,2141,35,,00
+40s,M,4,College,Single,$40K - $60K,Blue,2 - 3,5,2,3,10543,0,10543,1841,39,,00
+40s,F,4,College,Married,$40K - $60K,Blue,3 - 4,3,3,1,4139,0,4139,2232,41,,00
+30s,M,2,Unknown,Single,$60K - $80K,Blue,2 - 3,2,3,2,12871,0,12871,2413,53,,00
+50s,F,3,Unknown,Single,Less than $40K,Blue,4 - 5,1,3,5,1551,790,761,2379,46,,51
+40s,M,4,Unknown,Married,$60K - $80K,Blue,2 - 3,3,2,2,6743,1737,5006,1934,30,,26
+40s,M,4,Unknown,Single,$80K - $120K,Blue,2 - 3,3,3,3,32838,1717,31121,2538,42,,05
+40s,F,3,Doctorate,Single,Less than $40K,Blue,2 - 3,2,3,3,1438,0,1438,1693,37,,00
+40s,M,2,High School,Married,$60K - $80K,Blue,3 - 4,2,3,1,18660,728,17932,1682,43,,04
+40s,M,3,Post-Graduate,Unknown,$80K - $120K,Blue,2 - 3,3,2,3,7591,0,7591,2302,42,,00
+50s,F,0,Graduate,Married,Less than $40K,Blue,2 - 3,4,2,3,1757,331,1426,2377,47,,19
+40s,F,2,Post-Graduate,Married,$40K - $60K,Blue,2 - 3,2,2,4,3795,2517,1278,1633,32,,66
+40s,F,1,Graduate,Single,Less than $40K,Blue,3 - 4,6,2,4,3001,482,2519,2403,42,,16
+40s,F,2,Doctorate,Divorced,Less than $40K,Blue,2 - 3,1,2,2,1916,0,1916,2888,39,,00
+50s,M,3,Graduate,Single,$80K - $120K,Blue,2 - 3,6,3,3,3610,1554,2056,2216,34,,43
+40s,F,1,Graduate,Married,Less than $40K,Blue,3 - 4,3,3,2,1942,860,1082,2522,42,,44
+50s,F,1,Unknown,Married,Less than $40K,Blue,3 - 4,1,1,4,1438,0,1438,1632,36,,00
+40s,F,4,Graduate,Unknown,Less than $40K,Blue,2 - 3,1,3,2,1748,1103,645,2335,41,,63
+50s,M,2,High School,Married,$80K - $120K,Blue,3 - 4,5,2,3,14902,0,14902,2038,39,,00
+40s,F,3,Graduate,Single,Less than $40K,Blue,3 - 4,3,3,3,1438,0,1438,2476,32,,00
+50s,M,3,Uneducated,Single,$120K +,Blue,3 - 4,5,3,4,20974,0,20974,1246,27,,00
+30s,F,1,College,Single,Less than $40K,Blue,2 - 3,2,2,4,2231,1791,440,2576,42,,80
+50s,F,3,College,Married,Less than $40K,Blue,3 - 4,3,2,2,3573,0,3573,2562,36,,00
+40s,M,5,Unknown,Married,$80K - $120K,Silver,3 - 4,2,2,3,34516,1964,32552,2234,49,,06
+60s,F,1,Unknown,Single,$40K - $60K,Blue,3 - 4,3,2,4,2425,0,2425,1522,36,,00
+60s,M,0,Graduate,Single,$60K - $80K,Blue,4 - 5,3,3,3,11619,0,11619,2395,49,,00
+40s,F,1,Unknown,Single,Less than $40K,Blue,3 - 4,4,2,1,2173,596,1577,2738,45,,27
+30s,F,2,Graduate,Married,Less than $40K,Blue,2 - 3,3,2,2,1677,0,1677,2437,41,,00
+30s,F,1,Graduate,Single,Less than $40K,Blue,2 - 3,3,3,6,2761,0,2761,2753,43,,00
+40s,M,3,Graduate,Single,$60K - $80K,Blue,3 - 4,3,2,4,19075,0,19075,2013,32,,00
+40s,F,4,Unknown,Single,Unknown,Blue,2 - 3,6,3,3,2672,0,2672,2576,39,,00
+40s,F,4,Graduate,Divorced,$40K - $60K,Blue,2 - 3,1,3,1,10360,2517,7843,2414,28,,24
+50s,M,1,Uneducated,Single,$60K - $80K,Blue,3 - 4,5,2,2,1723,0,1723,2574,43,,00
+50s,F,2,Graduate,Single,Less than $40K,Blue,4 - 5,2,1,2,1583,234,1349,2541,36,,15
+50s,M,4,Unknown,Married,$40K - $60K,Blue,2 - 3,6,1,5,12914,1227,11687,2082,54,,10
+30s,F,1,Unknown,Single,Less than $40K,Blue,1 - 2,2,1,2,1735,0,1735,2467,35,,00
+50s,F,2,Graduate,Single,$40K - $60K,Blue,2 - 3,3,1,4,1495,0,1495,2220,50,,00
+40s,F,3,Uneducated,Married,Less than $40K,Blue,2 - 3,5,1,2,2694,0,2694,2684,38,,00
+50s,F,2,College,Single,Unknown,Blue,4 - 5,2,2,4,10195,0,10195,2489,54,,00
+30s,M,3,Unknown,Single,$60K - $80K,Blue,1 - 2,1,2,3,7821,2517,5304,2010,43,,32
+40s,F,3,Graduate,Married,Less than $40K,Blue,2 - 3,6,3,4,1984,0,1984,2506,46,,00
+50s,F,2,Uneducated,Single,$40K - $60K,Blue,3 - 4,1,2,3,1699,0,1699,2520,49,,00
+40s,F,3,Uneducated,Single,Unknown,Blue,2 - 3,3,2,2,3698,478,3220,2051,31,,13
+50s,F,2,Unknown,Single,Unknown,Blue,3 - 4,1,3,3,2721,1885,836,2594,48,,69
+40s,F,5,Graduate,Married,Less than $40K,Blue,2 - 3,6,2,2,6936,0,6936,2874,44,,00
+40s,F,1,Uneducated,Single,$40K - $60K,Blue,2 - 3,3,2,1,7195,0,7195,2751,47,,00
+40s,F,0,Unknown,Married,$40K - $60K,Blue,2 - 3,3,2,4,2759,0,2759,2061,47,,00
+50s,F,4,Graduate,Single,Less than $40K,Blue,3 - 4,2,3,2,3201,2517,684,1880,42,,79
+30s,F,0,Uneducated,Married,Unknown,Blue,2 - 3,6,3,2,8791,0,8791,2579,51,,00
+50s,F,0,Doctorate,Married,Less than $40K,Blue,4 - 5,6,4,2,2302,0,2302,2256,40,,00
+40s,M,3,College,Married,$80K - $120K,Blue,2 - 3,3,3,3,2900,2517,383,2180,31,,87
+40s,F,2,Graduate,Unknown,Less than $40K,Blue,2 - 3,6,3,3,2520,1473,1047,2061,36,,58
+40s,F,3,Graduate,Single,$40K - $60K,Blue,2 - 3,4,3,2,5655,1154,4501,2189,51,,20
+50s,M,3,Uneducated,Married,$80K - $120K,Blue,3 - 4,3,3,3,11606,0,11606,2623,39,,00
+40s,F,4,Graduate,Married,Less than $40K,Blue,3 - 4,5,2,4,1757,0,1757,2557,45,,00
+40s,F,3,College,Married,Less than $40K,Blue,2 - 3,2,3,4,1804,0,1804,2077,44,,00
+40s,F,0,Doctorate,Married,Less than $40K,Blue,3 - 4,3,4,4,3547,2517,1030,2715,45,,71
+40s,M,3,High School,Unknown,$80K - $120K,Blue,2 - 3,1,3,4,29715,0,29715,2128,39,,00
+40s,F,2,Graduate,Divorced,Less than $40K,Blue,2 - 3,3,2,3,1880,0,1880,2469,34,,00
+60s,M,0,Graduate,Single,Unknown,Blue,3 - 4,1,4,3,1671,0,1671,2701,51,,00
+40s,F,5,Graduate,Single,Less than $40K,Blue,3 - 4,1,2,4,1491,0,1491,1970,46,,00
+40s,M,3,Graduate,Unknown,$80K - $120K,Blue,2 - 3,1,2,6,11422,1095,10327,2439,45,,10
+50s,F,4,Unknown,Married,Less than $40K,Blue,3 - 4,3,3,0,5139,0,5139,1653,44,,00
+30s,F,1,Graduate,Married,Less than $40K,Blue,2 - 3,2,2,3,2905,2517,388,2487,39,,87
+50s,F,4,High School,Married,Less than $40K,Blue,2 - 3,4,2,3,1477,0,1477,2419,49,,00
+40s,F,4,Post-Graduate,Divorced,Less than $40K,Blue,2 - 3,4,3,3,3556,2517,1039,2639,53,,71
+40s,F,3,Graduate,Married,Less than $40K,Blue,2 - 3,6,2,4,1479,458,1021,1811,44,,31
+50s,F,1,Graduate,Married,Unknown,Blue,2 - 3,6,3,1,5842,198,5644,1828,44,,03
+40s,M,1,Uneducated,Married,$60K - $80K,Blue,2 - 3,3,3,4,15060,0,15060,1611,42,,00
+40s,M,4,Unknown,Single,$80K - $120K,Blue,2 - 3,1,2,4,4428,0,4428,2331,36,,00
+50s,F,3,High School,Married,Less than $40K,Blue,3 - 4,6,2,4,2897,1506,1391,2214,46,,52
+40s,M,2,Graduate,Divorced,$80K - $120K,Blue,3 - 4,3,2,3,4586,0,4586,2529,43,,00
+40s,F,2,College,Married,Less than $40K,Blue,2 - 3,6,2,3,5667,2517,3150,2176,38,,44
+40s,F,3,High School,Married,Unknown,Blue,3 - 4,6,3,4,11410,979,10431,2736,38,,09
+40s,M,3,Doctorate,Married,$60K - $80K,Blue,2 - 3,6,3,1,1584,1214,370,2628,41,,77
+50s,F,2,Unknown,Married,Less than $40K,Blue,2 - 3,1,2,2,2114,0,2114,2872,45,,00
+40s,M,1,Unknown,Single,$60K - $80K,Blue,2 - 3,3,2,4,2540,0,2540,1531,31,,00
+40s,M,2,Graduate,Single,$60K - $80K,Blue,2 - 3,3,2,1,2238,0,2238,2063,42,,00
+50s,F,2,Doctorate,Married,Less than $40K,Blue,3 - 4,2,2,3,3881,2517,1364,2463,38,,65
+40s,M,2,Uneducated,Married,$40K - $60K,Blue,2 - 3,1,3,3,3032,0,3032,2273,44,,00
+40s,M,0,High School,Single,$60K - $80K,Blue,2 - 3,4,3,6,15699,0,15699,1793,40,,00
+40s,F,3,College,Married,Less than $40K,Blue,2 - 3,4,2,4,2330,2294,36,2107,40,,98
+40s,F,4,Doctorate,Unknown,Unknown,Blue,1 - 2,4,2,3,1438,0,1438,2306,46,,00
+50s,M,3,Uneducated,Single,$80K - $120K,Blue,3 - 4,3,3,3,25670,0,25670,2709,51,,00
+40s,M,2,College,Single,$60K - $80K,Blue,2 - 3,3,2,4,3841,0,3841,2832,48,,00
+50s,M,2,High School,Married,$120K +,Silver,3 - 4,5,2,1,34516,399,34117,2118,41,,01
+30s,F,3,Unknown,Married,Less than $40K,Blue,1 - 2,3,1,3,1468,1074,394,2050,32,,73
+40s,F,3,Uneducated,Single,Unknown,Blue,2 - 3,4,2,3,3855,211,3644,1724,34,,06
+40s,F,1,Unknown,Married,Less than $40K,Blue,2 - 3,3,3,4,2983,0,2983,2509,46,,00
+30s,F,0,Post-Graduate,Divorced,Less than $40K,Blue,2 - 3,6,3,3,4871,0,4871,2773,34,,00
+40s,F,3,High School,Married,$40K - $60K,Blue,3 - 4,4,2,4,3304,0,3304,1731,32,,00
+40s,M,4,Unknown,Single,$120K +,Blue,3 - 4,3,3,4,34516,2517,31999,2376,55,,07
+50s,M,0,High School,Single,$60K - $80K,Blue,4 - 5,3,6,6,24621,471,24150,2864,51,,02
+50s,F,2,Uneducated,Married,Unknown,Blue,4 - 5,3,6,2,2404,284,2120,2511,51,,12
+30s,F,3,Post-Graduate,Unknown,Unknown,Blue,2 - 3,3,2,4,4734,2517,2217,2275,55,,53
+50s,M,2,Graduate,Married,$120K +,Blue,2 - 3,3,2,4,4697,0,4697,1867,34,,00
+40s,F,1,Graduate,Married,Less than $40K,Blue,2 - 3,4,2,4,1536,0,1536,1973,36,,00
+40s,F,0,Uneducated,Single,Less than $40K,Blue,3 - 4,3,3,2,2094,0,2094,2690,46,,00
+40s,M,5,Unknown,Married,$60K - $80K,Blue,1 - 2,6,2,4,5096,0,5096,2574,43,,00
+40s,F,3,Unknown,Single,Less than $40K,Blue,2 - 3,1,3,3,5398,0,5398,1887,36,,00
+50s,F,2,Uneducated,Married,Less than $40K,Blue,4 - 5,5,5,4,1438,0,1438,2146,44,,00
+30s,F,0,Uneducated,Single,$40K - $60K,Blue,1 - 2,3,2,6,1438,0,1438,2527,49,,00
+30s,M,2,Uneducated,Single,$120K +,Blue,2 - 3,6,3,4,4043,2517,1526,2600,47,,62
+30s,F,4,Unknown,Married,Less than $40K,Blue,2 - 3,3,2,2,1438,0,1438,2264,39,,00
+50s,F,1,College,Single,Less than $40K,Blue,3 - 4,3,2,2,2846,0,2846,2122,44,,00
+40s,F,4,Uneducated,Single,Less than $40K,Blue,2 - 3,6,3,4,1438,170,1268,2527,45,,12
+40s,F,2,College,Married,Unknown,Blue,3 - 4,5,2,4,2220,0,2220,2456,45,,00
+40s,F,2,Uneducated,Divorced,Less than $40K,Blue,2 - 3,5,2,4,2086,2007,79,2537,48,,96
+50s,M,2,Uneducated,Single,$40K - $60K,Blue,4 - 5,2,1,3,3682,2517,1165,1642,35,,68
+50s,F,2,Doctorate,Married,Less than $40K,Blue,4 - 5,4,6,5,1438,0,1438,2229,40,,00
+40s,F,4,Graduate,Married,Unknown,Blue,2 - 3,4,3,4,2286,0,2286,2798,40,,00
+50s,F,0,Graduate,Single,Less than $40K,Blue,3 - 4,4,1,4,1438,0,1438,2014,53,,00
+30s,F,2,Doctorate,Married,Less than $40K,Blue,2 - 3,4,3,4,1438,886,552,1674,42,,62
+30s,F,2,Uneducated,Single,Less than $40K,Blue,2 - 3,4,3,1,1438,576,862,2567,48,,40
+40s,F,3,Graduate,Married,$40K - $60K,Blue,2 - 3,6,3,4,14899,0,14899,1519,26,,00
+30s,F,0,High School,Single,Less than $40K,Blue,1 - 2,3,2,5,1556,0,1556,2283,46,,00
+50s,M,3,Graduate,Married,$60K - $80K,Blue,4 - 5,5,0,3,8701,215,8486,1999,41,,03
+30s,M,2,Uneducated,Single,$40K - $60K,Blue,1 - 2,1,1,6,5600,2517,3083,2296,46,,45
+50s,F,3,High School,Single,$40K - $60K,Blue,3 - 4,5,4,3,2687,1689,998,2370,34,,63
+40s,F,3,High School,Married,Less than $40K,Blue,3 - 4,3,3,0,1801,316,1485,2252,42,,17
+50s,M,1,Post-Graduate,Single,$60K - $80K,Blue,3 - 4,6,2,4,4573,2076,2497,2720,46,,45
+40s,F,5,Graduate,Married,Less than $40K,Blue,3 - 4,4,3,2,2860,2517,343,1544,45,,88
+40s,F,4,Unknown,Married,Less than $40K,Blue,2 - 3,3,3,3,2033,228,1805,2572,43,,11
+30s,F,4,College,Married,$40K - $60K,Blue,2 - 3,4,2,4,7596,2199,5397,2164,45,,29
+50s,F,3,College,Married,Less than $40K,Blue,3 - 4,5,3,2,2921,2412,509,2612,33,,83
+50s,F,1,Unknown,Married,Less than $40K,Blue,2 - 3,5,3,3,1438,0,1438,2585,45,,00
+30s,F,2,Graduate,Divorced,Less than $40K,Blue,2 - 3,3,3,4,3328,2517,811,2196,47,,76
+40s,F,3,Unknown,Married,Less than $40K,Blue,2 - 3,2,2,2,2440,1002,1438,1533,42,,41
+30s,F,4,High School,Single,Unknown,Blue,2 - 3,3,2,4,12405,0,12405,3151,39,,00
+30s,F,1,Uneducated,Divorced,Less than $40K,Blue,1 - 2,6,1,2,1644,0,1644,2533,44,,00
+50s,F,2,Post-Graduate,Married,Unknown,Blue,2 - 3,5,2,4,4045,0,4045,2438,41,,00
+30s,F,2,Graduate,Married,Less than $40K,Blue,2 - 3,5,2,2,5845,0,5845,2308,35,,00
+40s,F,5,Uneducated,Single,Less than $40K,Blue,2 - 3,5,3,4,2689,2384,305,1941,53,,89
+40s,F,2,Uneducated,Single,Less than $40K,Blue,1 - 2,4,2,3,1443,0,1443,2092,38,,00
+40s,F,2,Graduate,Single,Less than $40K,Blue,2 - 3,5,2,4,1438,0,1438,1944,36,,00
+50s,F,1,Post-Graduate,Married,$40K - $60K,Blue,3 - 4,6,3,3,1694,479,1215,2349,42,,28
+50s,F,3,High School,Divorced,Unknown,Blue,2 - 3,4,3,6,7939,0,7939,2269,42,,00
+50s,F,2,Unknown,Single,Less than $40K,Blue,3 - 4,5,3,2,3245,0,3245,1977,29,,00
+30s,F,4,High School,Single,$40K - $60K,Blue,2 - 3,4,3,2,1438,0,1438,1986,52,,00
+40s,M,4,Unknown,Single,$40K - $60K,Blue,3 - 4,2,3,2,11272,1744,9528,1455,34,,15
+50s,F,1,Doctorate,Married,Unknown,Blue,3 - 4,1,3,3,12972,1424,11548,2238,36,,11
+40s,F,3,Graduate,Unknown,Less than $40K,Blue,2 - 3,5,2,2,8109,0,8109,1835,43,,00
+40s,F,3,College,Single,Less than $40K,Blue,2 - 3,3,3,4,3802,1300,2502,2165,36,,34
+50s,F,1,Graduate,Married,Less than $40K,Blue,3 - 4,5,3,2,1438,0,1438,2492,35,,00
+60s,M,2,Unknown,Single,Less than $40K,Blue,2 - 3,4,2,3,2954,2517,437,1909,28,,85
+40s,F,3,Graduate,Single,Unknown,Blue,3 - 4,1,2,4,11025,0,11025,1902,28,,00
+40s,F,2,Unknown,Married,Less than $40K,Blue,3 - 4,1,0,4,2002,0,2002,2423,39,,00
+50s,F,2,Unknown,Single,Less than $40K,Blue,2 - 3,3,3,4,2575,411,2164,2423,43,,16
+40s,M,3,High School,Unknown,$40K - $60K,Blue,2 - 3,4,3,4,1639,0,1639,2242,44,,00
+50s,M,1,Uneducated,Single,$120K +,Blue,3 - 4,3,4,4,24542,2354,22188,984,24,,10
+50s,F,1,Uneducated,Single,Less than $40K,Blue,3 - 4,3,2,4,1838,0,1838,2461,47,,00
+30s,F,2,Graduate,Unknown,Less than $40K,Blue,2 - 3,5,2,4,3111,2517,594,2367,41,,81
+40s,F,1,High School,Single,Less than $40K,Blue,2 - 3,4,3,2,1438,544,894,2294,40,,38
+40s,F,4,Uneducated,Single,Less than $40K,Blue,2 - 3,5,3,2,2422,1014,1408,2437,44,,42
+50s,F,2,Uneducated,Single,Less than $40K,Blue,3 - 4,1,2,4,1440,1211,229,2141,40,,84
+20s,F,1,Uneducated,Single,Less than $40K,Blue,2 - 3,3,2,4,2516,2312,204,2321,36,,92
+40s,F,4,Doctorate,Divorced,$40K - $60K,Blue,2 - 3,4,3,2,3646,1047,2599,1969,38,,29
+40s,F,3,Uneducated,Divorced,Less than $40K,Blue,2 - 3,5,3,2,4073,2517,1556,2059,43,,62
+50s,F,1,Doctorate,Single,Less than $40K,Blue,3 - 4,5,3,1,1952,1411,541,2452,44,,72
+50s,F,0,High School,Married,Less than $40K,Blue,3 - 4,3,3,4,1438,0,1438,1587,42,,00
+30s,F,3,Uneducated,Divorced,Unknown,Blue,2 - 3,4,3,3,2809,0,2809,2466,40,,00
+40s,M,3,Post-Graduate,Married,$40K - $60K,Blue,2 - 3,3,2,4,2954,931,2023,2433,29,,32
+30s,F,2,High School,Married,$40K - $60K,Blue,2 - 3,4,3,2,1848,0,1848,2775,33,,00
+60s,M,1,Uneducated,Married,Less than $40K,Blue,2 - 3,1,3,4,3316,0,3316,1684,19,,00
+50s,F,1,Doctorate,Single,Unknown,Blue,3 - 4,6,4,3,1970,1477,493,2493,44,,75
+50s,F,3,Graduate,Married,Unknown,Blue,3 - 4,3,3,2,4173,1771,2402,2554,47,,42
+40s,F,4,Unknown,Married,Less than $40K,Blue,2 - 3,6,2,3,2895,0,2895,2473,42,,00
+30s,M,2,High School,Married,$40K - $60K,Blue,2 - 3,5,3,3,2220,0,2220,2859,55,,00
+50s,F,2,Unknown,Single,Unknown,Blue,2 - 3,4,3,2,10241,1545,8696,2513,47,,15
+40s,F,1,Graduate,Single,Less than $40K,Blue,2 - 3,3,2,4,3101,0,3101,2512,37,,00
+40s,F,1,Unknown,Married,Less than $40K,Blue,2 - 3,6,2,4,1850,896,954,2613,41,,48
+50s,M,2,Uneducated,Single,$40K - $60K,Blue,4 - 5,4,5,4,2699,2422,277,2599,43,,90
+40s,M,4,Graduate,Single,$60K - $80K,Blue,2 - 3,5,2,4,5045,2080,2965,2042,40,,41
+30s,F,0,Graduate,Married,Less than $40K,Blue,2 - 3,4,3,4,2089,0,2089,2707,51,,00
+50s,F,1,Graduate,Unknown,Less than $40K,Blue,2 - 3,4,2,2,3552,2517,1035,2665,36,,71
+40s,F,3,Unknown,Single,Less than $40K,Blue,2 - 3,6,3,3,2325,238,2087,2306,47,,10
+30s,F,0,Graduate,Single,Less than $40K,Blue,1 - 2,5,1,5,3983,431,3552,3098,46,,11
+40s,M,2,High School,Single,$120K +,Blue,2 - 3,6,3,2,15490,0,15490,2429,50,,00
+40s,F,4,Uneducated,Single,Less than $40K,Blue,1 - 2,5,2,1,4212,2517,1695,2725,41,,60
+40s,F,4,Unknown,Married,$40K - $60K,Blue,2 - 3,4,3,5,1691,1327,364,2345,33,,79
+40s,M,4,Doctorate,Unknown,$60K - $80K,Blue,2 - 3,3,2,4,18229,0,18229,2060,39,,00
+40s,F,4,Graduate,Married,$40K - $60K,Blue,2 - 3,6,3,3,1452,0,1452,2287,42,,00
+30s,F,2,Graduate,Single,Less than $40K,Blue,2 - 3,1,3,3,1438,811,627,2336,46,,56
+30s,F,3,Graduate,Single,$40K - $60K,Blue,1 - 2,1,3,1,2013,0,2013,2425,50,,00
+50s,F,3,Unknown,Married,Less than $40K,Blue,2 - 3,3,3,3,2819,0,2819,2128,39,,00
+40s,M,3,Post-Graduate,Unknown,$80K - $120K,Blue,3 - 4,2,3,4,20769,901,19868,1835,43,,04
+40s,F,5,Graduate,Divorced,$40K - $60K,Blue,3 - 4,6,4,2,2920,0,2920,2306,39,,00
+50s,M,0,Post-Graduate,Married,$80K - $120K,Blue,3 - 4,5,4,2,6526,489,6037,2331,45,,07
+30s,F,1,High School,Single,$40K - $60K,Blue,2 - 3,4,2,2,1793,792,1001,2374,40,,44
+40s,F,2,High School,Single,Unknown,Blue,2 - 3,6,3,4,6479,0,6479,2539,42,,00
+40s,F,4,Unknown,Single,Less than $40K,Silver,3 - 4,1,2,2,10195,2389,7806,1563,36,,23
+40s,M,4,Graduate,Single,$60K - $80K,Blue,2 - 3,5,3,3,10573,0,10573,2237,43,,00
+40s,F,4,High School,Single,$40K - $60K,Blue,2 - 3,5,2,3,1554,412,1142,2341,43,,27
+40s,F,2,College,Married,Less than $40K,Blue,2 - 3,5,2,3,4020,0,4020,1952,39,,00
+30s,F,2,Unknown,Married,Unknown,Blue,2 - 3,4,3,3,3388,0,3388,1959,52,,00
+40s,M,1,Post-Graduate,Single,$60K - $80K,Blue,2 - 3,5,2,3,8766,0,8766,2263,35,,00
+50s,F,5,Doctorate,Single,Less than $40K,Blue,3 - 4,3,2,3,1438,0,1438,1935,47,,00
+50s,F,1,Graduate,Single,Less than $40K,Blue,3 - 4,3,3,4,1842,625,1217,2650,43,,34
+40s,F,2,Graduate,Married,Less than $40K,Blue,2 - 3,3,2,2,2417,0,2417,1848,38,,00
+50s,F,3,High School,Married,Less than $40K,Blue,3 - 4,3,3,2,1547,0,1547,2312,43,,00
+40s,F,4,Graduate,Unknown,Less than $40K,Blue,2 - 3,5,2,2,2700,2480,220,2396,49,,92
+30s,F,1,Post-Graduate,Single,Less than $40K,Blue,2 - 3,3,2,5,2066,347,1719,2157,37,,17
+40s,F,4,College,Unknown,Unknown,Blue,1 - 2,4,2,3,1438,1125,313,2534,52,,78
+50s,M,2,Graduate,Single,$120K +,Blue,3 - 4,5,3,4,34516,219,34297,1882,48,,01
+40s,F,3,College,Single,Unknown,Blue,2 - 3,5,3,4,4345,2198,2147,1918,31,,51
+50s,F,3,Graduate,Divorced,Less than $40K,Blue,3 - 4,5,4,4,4248,316,3932,2271,36,,07
+50s,F,3,College,Married,Less than $40K,Blue,3 - 4,3,2,3,3474,0,3474,2675,37,,00
+40s,F,1,Unknown,Single,Unknown,Blue,2 - 3,3,3,3,3517,0,3517,2403,48,,00
+60s,M,0,High School,Single,$60K - $80K,Blue,4 - 5,3,2,4,18734,0,18734,2112,52,,00
+30s,F,2,Doctorate,Married,Less than $40K,Blue,2 - 3,5,2,4,1614,0,1614,2437,46,,00
+40s,F,3,Unknown,Married,Less than $40K,Blue,3 - 4,1,2,2,1438,0,1438,2393,36,,00
+30s,M,2,Unknown,Married,$60K - $80K,Blue,2 - 3,6,2,4,1698,0,1698,2448,40,,00
+50s,M,3,Graduate,Married,$80K - $120K,Blue,3 - 4,4,2,3,15011,2517,12494,1821,36,,17
+50s,F,2,Doctorate,Divorced,Unknown,Blue,3 - 4,6,3,4,8930,2517,6413,2167,38,,28
+50s,F,1,Uneducated,Married,Unknown,Blue,4 - 5,4,0,3,2912,0,2912,2465,54,,00
+50s,F,3,Doctorate,Single,Unknown,Blue,3 - 4,3,3,2,1790,1474,316,2128,40,,82
+40s,F,1,Graduate,Married,$40K - $60K,Blue,2 - 3,3,3,5,1438,0,1438,2276,40,,00
+50s,M,0,High School,Divorced,$80K - $120K,Blue,3 - 4,4,3,3,19793,2488,17305,2186,44,,13
+40s,F,1,College,Unknown,Unknown,Blue,2 - 3,5,3,3,2197,461,1736,1955,42,,21
+50s,F,4,Doctorate,Married,Less than $40K,Blue,3 - 4,6,2,2,3719,2517,1202,2587,43,,68
+50s,F,0,Unknown,Married,Unknown,Blue,4 - 5,5,2,4,6996,0,6996,2384,33,,00
+60s,M,0,Doctorate,Single,Unknown,Blue,3 - 4,6,4,3,7306,0,7306,2445,43,,00
+40s,F,1,Doctorate,Divorced,Less than $40K,Blue,2 - 3,3,3,1,2029,621,1408,3142,37,,31
+50s,F,1,Graduate,Married,Less than $40K,Silver,3 - 4,6,3,3,13199,781,12418,1927,44,,06
+50s,F,0,High School,Single,Less than $40K,Blue,3 - 4,5,4,2,1977,0,1977,2341,37,,00
+30s,F,2,Graduate,Single,Less than $40K,Blue,1 - 2,6,2,3,1806,0,1806,2833,43,,00
+40s,M,4,Uneducated,Married,$80K - $120K,Blue,3 - 4,1,2,2,23250,0,23250,2205,43,,00
+40s,M,3,Uneducated,Single,$120K +,Blue,2 - 3,3,3,4,34516,0,34516,2020,33,,00
+30s,F,2,Uneducated,Unknown,$40K - $60K,Blue,1 - 2,4,2,2,1843,1293,550,2077,61,,70
+40s,F,2,Graduate,Married,$40K - $60K,Blue,2 - 3,5,2,4,2990,1828,1162,2265,41,,61
+40s,M,3,High School,Unknown,$80K - $120K,Blue,2 - 3,4,3,2,3845,0,3845,2174,39,,00
+40s,F,2,High School,Single,Less than $40K,Blue,2 - 3,3,3,3,1506,168,1338,2312,44,,11
+50s,M,1,High School,Single,$80K - $120K,Blue,2 - 3,3,2,2,11778,0,11778,2147,44,,00
+40s,M,3,Uneducated,Single,$60K - $80K,Blue,2 - 3,3,2,4,1659,1544,115,1920,39,,93
+50s,F,1,Graduate,Single,Less than $40K,Blue,4 - 5,4,3,4,3214,424,2790,2720,53,,13
+50s,M,2,Graduate,Married,$80K - $120K,Blue,2 - 3,3,3,3,12906,321,12585,2078,62,,03
+50s,F,1,Graduate,Single,Unknown,Blue,4 - 5,3,4,6,8708,1091,7617,2508,49,,13
+50s,M,2,Unknown,Married,$80K - $120K,Blue,3 - 4,6,4,3,7904,0,7904,2094,32,,00
+40s,F,3,College,Married,Less than $40K,Blue,2 - 3,5,2,2,1438,1214,224,2445,39,,84
+40s,M,4,Doctorate,Married,$120K +,Blue,3 - 4,4,3,2,7924,2517,5407,2393,37,,32
+30s,F,3,High School,Single,Unknown,Blue,1 - 2,4,1,3,2179,0,2179,2568,48,,00
+30s,M,3,Doctorate,Married,$80K - $120K,Blue,2 - 3,5,3,4,13590,1528,12062,2137,52,,11
+30s,F,1,Unknown,Single,Less than $40K,Blue,1 - 2,3,1,2,1695,0,1695,2428,43,,00
+40s,F,2,Graduate,Married,Less than $40K,Blue,2 - 3,3,3,3,2580,2137,443,2981,40,,83
+40s,M,4,Graduate,Unknown,$40K - $60K,Silver,2 - 3,4,2,4,16509,425,16084,1740,43,,03
+40s,M,4,High School,Unknown,$40K - $60K,Blue,2 - 3,1,2,3,7316,1335,5981,1849,50,,18
+40s,M,2,Unknown,Single,$60K - $80K,Blue,2 - 3,6,2,3,12283,0,12283,1993,41,,00
+40s,F,3,Graduate,Married,Less than $40K,Blue,2 - 3,6,3,5,1438,0,1438,1813,51,,00
+50s,M,2,Unknown,Divorced,$120K +,Blue,4 - 5,5,4,3,24250,278,23972,2153,41,,01
+50s,F,2,Uneducated,Single,Less than $40K,Blue,4 - 5,5,0,3,2475,0,2475,2574,43,,00
+40s,F,3,Graduate,Divorced,Unknown,Blue,3 - 4,5,2,6,17678,0,17678,2566,49,,00
+50s,F,1,Graduate,Divorced,Less than $40K,Blue,3 - 4,3,3,3,4090,2517,1573,2016,49,,61
+50s,F,1,High School,Married,$40K - $60K,Blue,3 - 4,3,3,3,1816,0,1816,2474,44,,00
+40s,F,2,Graduate,Married,Unknown,Blue,2 - 3,4,2,4,21961,0,21961,2237,39,,00
+40s,F,2,Graduate,Unknown,Less than $40K,Blue,2 - 3,3,3,3,1507,0,1507,2528,41,,00
+40s,F,1,Graduate,Single,$40K - $60K,Blue,3 - 4,3,2,5,4142,2517,1625,2104,44,,61
+40s,M,3,College,Married,$120K +,Blue,3 - 4,5,3,3,4781,0,4781,2451,50,,00
+40s,F,3,Graduate,Single,Less than $40K,Blue,3 - 4,3,3,4,1502,0,1502,2204,36,,00
+60s,F,1,Uneducated,Single,Unknown,Blue,4 - 5,3,6,3,7359,0,7359,2869,43,,00
+40s,M,3,Graduate,Married,$80K - $120K,Blue,3 - 4,5,2,4,7970,2434,5536,1263,27,,30
+40s,F,3,Uneducated,Divorced,Less than $40K,Blue,2 - 3,3,2,2,1942,0,1942,1853,31,,00
+40s,M,4,Graduate,Divorced,$40K - $60K,Blue,2 - 3,1,2,3,5821,894,4927,2011,42,,15
+40s,M,3,Uneducated,Single,$40K - $60K,Blue,3 - 4,4,3,1,1809,457,1352,2169,49,,25
+40s,F,2,Doctorate,Married,Less than $40K,Blue,2 - 3,4,3,4,2514,2090,424,2603,53,,83
+50s,M,3,Uneducated,Single,$120K +,Blue,2 - 3,1,2,3,7970,2282,5688,1872,41,,29
+50s,F,1,Unknown,Single,Less than $40K,Blue,2 - 3,5,2,3,1836,572,1264,2400,34,,31
+40s,F,3,Graduate,Married,Unknown,Blue,3 - 4,3,4,3,13095,1836,11259,1552,32,,14
+50s,F,4,High School,Married,Unknown,Blue,3 - 4,1,4,3,5396,1803,3593,2107,39,,33
+40s,F,3,Graduate,Single,$40K - $60K,Blue,3 - 4,5,3,3,1899,671,1228,2434,45,,35
+50s,F,1,High School,Single,Less than $40K,Blue,2 - 3,6,3,3,2006,1608,398,2760,38,,80
+50s,M,2,Graduate,Single,$120K +,Blue,4 - 5,3,5,3,8760,0,8760,2460,39,,00
+50s,F,3,Unknown,Single,$40K - $60K,Blue,2 - 3,5,3,4,2496,1999,497,2590,50,,80
+40s,F,4,Doctorate,Married,Less than $40K,Blue,2 - 3,3,2,2,1438,0,1438,2429,38,,00
+40s,F,4,Graduate,Married,Less than $40K,Blue,2 - 3,5,2,3,2128,528,1600,2289,41,,25
+40s,F,2,Doctorate,Married,Less than $40K,Blue,2 - 3,4,3,4,2704,2262,442,2362,39,,84
+50s,F,0,Uneducated,Divorced,Less than $40K,Blue,2 - 3,3,2,6,9909,0,9909,1844,41,,00
+50s,M,1,Graduate,Divorced,$120K +,Blue,3 - 4,1,3,2,1656,0,1656,2073,44,,00
+40s,F,4,Doctorate,Married,Less than $40K,Blue,1 - 2,3,2,3,4304,0,4304,1788,36,,00
+50s,F,3,Graduate,Single,Less than $40K,Blue,2 - 3,3,3,5,2060,0,2060,1976,44,,00
+40s,M,4,High School,Unknown,$60K - $80K,Blue,2 - 3,4,3,4,1871,0,1871,2593,48,,00
+40s,F,3,Unknown,Married,Less than $40K,Blue,2 - 3,3,2,3,1438,0,1438,1852,38,,00
+40s,F,4,Graduate,Single,Less than $40K,Blue,3 - 4,6,4,3,2473,0,2473,2133,44,,00
+40s,F,3,Graduate,Unknown,Unknown,Blue,2 - 3,3,2,1,8869,0,8869,1935,40,,00
+50s,F,4,Graduate,Married,Unknown,Blue,3 - 4,2,3,5,3853,696,3157,2443,38,,18
+50s,M,3,Post-Graduate,Divorced,$60K - $80K,Blue,2 - 3,3,2,3,14409,511,13898,2351,39,,04
+50s,F,1,High School,Single,$40K - $60K,Blue,2 - 3,5,3,3,1665,0,1665,2748,40,,00
+40s,F,4,Uneducated,Single,Unknown,Blue,3 - 4,3,4,3,6263,2517,3746,2613,50,,40
+50s,F,3,High School,Married,Less than $40K,Blue,3 - 4,3,5,1,2003,1735,268,2343,42,,87
+30s,M,1,High School,Single,$120K +,Blue,2 - 3,5,3,3,10874,2415,8459,4619,59,,22
+50s,M,2,College,Single,$80K - $120K,Blue,3 - 4,2,2,2,13769,0,13769,4738,53,,00
+30s,M,2,Graduate,Divorced,$40K - $60K,Silver,1 - 2,5,2,3,17894,304,17590,4691,63,,02
+40s,M,1,Post-Graduate,Single,$80K - $120K,Blue,3 - 4,4,2,2,13174,0,13174,4890,49,,00
+50s,F,2,Graduate,Single,Unknown,Blue,3 - 4,2,3,3,3608,2517,1091,4907,53,,70
+50s,M,2,Graduate,Single,$120K +,Blue,3 - 4,2,1,2,31782,0,31782,4800,53,,00
+50s,M,4,Unknown,Single,$120K +,Silver,3 - 4,2,3,3,34516,1279,33237,4615,49,,04
+40s,M,4,Unknown,Single,$60K - $80K,Blue,2 - 3,4,3,6,18975,0,18975,4803,65,,00
+30s,M,1,Unknown,Unknown,$40K - $60K,Blue,2 - 3,2,3,3,6893,1462,5431,4782,50,,21
+50s,M,2,High School,Divorced,$120K +,Blue,3 - 4,5,3,2,16828,2517,14311,4939,63,,15
+40s,M,2,Post-Graduate,Married,$60K - $80K,Blue,2 - 3,2,2,2,2476,2250,226,4659,48,,91
+50s,F,3,Graduate,Single,Less than $40K,Silver,3 - 4,1,5,2,13432,0,13432,4909,50,,00
+50s,M,1,Post-Graduate,Unknown,$80K - $120K,Blue,3 - 4,2,3,4,2673,0,2673,4929,54,,00
+40s,M,2,College,Divorced,$80K - $120K,Blue,3 - 4,4,3,3,4479,0,4479,4520,63,,00
+30s,F,2,College,Unknown,Less than $40K,Blue,2 - 3,2,2,6,7385,1817,5568,5070,50,,25
+40s,F,3,Graduate,Married,Less than $40K,Silver,2 - 3,4,3,1,14057,1381,12676,4729,54,,10
+40s,M,3,Graduate,Single,$80K - $120K,Blue,2 - 3,2,2,2,29338,159,29179,4983,40,,01
+40s,F,3,High School,Married,Unknown,Blue,3 - 4,1,4,2,8383,0,8383,5460,63,,00
+40s,F,4,High School,Married,Less than $40K,Blue,2 - 3,2,3,2,2913,0,2913,4955,56,,00
+40s,F,5,College,Single,$40K - $60K,Blue,2 - 3,2,3,1,11508,0,11508,5242,74,,00
+40s,M,3,High School,Married,$80K - $120K,Blue,2 - 3,1,3,2,10908,0,10908,4883,42,,00
+60s,M,1,High School,Single,$60K - $80K,Blue,3 - 4,2,3,3,7547,2477,5070,5294,73,,33
+40s,M,4,Unknown,Married,$120K +,Blue,2 - 3,4,3,3,34516,0,34516,5425,60,,00
+50s,M,1,Post-Graduate,Unknown,$80K - $120K,Gold,2 - 3,2,3,2,34516,0,34516,5547,75,,00
+40s,M,2,Post-Graduate,Married,$60K - $80K,Blue,2 - 3,6,3,4,23026,2517,20509,4909,52,,11
+40s,M,4,Unknown,Married,$80K - $120K,Blue,3 - 4,2,3,2,29890,0,29890,3315,47,,00
+50s,F,0,Graduate,Single,Unknown,Platinum,3 - 4,2,2,2,34516,0,34516,3901,54,,00
+60s,M,0,Post-Graduate,Single,$60K - $80K,Blue,3 - 4,5,3,2,12218,0,12218,5272,62,,00
+40s,F,4,Graduate,Single,Less than $40K,Blue,2 - 3,4,3,1,3015,0,3015,5372,75,,00
+40s,M,2,High School,Married,$120K +,Blue,3 - 4,2,3,2,11714,949,10765,5366,68,,08
+40s,F,4,High School,Unknown,Less than $40K,Blue,3 - 4,5,3,3,7552,0,7552,5537,63,,00
+40s,M,3,Graduate,Single,$40K - $60K,Blue,2 - 3,5,3,2,6080,787,5293,4866,56,,13
+50s,M,1,High School,Single,$80K - $120K,Blue,3 - 4,2,3,3,28605,0,28605,5524,67,,00
+40s,M,4,Unknown,Unknown,$80K - $120K,Blue,3 - 4,2,2,2,2886,925,1961,5481,58,,32
+50s,F,2,Graduate,Single,Unknown,Platinum,2 - 3,2,3,3,34516,531,33985,5418,65,,01
+40s,F,3,Unknown,Single,$40K - $60K,Blue,3 - 4,4,3,3,9110,2517,6593,5290,69,,28
+50s,M,2,Unknown,Married,$40K - $60K,Blue,3 - 4,4,3,3,13067,0,13067,5468,71,,00
+40s,F,3,High School,Married,$40K - $60K,Blue,3 - 4,6,2,2,3399,0,3399,5529,78,,00
+60s,F,1,Graduate,Single,Less than $40K,Blue,4 - 5,1,2,1,3109,0,3109,5470,72,,00
+50s,M,2,Unknown,Single,$60K - $80K,Blue,3 - 4,2,1,2,2236,710,1526,2562,38,,32
+30s,M,1,Unknown,Single,$80K - $120K,Blue,1 - 2,1,2,2,3711,1413,2298,3922,51,,38
+40s,F,4,Uneducated,Married,Less than $40K,Blue,2 - 3,2,2,3,2082,1794,288,3423,48,,86
+40s,F,1,High School,Single,$40K - $60K,Blue,2 - 3,4,3,3,2667,0,2667,4399,54,,00
+30s,M,2,College,Married,$60K - $80K,Blue,2 - 3,1,2,2,3879,0,3879,7786,81,,00
+50s,F,1,College,Single,Less than $40K,Blue,3 - 4,4,2,2,2783,1763,1020,3967,42,,63
+40s,F,5,Graduate,Married,Less than $40K,Silver,2 - 3,6,3,2,14806,2517,12289,4804,57,,17
+40s,M,2,Graduate,Single,$120K +,Blue,3 - 4,5,3,4,27742,2517,25225,8646,85,,09
+50s,F,1,Uneducated,Single,Less than $40K,Silver,3 - 4,6,2,3,14563,1309,13254,6408,70,,09
+50s,M,2,Uneducated,Single,$80K - $120K,Blue,3 - 4,1,3,1,10286,0,10286,8199,59,,00
+40s,M,3,Uneducated,Married,$120K +,Blue,2 - 3,1,2,3,34516,0,34516,5603,56,,00
+40s,F,2,Unknown,Married,Less than $40K,Blue,3 - 4,5,2,2,3243,0,3243,6059,71,,00
+40s,M,3,Uneducated,Married,$40K - $60K,Blue,2 - 3,2,2,5,4572,0,4572,3555,42,,00
+40s,F,4,Graduate,Single,Less than $40K,Platinum,3 - 4,5,3,4,15987,0,15987,7681,71,,00
+60s,M,1,Graduate,Unknown,$60K - $80K,Blue,4 - 5,1,1,2,6157,581,5576,4041,65,,09
+50s,F,3,Uneducated,Married,Less than $40K,Blue,3 - 4,5,5,2,3536,0,3536,3281,39,,00
+40s,M,4,Uneducated,Divorced,$80K - $120K,Blue,2 - 3,2,3,2,19333,0,19333,7847,63,,00
+60s,M,1,Uneducated,Married,$40K - $60K,Blue,3 - 4,6,1,5,3735,1175,2560,8193,66,,32
+60s,F,0,Uneducated,Single,Less than $40K,Blue,2 - 3,6,3,3,5780,0,5780,6613,40,,00
+50s,M,0,High School,Single,$60K - $80K,Blue,3 - 4,4,3,2,3764,0,3764,6574,69,,00
+30s,M,3,Graduate,Married,$60K - $80K,Blue,2 - 3,2,3,2,6407,478,5929,9322,77,,07
+40s,F,3,Unknown,Married,$40K - $60K,Blue,2 - 3,4,3,6,5822,0,5822,3240,38,,00
+30s,F,3,Graduate,Married,Less than $40K,Gold,2 - 3,6,3,2,15487,1847,13640,7031,67,,12
+50s,M,3,High School,Married,$80K - $120K,Silver,2 - 3,5,3,3,34516,2292,32224,8045,71,,07
+50s,M,1,Uneducated,Married,$80K - $120K,Blue,2 - 3,6,2,1,33870,0,33870,7661,61,,00
+50s,M,2,Uneducated,Unknown,$120K +,Blue,3 - 4,6,2,1,34516,397,34119,7454,81,,01
+50s,F,4,Graduate,Married,Less than $40K,Blue,2 - 3,2,3,6,4005,0,4005,7022,75,,00
+60s,M,0,College,Married,$80K - $120K,Blue,4 - 5,1,4,2,29239,0,29239,8169,65,,00
+40s,M,4,Graduate,Single,$80K - $120K,Silver,2 - 3,2,3,6,34516,0,34516,3526,53,,00
+30s,F,0,Graduate,Single,Less than $40K,Blue,1 - 2,4,2,3,4598,0,4598,6317,77,,00
+50s,M,4,Graduate,Single,$80K - $120K,Silver,3 - 4,6,4,2,34516,230,34286,8629,65,,01
+40s,M,5,Uneducated,Married,$80K - $120K,Blue,2 - 3,2,3,3,3435,2517,918,5567,51,,73
+40s,F,3,Graduate,Single,Less than $40K,Blue,2 - 3,4,3,2,3319,0,3319,4840,44,,00
+60s,M,0,College,Single,$80K - $120K,Blue,4 - 5,2,4,3,21398,0,21398,3119,53,,00
+50s,F,2,Unknown,Married,Less than $40K,Blue,3 - 4,2,4,2,4746,0,4746,7154,66,,00
+50s,F,5,Unknown,Single,Less than $40K,Blue,2 - 3,6,3,5,4668,2517,2151,8331,63,,54
+30s,F,1,College,Single,Less than $40K,Blue,2 - 3,4,3,6,4541,0,4541,7996,80,,00
+30s,M,0,Post-Graduate,Married,Less than $40K,Blue,1 - 2,1,2,2,3768,0,3768,6639,71,,00
+40s,M,3,Graduate,Married,$40K - $60K,Blue,3 - 4,1,4,3,7979,0,7979,5056,63,,00
+40s,M,2,Uneducated,Single,$80K - $120K,Silver,2 - 3,2,3,3,34516,569,33947,8570,68,,02
+60s,M,0,Unknown,Single,$120K +,Blue,3 - 4,6,3,3,4650,1162,3488,7976,74,,25
+30s,M,1,High School,Single,$40K - $60K,Blue,2 - 3,6,3,2,4819,2134,2685,9330,64,,44
+40s,M,3,High School,Single,$80K - $120K,Blue,2 - 3,2,3,2,4620,0,4620,6644,61,,00
+50s,M,2,Graduate,Single,$60K - $80K,Blue,4 - 5,2,4,2,6224,0,6224,8291,69,,00
+40s,F,4,Uneducated,Married,$40K - $60K,Gold,2 - 3,2,3,3,23981,0,23981,4536,61,,00
+30s,M,3,Graduate,Married,$60K - $80K,Blue,1 - 2,5,1,3,23399,0,23399,9356,74,,00
+50s,F,2,Graduate,Married,Unknown,Blue,2 - 3,5,3,2,12494,0,12494,7026,69,,00
+30s,M,2,Graduate,Single,$120K +,Gold,1 - 2,2,2,3,34516,1692,32824,7486,64,,05
+30s,M,0,College,Single,$60K - $80K,Blue,1 - 2,6,2,2,4109,0,4109,8642,77,,00
+40s,M,4,Unknown,Unknown,$80K - $120K,Blue,3 - 4,1,4,1,7953,0,7953,8670,74,,00
+20s,M,0,Post-Graduate,Divorced,$60K - $80K,Blue,1 - 2,2,1,3,8022,0,8022,5660,59,,00
+50s,F,1,Graduate,Single,Less than $40K,Blue,3 - 4,1,3,2,5541,2517,3024,9195,73,,45
+40s,M,3,High School,Married,$80K - $120K,Blue,2 - 3,1,3,2,22993,0,22993,7867,75,,00
+30s,F,0,Graduate,Divorced,Less than $40K,Blue,1 - 2,5,1,1,4203,996,3207,7292,68,,24
+50s,F,2,Graduate,Married,Less than $40K,Silver,3 - 4,6,3,3,12207,0,12207,5838,74,,00
+50s,M,3,Unknown,Single,$60K - $80K,Blue,4 - 5,1,6,1,5859,0,5859,8004,82,,00
+40s,M,3,Unknown,Married,$60K - $80K,Silver,2 - 3,1,3,4,27945,0,27945,8345,70,,00
+50s,M,1,Post-Graduate,Unknown,$80K - $120K,Blue,2 - 3,1,3,2,18512,1664,16848,8019,57,,09
+40s,M,5,Uneducated,Single,$80K - $120K,Blue,2 - 3,4,3,3,12094,0,12094,8607,90,,00
+40s,F,2,College,Single,Less than $40K,Blue,2 - 3,4,2,3,5989,0,5989,5843,60,,00
+40s,M,5,High School,Divorced,$120K +,Blue,2 - 3,2,3,2,5287,0,5287,8392,69,,00
+40s,M,3,Graduate,Single,$80K - $120K,Blue,1 - 2,1,2,2,32554,0,32554,8528,87,,00
+30s,M,0,Post-Graduate,Single,$40K - $60K,Blue,1 - 2,1,1,3,4015,0,4015,8363,65,,00
+30s,M,2,High School,Single,$60K - $80K,Blue,2 - 3,2,3,2,9719,2517,7202,9183,51,,26
+40s,M,2,Graduate,Married,$80K - $120K,Blue,2 - 3,1,3,3,14774,2517,12257,8293,63,,17
+30s,M,4,Unknown,Married,$60K - $80K,Gold,2 - 3,4,3,2,34516,2517,31999,8248,66,,07
+40s,M,2,College,Married,$80K - $120K,Blue,2 - 3,2,3,3,14682,2517,12165,8193,72,,17
+40s,M,4,High School,Married,$80K - $120K,Blue,2 - 3,2,3,2,10588,503,10085,7886,70,,05
+50s,F,4,Uneducated,Divorced,Unknown,Blue,3 - 4,4,4,1,12091,0,12091,8127,74,,00
+50s,M,4,Unknown,Divorced,$120K +,Blue,2 - 3,2,2,3,13694,2219,11475,9040,63,,16
+50s,F,2,High School,Married,Less than $40K,Blue,3 - 4,4,3,3,9463,764,8699,7106,61,,08
+30s,M,2,Graduate,Married,Less than $40K,Silver,1 - 2,1,1,3,10017,726,9291,9299,68,,07
+30s,M,2,Uneducated,Unknown,$80K - $120K,Blue,1 - 2,1,1,2,31832,518,31314,10201,59,,02
+30s,M,3,High School,Unknown,$80K - $120K,Silver,1 - 2,1,2,3,34516,0,34516,9177,50,,00
+40s,F,3,Doctorate,Married,Less than $40K,Blue,2 - 3,2,3,2,4779,2517,2262,8912,63,,53
+40s,M,4,Uneducated,Single,$80K - $120K,Blue,2 - 3,6,3,2,34516,572,33944,8659,81,,02
+50s,F,2,Unknown,Single,Unknown,Silver,3 - 4,2,2,3,34516,1783,32733,8472,80,,05
+50s,M,1,Graduate,Single,$80K - $120K,Silver,3 - 4,6,3,3,34516,432,34084,9045,72,,01
+40s,M,3,Graduate,Divorced,$40K - $60K,Blue,2 - 3,1,2,2,3575,0,3575,7672,66,,00
+40s,F,2,Graduate,Unknown,$40K - $60K,Blue,2 - 3,2,3,3,5508,0,5508,7507,78,,00
+50s,M,1,Uneducated,Single,$60K - $80K,Blue,2 - 3,6,4,3,15219,2281,12938,7625,78,,15
+40s,M,4,Graduate,Married,$80K - $120K,Blue,2 - 3,1,3,6,4725,1253,3472,9134,77,,27
+50s,F,4,Graduate,Single,Less than $40K,Blue,3 - 4,1,2,3,3699,913,2786,7297,71,,25
+40s,M,3,Graduate,Unknown,$60K - $80K,Gold,2 - 3,2,3,2,34516,2517,31999,6782,67,,07
+40s,M,4,Graduate,Single,$80K - $120K,Blue,2 - 3,2,3,2,3999,0,3999,7567,76,,00
+50s,M,3,Graduate,Single,$60K - $80K,Blue,3 - 4,2,4,2,4178,0,4178,7914,54,,00
+50s,M,1,Graduate,Divorced,$80K - $120K,Blue,3 - 4,1,3,3,9580,132,9448,5385,51,,01
+50s,M,2,Unknown,Single,$120K +,Blue,3 - 4,2,4,2,14938,0,14938,8192,80,,00
+40s,M,2,Uneducated,Married,$80K - $120K,Blue,2 - 3,6,2,3,20798,1059,19739,8038,90,,05
+40s,M,2,Graduate,Married,$80K - $120K,Blue,2 - 3,4,3,3,24844,1273,23571,6549,75,,05
+40s,F,3,Post-Graduate,Divorced,Less than $40K,Blue,2 - 3,5,3,1,9943,2138,7805,8325,54,,21
+40s,M,0,College,Single,$80K - $120K,Blue,3 - 4,2,3,3,16983,0,16983,8526,79,,00
+30s,M,2,Unknown,Married,$120K +,Blue,2 - 3,6,3,3,34516,2517,31999,7866,63,,07
+30s,F,2,Unknown,Married,Unknown,Silver,1 - 2,2,2,2,31718,0,31718,7432,64,,00
+40s,M,2,College,Single,$80K - $120K,Blue,2 - 3,1,3,1,9959,2517,7442,8847,85,,25
+50s,M,2,Post-Graduate,Single,$80K - $120K,Silver,3 - 4,2,3,3,34516,1847,32669,7842,61,,05
+40s,M,3,Graduate,Married,$60K - $80K,Blue,2 - 3,5,3,6,5500,442,5058,7720,67,,08
+40s,M,3,Uneducated,Married,$120K +,Blue,3 - 4,2,3,3,8549,0,8549,9192,77,,00
+50s,M,2,Unknown,Married,Less than $40K,Blue,3 - 4,5,3,1,4390,0,4390,8454,69,,00
+50s,M,1,College,Single,$80K - $120K,Blue,3 - 4,2,2,3,24884,0,24884,5107,53,,00
+50s,F,3,Uneducated,Single,Less than $40K,Blue,3 - 4,2,5,4,4841,859,3982,8918,87,,18
+30s,M,2,Unknown,Unknown,$80K - $120K,Blue,1 - 2,2,1,3,4246,2517,1729,8102,66,,59
+50s,M,1,Unknown,Single,$80K - $120K,Blue,2 - 3,2,3,2,11077,573,10504,8165,87,,05
+40s,M,5,Graduate,Single,$40K - $60K,Blue,3 - 4,2,3,3,4446,0,4446,8753,76,,00
+50s,M,1,Post-Graduate,Unknown,$80K - $120K,Blue,2 - 3,4,3,3,23714,0,23714,8463,62,,00
+30s,M,3,Post-Graduate,Single,$40K - $60K,Blue,2 - 3,2,3,2,3744,0,3744,8202,69,,00
+50s,M,0,High School,Single,$80K - $120K,Gold,3 - 4,5,2,6,34516,0,34516,8480,71,,00
+40s,F,1,Uneducated,Single,$40K - $60K,Gold,2 - 3,3,2,1,23981,1454,22527,9140,64,,06
+50s,M,3,High School,Single,$80K - $120K,Silver,2 - 3,2,2,3,34516,0,34516,6361,74,,00
+50s,F,1,High School,Single,Unknown,Blue,3 - 4,3,3,2,9701,0,9701,9404,62,,00
+30s,F,0,Uneducated,Married,Less than $40K,Blue,1 - 2,3,1,3,6075,0,6075,9242,63,,00
+40s,M,2,Post-Graduate,Single,$60K - $80K,Blue,2 - 3,2,3,3,17306,0,17306,6205,65,,00
+40s,F,4,Uneducated,Single,Less than $40K,Gold,2 - 3,3,3,3,15987,0,15987,7832,73,,00
+50s,M,0,College,Married,$80K - $120K,Blue,4 - 5,3,2,3,12918,2352,10566,9138,76,,18
+50s,F,1,High School,Single,Less than $40K,Blue,4 - 5,1,0,3,4085,0,4085,7597,71,,00
+40s,F,3,Unknown,Single,Less than $40K,Blue,3 - 4,2,2,2,5855,0,5855,9202,80,,00
+50s,F,3,Uneducated,Married,Less than $40K,Blue,2 - 3,3,3,3,7428,0,7428,8078,62,,00
+50s,M,2,Graduate,Single,$80K - $120K,Silver,3 - 4,3,4,6,34516,0,34516,7661,79,,00
+40s,F,5,Post-Graduate,Unknown,Less than $40K,Blue,2 - 3,3,3,2,9073,2466,6607,6793,60,,27
+30s,M,0,Graduate,Married,Less than $40K,Blue,2 - 3,3,2,3,6911,2517,4394,8123,71,,36
+40s,M,4,Unknown,Married,$80K - $120K,Blue,3 - 4,3,3,2,34516,289,34227,8964,76,,01
+40s,M,3,College,Married,$60K - $80K,Blue,3 - 4,3,3,2,13344,1907,11437,8534,86,,14
+50s,M,1,Unknown,Single,$120K +,Blue,3 - 4,4,3,2,32563,0,32563,9220,81,,00
+60s,M,1,High School,Single,Less than $40K,Blue,4 - 5,4,4,5,4613,0,4613,8970,78,,00
+30s,F,0,Doctorate,Married,Less than $40K,Blue,2 - 3,2,3,2,3876,0,3876,7712,73,,00
+30s,M,3,Graduate,Married,$40K - $60K,Blue,1 - 2,2,2,2,3264,0,3264,6439,63,,00
+50s,M,1,Unknown,Single,$40K - $60K,Blue,2 - 3,3,3,4,4826,0,4826,8585,62,,00
+40s,M,5,Graduate,Married,$60K - $80K,Blue,2 - 3,1,2,3,4259,0,4259,7993,71,,00
+30s,M,0,College,Single,$60K - $80K,Blue,1 - 2,3,2,3,4097,0,4097,8376,64,,00
+40s,F,3,High School,Married,Less than $40K,Blue,2 - 3,3,3,3,3952,0,3952,8241,82,,00
+40s,F,4,Unknown,Single,Unknown,Blue,2 - 3,2,2,3,29295,0,29295,9865,65,,00
+50s,F,0,Graduate,Married,Less than $40K,Blue,3 - 4,2,3,1,4935,1574,3361,8527,84,,32
+40s,M,2,Graduate,Married,$80K - $120K,Blue,2 - 3,3,3,2,12933,2239,10694,6564,56,,17
+30s,F,2,Unknown,Single,Less than $40K,Blue,2 - 3,2,3,3,6071,0,6071,9338,59,,00
+30s,M,2,Uneducated,Married,$120K +,Silver,1 - 2,2,1,2,34516,796,33720,7721,75,,02
+40s,M,3,Uneducated,Single,$40K - $60K,Blue,2 - 3,3,3,3,9267,0,9267,7991,90,,00
+50s,M,3,College,Single,$80K - $120K,Silver,2 - 3,3,3,2,34516,2517,31999,7155,66,,07
+40s,M,3,Doctorate,Single,$80K - $120K,Blue,2 - 3,2,2,3,24001,1629,22372,9102,75,,07
+30s,F,2,Uneducated,Unknown,Less than $40K,Silver,2 - 3,5,2,6,12203,0,12203,8600,94,,00
+50s,M,2,Uneducated,Unknown,$80K - $120K,Blue,3 - 4,4,1,3,30543,264,30279,7784,63,,01
+40s,F,3,Graduate,Married,Less than $40K,Blue,2 - 3,2,4,3,5230,2517,2713,9495,61,,48
+30s,M,0,Post-Graduate,Married,$60K - $80K,Blue,2 - 3,6,2,2,4469,2331,2138,8314,67,,52
+40s,M,3,Graduate,Single,$40K - $60K,Blue,2 - 3,4,3,3,4413,232,4181,7869,76,,05
+50s,M,1,Unknown,Married,$40K - $60K,Blue,2 - 3,4,3,3,8455,2517,5938,8124,73,,30
+40s,F,1,Graduate,Married,Less than $40K,Silver,2 - 3,2,3,3,11059,0,11059,9524,80,,00
+30s,M,1,Graduate,Married,$80K - $120K,Blue,2 - 3,2,2,3,24239,0,24239,8549,73,,00
+40s,M,3,High School,Unknown,$120K +,Blue,2 - 3,2,3,2,7793,2270,5523,8260,54,,29
+50s,M,5,High School,Married,$80K - $120K,Blue,3 - 4,2,1,3,7464,0,7464,9071,74,,00
+20s,M,0,Graduate,Single,$120K +,Blue,1 - 2,2,2,3,11722,0,11722,8302,78,,00
+40s,M,4,High School,Married,Less than $40K,Blue,2 - 3,2,3,3,7769,0,7769,8109,74,,00
+50s,M,2,Graduate,Divorced,$80K - $120K,Silver,3 - 4,4,3,2,34516,751,33765,5806,40,,02
+40s,F,3,Doctorate,Single,Less than $40K,Blue,2 - 3,1,2,2,6261,463,5798,8132,64,,07
+50s,M,3,Graduate,Married,$80K - $120K,Silver,2 - 3,2,3,1,34516,761,33755,8444,68,,02
+50s,M,0,Uneducated,Single,$40K - $60K,Blue,4 - 5,1,2,2,14458,2017,12441,8696,72,,14
+40s,M,5,College,Single,$40K - $60K,Blue,2 - 3,4,3,3,4982,0,4982,8586,58,,00
+30s,M,1,Post-Graduate,Single,Less than $40K,Silver,2 - 3,6,3,5,12359,0,12359,7528,70,,00
+40s,F,2,Graduate,Single,$40K - $60K,Silver,2 - 3,4,3,3,17909,0,17909,5977,58,,00
+40s,M,2,High School,Married,$60K - $80K,Gold,3 - 4,5,3,6,34516,2517,31999,9314,89,,07
+50s,M,5,Graduate,Divorced,$120K +,Blue,3 - 4,6,3,6,34516,0,34516,8173,91,,00
+40s,F,5,High School,Single,Less than $40K,Blue,3 - 4,1,4,3,8297,2517,5780,9819,74,,30
+30s,M,1,Unknown,Married,$40K - $60K,Blue,1 - 2,1,1,2,9664,1983,7681,7995,56,,20
+40s,F,3,Uneducated,Unknown,Less than $40K,Blue,1 - 2,1,2,2,8256,2416,5840,8104,64,,29
+30s,M,0,Graduate,Divorced,$80K - $120K,Silver,1 - 2,1,2,3,34516,400,34116,5112,49,,01
+40s,M,4,Unknown,Married,$80K - $120K,Blue,2 - 3,1,3,6,23502,0,23502,7957,60,,00
+30s,F,1,Graduate,Married,Less than $40K,Blue,1 - 2,1,2,3,4065,230,3835,7844,64,,06
+30s,M,3,Graduate,Single,$80K - $120K,Blue,1 - 2,1,1,2,4116,1473,2643,8667,70,,36
+30s,M,3,High School,Single,$80K - $120K,Blue,1 - 2,2,1,3,8656,0,8656,8056,89,,00
+20s,M,0,High School,Single,$40K - $60K,Blue,2 - 3,6,3,1,5988,660,5328,10211,68,,11
+50s,F,2,Post-Graduate,Single,Less than $40K,Blue,3 - 4,2,3,2,4917,0,4917,9442,69,,00
+40s,F,4,High School,Single,Less than $40K,Blue,2 - 3,6,3,3,4720,0,4720,8798,67,,00
+50s,M,2,Unknown,Single,$60K - $80K,Blue,3 - 4,2,2,3,5905,0,5905,8883,83,,00
+50s,M,3,Doctorate,Married,$120K +,Blue,3 - 4,1,3,3,34516,550,33966,7341,71,,02
+30s,M,0,Graduate,Married,$40K - $60K,Blue,1 - 2,6,2,4,4063,0,4063,7463,70,,00
+20s,M,1,High School,Single,$60K - $80K,Blue,1 - 2,6,1,3,17744,829,16915,9658,78,,05
+50s,F,4,Post-Graduate,Married,$40K - $60K,Silver,3 - 4,1,3,3,3735,0,3735,6826,61,,00
+40s,M,4,Uneducated,Married,$60K - $80K,Silver,3 - 4,1,2,2,29076,0,29076,8765,84,,00
+50s,M,4,Graduate,Married,$120K +,Blue,3 - 4,5,2,3,34516,0,34516,8417,72,,00
+40s,F,2,Graduate,Married,$40K - $60K,Blue,2 - 3,6,2,4,4307,0,4307,8697,62,,00
+40s,M,5,Doctorate,Single,$60K - $80K,Silver,2 - 3,2,3,4,34140,0,34140,8177,76,,00
+40s,F,4,Graduate,Single,$40K - $60K,Blue,2 - 3,6,3,3,13753,2517,11236,7464,66,,18
+40s,M,4,High School,Single,$60K - $80K,Blue,2 - 3,6,3,3,18418,0,18418,9980,68,,00
+40s,M,3,Uneducated,Married,$80K - $120K,Blue,2 - 3,6,3,4,6824,2517,4307,9045,67,,37
+50s,M,3,High School,Married,$80K - $120K,Blue,3 - 4,2,4,3,4041,0,4041,8219,84,,00
+40s,F,3,Unknown,Single,$40K - $60K,Silver,2 - 3,2,3,4,19713,531,19182,8301,70,,03
+30s,F,1,Graduate,Single,Less than $40K,Blue,1 - 2,1,1,3,4829,0,4829,8286,65,,00
+50s,M,1,Graduate,Single,$80K - $120K,Blue,4 - 5,2,5,4,15633,0,15633,8660,58,,00
+50s,F,1,Uneducated,Single,Less than $40K,Blue,3 - 4,2,3,3,9129,0,9129,7733,81,,00
+40s,F,3,Unknown,Single,Less than $40K,Blue,2 - 3,1,2,5,7500,0,7500,8024,78,,00
+30s,F,1,Uneducated,Single,Unknown,Blue,2 - 3,2,3,3,21067,0,21067,9212,71,,00
+40s,M,2,Unknown,Single,$60K - $80K,Blue,1 - 2,4,2,4,4283,0,4283,8672,64,,00
+40s,M,2,Unknown,Married,$80K - $120K,Blue,3 - 4,2,3,4,29865,2097,27768,8636,74,,07
+20s,M,1,Graduate,Married,$60K - $80K,Blue,1 - 2,5,1,4,6500,2517,3983,9451,79,,39
+50s,M,5,Uneducated,Married,$80K - $120K,Blue,3 - 4,2,3,4,9959,199,9760,8517,60,,02
+30s,M,2,Unknown,Married,$120K +,Blue,2 - 3,3,3,5,16127,0,16127,7729,82,,00
+50s,M,2,College,Single,$120K +,Blue,2 - 3,4,3,1,4935,0,4935,7886,64,,00
+40s,M,1,Uneducated,Married,$40K - $60K,Blue,2 - 3,5,2,3,10973,0,10973,10583,75,,00
+50s,M,3,Graduate,Single,$80K - $120K,Gold,2 - 3,4,3,3,34516,2201,32315,8614,63,,06
+50s,M,4,Graduate,Married,$120K +,Blue,2 - 3,2,3,5,7684,0,7684,7667,68,,00
+40s,M,5,Uneducated,Single,$120K +,Silver,2 - 3,4,2,1,34516,0,34516,8603,84,,00
+40s,F,3,Unknown,Single,Unknown,Blue,2 - 3,2,3,3,26021,0,26021,8898,60,,00
+30s,M,4,Graduate,Married,$80K - $120K,Blue,2 - 3,1,3,3,3929,542,3387,7773,64,,14
+30s,F,0,Graduate,Single,Less than $40K,Blue,2 - 3,5,3,3,8135,0,8135,8620,67,,00
+40s,M,3,High School,Married,$60K - $80K,Blue,2 - 3,1,2,5,8431,0,8431,5189,57,,00
+50s,F,1,Graduate,Married,Unknown,Silver,3 - 4,4,2,4,33004,2418,30586,10156,72,,07
+50s,M,3,Unknown,Single,$80K - $120K,Blue,3 - 4,1,2,4,3526,2429,1097,7775,63,,69
+30s,M,4,Uneducated,Married,$80K - $120K,Blue,2 - 3,5,2,4,5768,0,5768,9867,78,,00
+40s,F,3,Uneducated,Married,Less than $40K,Blue,2 - 3,1,2,3,9491,0,9491,9061,51,,00
+40s,F,3,Doctorate,Single,Less than $40K,Gold,2 - 3,1,3,5,15164,532,14632,8356,68,,04
+30s,F,0,High School,Single,Unknown,Blue,1 - 2,1,2,4,13894,0,13894,9351,69,,00
+40s,F,3,Unknown,Married,$40K - $60K,Blue,3 - 4,2,3,4,5542,0,5542,8246,59,,00
+50s,M,1,Graduate,Single,$80K - $120K,Blue,2 - 3,6,3,4,22718,0,22718,8100,77,,00
+40s,F,4,Uneducated,Divorced,Less than $40K,Blue,2 - 3,2,3,3,4423,2517,1906,8935,87,,57
+30s,M,4,College,Single,$40K - $60K,Silver,1 - 2,2,1,3,15977,0,15977,7745,64,,00
+50s,M,3,Uneducated,Married,$80K - $120K,Blue,3 - 4,1,3,3,23240,1534,21706,9441,82,,07
+50s,M,2,Unknown,Married,$120K +,Blue,2 - 3,6,2,2,16081,492,15589,6100,61,,03
+50s,F,0,Doctorate,Married,Less than $40K,Blue,2 - 3,4,3,2,4353,1489,2864,9226,85,,34
+40s,M,3,High School,Single,$40K - $60K,Blue,2 - 3,1,3,4,4601,0,4601,9610,76,,00
+40s,F,2,Graduate,Single,Less than $40K,Blue,2 - 3,5,3,6,4458,0,4458,9640,70,,00
+40s,F,4,High School,Unknown,Unknown,Blue,2 - 3,4,3,4,15944,0,15944,9360,67,,00
+30s,F,1,Graduate,Married,Unknown,Blue,1 - 2,4,1,4,4377,2517,1860,8759,74,,57
+40s,M,3,Graduate,Married,$60K - $80K,Blue,2 - 3,1,2,4,4930,159,4771,7412,60,,03
+40s,F,0,Unknown,Married,Less than $40K,Blue,3 - 4,1,3,3,4982,2517,2465,9274,65,,51
+50s,M,2,High School,Single,$120K +,Blue,3 - 4,1,3,2,34162,1723,32439,7572,56,,05
+50s,M,4,Graduate,Divorced,$60K - $80K,Blue,2 - 3,6,3,3,6224,0,6224,8979,68,,00
+50s,F,3,Doctorate,Single,Unknown,Blue,2 - 3,4,3,3,5173,0,5173,8757,68,,00
+50s,M,2,Graduate,Married,$40K - $60K,Blue,2 - 3,2,3,4,5735,0,5735,9088,64,,00
+40s,M,4,College,Married,$80K - $120K,Blue,3 - 4,2,3,3,9524,1449,8075,7527,58,,15
+40s,M,1,Uneducated,Single,$120K +,Blue,2 - 3,5,3,3,5181,0,5181,8943,68,,00
+30s,M,4,High School,Single,$60K - $80K,Silver,2 - 3,1,3,3,28831,2517,26314,8688,69,,09
+30s,M,1,Post-Graduate,Single,$40K - $60K,Blue,1 - 2,4,2,4,4169,534,3635,8565,70,,13
+30s,F,1,Doctorate,Single,Less than $40K,Blue,1 - 2,1,1,3,3709,1180,2529,8130,74,,32
+30s,M,0,Graduate,Single,Less than $40K,Silver,2 - 3,4,3,3,12833,0,12833,9619,75,,00
+40s,F,4,High School,Unknown,Less than $40K,Silver,2 - 3,6,2,2,13651,0,13651,9772,71,,00
+30s,M,2,High School,Divorced,$60K - $80K,Silver,2 - 3,1,2,3,26794,821,25973,8788,58,,03
+40s,F,4,Uneducated,Married,$40K - $60K,Blue,2 - 3,5,2,3,4167,0,4167,7590,87,,00
+30s,M,3,Unknown,Single,$40K - $60K,Blue,2 - 3,6,2,3,13589,2517,11072,9456,79,,18
+50s,F,5,Unknown,Married,Less than $40K,Blue,2 - 3,4,3,3,9611,0,9611,7636,64,,00
+40s,F,3,Graduate,Married,Unknown,Blue,2 - 3,1,2,3,6888,1878,5010,9038,64,,27
+50s,M,3,Graduate,Single,$120K +,Silver,2 - 3,4,3,4,34516,0,34516,9931,70,,00
+50s,M,1,High School,Married,$80K - $120K,Blue,2 - 3,4,3,4,22754,0,22754,8531,77,,00
+50s,F,1,High School,Married,Less than $40K,Blue,4 - 5,1,4,3,5043,743,4300,10170,66,,15
+60s,M,0,Graduate,Single,$60K - $80K,Blue,4 - 5,2,1,4,11859,1644,10215,8930,79,,14
+40s,M,4,Graduate,Divorced,$80K - $120K,Blue,3 - 4,4,3,4,17504,476,17028,10468,66,,03
+30s,M,2,College,Married,$120K +,Gold,1 - 2,2,1,4,34516,0,34516,9338,73,,00
+20s,M,0,High School,Divorced,$60K - $80K,Blue,2 - 3,2,3,2,13303,2517,10786,10219,85,,19
+50s,M,1,Unknown,Unknown,$80K - $120K,Blue,2 - 3,6,3,4,9959,952,9007,10310,63,,10
+50s,F,3,Uneducated,Single,Unknown,Blue,3 - 4,4,3,3,14657,2517,12140,6009,53,,17
+40s,M,2,Unknown,Divorced,$40K - $60K,Blue,2 - 3,4,2,3,4277,2186,2091,8764,69,,51
+40s,F,1,High School,Married,Less than $40K,Blue,2 - 3,5,3,4,5409,0,5409,10291,60,,00
+30s,M,2,Graduate,Unknown,$40K - $60K,Blue,2 - 3,4,3,3,5281,0,5281,8395,62,,00
+40s,F,2,Graduate,Married,Less than $40K,Silver,2 - 3,6,2,4,10388,1961,8427,10294,61,,19
